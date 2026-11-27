@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T05:23:03.238694+00:00
+Última coleta: 2026-11-27T05:32:41.786164+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          947
-  🇨🇳 China          967
+  🇯🇵 Japão          944
+  🇨🇳 China          968
   🇹🇼 Taiwan         331
-  🇰🇷 Coreia do Sul  755
+  🇰🇷 Coreia do Sul  757
 
 ## O que já está no feed (não repita)
 
+  - [china] 1st LD: Chinese premier chairs State Council executive meeting
+  - [korea] Korea’s future fund must not come at the cost of fiscal discipline
+  - [korea] South Korea November exports seen posting fastest growth in over 50 years on AI chip surge: Reuters poll
   - [china] Commentary: Brazil’s Lesson for China — GDP Isn’t Everything
   - [japan] (BOJ Review) Developments in JGB Market-Making Business by Securities Companies
   - [china] China's industrial profits surge 20.1% in October as ten-month growth accelerates to 16%
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] Yu Weining, chief statistician of the Industrial Department of the National Bureau of Statistics, interprets t
   - [china] From January to October 2026, profits of industrial enterprises above designated size nationwide increased by 
   - [taiwan] US Section 301 tariffs spare key chip markets, but Vietnam clouds Taiwan's 2027 outlook
-  - [japan] Japan MOF To Auction Y3.1T Of TD-Bills Dec 4
-  - [korea] Samsung revamps chip division to speed next-gen development
-  - [china] The central bank launched a 794 billion overnight reverse repurchase operation, with a net investment of 222.5
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T05:23:03+00:00",
+      "published_utc": "2026-11-27T05:32:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
