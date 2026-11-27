@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-11-27T13:12:55.087091+00:00",
- "collected_at_utc": "2026-11-27T13:12:55.087091+00:00",
+ "generated_at_utc": "2026-11-27T13:22:44.601493+00:00",
+ "collected_at_utc": "2026-11-27T13:22:44.601493+00:00",
  "degraded": false,
- "sources_ok": 39,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,24 +11,8 @@
   "taiwan": 344,
   "korea": 740
  },
- "elapsed_s": 33.4,
+ "elapsed_s": 28.7,
  "sources": [
-  {
-   "source_id": "nhk_politics",
-   "name": "NHK 政治",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "nhk_economy",
-   "name": "NHK 経済",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -51,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T08:11:00+00:00"
+   "newest": "2026-11-27T09:22:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -59,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T07:23:26+00:00"
+   "newest": "2026-11-27T07:53:57+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -91,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-27T13:04:42+00:00"
+   "newest": "2026-11-27T13:21:11+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -115,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T07:00:00+00:00"
+   "newest": "2026-11-27T02:38:39+00:00"
   },
   {
    "source_id": "ked_global",
@@ -190,6 +174,22 @@
    "newest": "2026-11-27T07:22:29+00:00"
   },
   {
+   "source_id": "nhk_politics",
+   "name": "NHK 政治",
+   "ok": true,
+   "count": 60,
+   "error": "",
+   "newest": "2026-11-27T21:59:54+09:00"
+  },
+  {
+   "source_id": "nhk_economy",
+   "name": "NHK 経済",
+   "ok": true,
+   "count": 60,
+   "error": "",
+   "newest": "2026-11-27T21:42:20+09:00"
+  },
+  {
    "source_id": "nikkei_asia",
    "name": "Nikkei Asia",
    "ok": true,
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T05:33:00+00:00"
+   "newest": "2026-11-27T06:52:18+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -283,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T13:03:30+00:00"
+   "newest": "2026-11-27T13:12:15+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T12:00:42+00:00"
+   "newest": "2026-11-27T08:40:10+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -342,10 +342,7 @@
    "newest": "2026-11-27T01:37:00+00:00"
   }
  ],
- "falhas_seguidas": {
-  "nhk_politics": 1,
-  "nhk_economy": 1
- },
+ "falhas_seguidas": {},
  "items": [
   {
    "source_id": "tradingview_live",
@@ -2392,7 +2389,7 @@
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Trump calls for 200% semiconductor tariff; Taiwan says cap is 15%",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ2VkejdJTlpXZzNYeEd4SUptZHlQdkRiNWRaVThITHZHZ1RCREpDQlc5dldIVWZvS1NfeGJLd01TRXRTY2RNV0JTZERIVjZTcWM4NWF5TFVSWUdqeEZlbFlXWEl6YzhrV0cxYnRUcktrcWprZWZkbGw2R2pnX2JYLU0zbTBENE11VW5kU1VBdm56S0lVNmRub1RIQ21hVWlTejNB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb3VNQ05abXFnN3MyYVRMVTRqb2hDZlRNdDhqZDR1X2dOTTZQWDJhZXRzNmxyN1ZLQTBKQmlaR0QyejIzYkY0SUtCZmZxT3haTmZSVWxEVklpT1NzcXduUVA0ckZWeGEtOGt3WUUtNUdqQ2M3ZC1qSGk0WTRVcWxoM2UyM2dTdUlvNGJKalJVaERYc3ZnU0ZJVS1qTE41RUpYVEE?oc=5",
    "published_utc": "2026-11-26T22:41:23+00:00",
    "title_original": "Trump calls for 200% semiconductor tariff; Taiwan says cap is 15%",
    "region": "taiwan",
@@ -2404,7 +2401,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "8645cc1d3a719761"
+   "id": "77395d1dfddeb88f"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -9751,6 +9748,24 @@
    "id": "7c8dca0001fef26c"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "ThePaper.cn",
+   "title_en": "Central Bank: Will launch 500 billion yuan 7-day reverse repurchase operation on November 25",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFN1U4VV9qTGIyd2FzZGhDYXZySU1pRE9ndlhvcWxTdnFGeWVuNlRiMWNKNDNkNDE0Yi0tYTRrVVNINXBBSm1lVldhcVViTDBEcWRHU2k0LXpVUEs4MmdpWA?oc=5",
+   "published_utc": "2026-11-24T09:34:34+00:00",
+   "title_original": "央行：11月25日将开展5000亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e1e76ede17ef3679"
+  },
+  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "TSMC eyes US$22.6 billion Texas campus for 2nm chips",
@@ -9766,24 +9781,6 @@
    "live_wire": false,
    "manual": false,
    "id": "df90a5b53e6accb5"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "京报网",
-   "title_en": "The central bank will launch a 500 billion yuan 7-day reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT040NWxCNGFoZlpvak5WUVFYMks4S3RtMGd5MG5PSlFKVm5oQy1aZ0NrWDlTSXpFR3AzRDhjOHcwZDcxczN2cGRTUDVFRGVjOTM5ZkIwRDNaN3BOZ1NVbWhYbVJreDNYbEhsYW5QYmhPYUV5SWVvX0JNRzRhYXE2ZVZJZHROU1RITE9PSFFNODZod00?oc=5",
-   "published_utc": "2026-11-24T09:31:00+00:00",
-   "title_original": "央行将开展5000亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "08054d5f4cdea296"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -9871,6 +9868,24 @@
    "live_wire": true,
    "manual": false,
    "id": "00a31c8fa34a7cc7"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中新经纬",
+   "title_en": "The central bank will launch a 500 billion yuan 7-day reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tdjYxMWFiUTFObGZ5LW85RUJNaGIwLVppdnJnajlZOFd1Nm8yQWpqSDZDSVJjbmlTMXl5ZXlOcFJPeUstUktEbFhFdVV5cVFpejZuTUhaSGJHSktVUDNocDJyRGU?oc=5",
+   "published_utc": "2026-11-24T09:16:00+00:00",
+   "title_original": "央行将开展5000亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5e46342f504e09f7"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -10221,24 +10236,6 @@
    "live_wire": false,
    "manual": false,
    "id": "8bf9c875b2192dbd"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "Central Bank: Will launch 500 billion yuan 7-day reverse repurchase operation on November 25",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JX3Rtb3VBZ3d4QmU0WVYzZHA0OUxXODB3dmJfYmVWZ0RhWkJDN0xQX3pqck9WdFhvX1lTMW56VHVENmZ3UjdWSFRZdWUtY1JEd1JJRFRsaTZZMnU4NnlzZjdXbnBYQQ?oc=5",
-   "published_utc": "2026-11-24T08:00:00+00:00",
-   "title_original": "央行：11月25日将开展5000亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7e0e651fb9f70ac6"
   },
   {
    "source_id": "focus_taiwan",
