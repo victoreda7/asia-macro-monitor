@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T15:12:43.422152+00:00
+Última coleta: 2026-11-27T15:22:49.317116+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          943
@@ -20,6 +20,7 @@ Total: 3000 manchetes
   - [korea] Micron, SK Hynix and SanDisk Stocks Rise — What's the Verdict on Demand?
   - [japan] Liberal Democratic Party Vice President Aso, Foreign Minister Motegi and others meet to pass consumption tax r
   - [china] Aluminum Corporation Of China Says Guinea Subsidiary Signs EPC Contract With China Aluminum International Engi
+  - [japan] School bullying in Japan hit record high in fiscal 2025
   - [china] EU weighs tighter export controls to prevent battery waste going to China
   - [china] China's central bank promises flexible and effective use of monetary policy tools
   - [korea] Daesang Corporation Seaweed Sales Rose ~30% to KRW 200.0B
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Euro Set for Biggest Drop in Two Decades Against Yuan This Year
   - [korea] Sk Hynix Solidigm Reviewing Various Options To Expand Production Capacity, But Nothing Decided Yet On Reported
   - [japan] Tax exemption for donations of funds for home purchase to be extended and expanded LDP Executive Committee
-  - [china] To protect cross-month liquidity, the central bank launched 794 billion yuan in overnight reverse repurchases
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T15:12:43+00:00",
+      "published_utc": "2026-11-27T15:22:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
