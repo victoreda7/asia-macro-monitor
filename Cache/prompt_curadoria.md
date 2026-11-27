@@ -7,16 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T08:13:05.859242+00:00
+Última coleta: 2026-11-27T08:22:41.079794+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          948
+  🇯🇵 Japão          945
   🇨🇳 China          974
-  🇹🇼 Taiwan         336
-  🇰🇷 Coreia do Sul  742
+  🇹🇼 Taiwan         337
+  🇰🇷 Coreia do Sul  744
 
 ## O que já está no feed (não repita)
 
+  - [korea] S. Korea's semiconductor boom masks consumption slump amid rate hikes, stock rout: media
+  - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Charitable Contribution
+  - [japan] Altria, fabricante de Marlboro, e Japan Tobacco podem ser sócias na concorrente Imperial
+  - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Transaction with Affiliate Company
+  - [taiwan] Taiwan raises 2026 GDP growth projection to 13.28% on strong AI demand
   - [taiwan] Taiwan 2027 Real GDP Forecast +6.51%
   - [taiwan] Taiwan 2026 GDP Forecast +13.28%
   - [taiwan] Taiwan Revises 3Q GDP To +2.86% On Quarter Vs +3.21% Estimate
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [japan] (BOJ Review) Developments in JGB Market-Making Business by Securities Companies
   - [china] China's industrial profits surge 20.1% in October as ten-month growth accelerates to 16%
   - [china] Emdoor Says To Buy Digital Solutions Firm For 715 Mln Yuan
-  - [china] Neoclouds Told To Choose: Nvidia Chips Or Chinese Customers
-  - [china] Yuan eases on tariff fears despite four-year fixing high
-  - [japan] Japan Core Inflation Expected to Hover Near 2% in Early FY2027 — Market Talk
-  - [japan] Japan Core Inflation Likely at 2.6% in November, Barclays Says — Market Talk
-  - [japan] Consumer price index for Tokyo's 23 wards rose 2.9% in November, exceeding 2% for 3 consecutive months (TV Asa
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T08:13:06+00:00",
+      "published_utc": "2026-11-27T08:22:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
