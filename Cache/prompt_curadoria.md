@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T14:42:43.081981+00:00
+Última coleta: 2026-11-27T14:52:43.832100+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          942
-  🇨🇳 China          973
+  🇯🇵 Japão          943
+  🇨🇳 China          972
   🇹🇼 Taiwan         344
   🇰🇷 Coreia do Sul  741
 
 ## O que já está no feed (não repita)
 
+  - [japan] Liberal Democratic Party Vice President Aso, Foreign Minister Motegi and others meet to pass consumption tax r
   - [china] Aluminum Corporation Of China Says Guinea Subsidiary Signs EPC Contract With China Aluminum International Engi
   - [china] China's central bank promises flexible and effective use of monetary policy tools
   - [korea] Daesang Corporation Seaweed Sales Rose ~30% to KRW 200.0B
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] To protect cross-month liquidity, the central bank launched 794 billion yuan in overnight reverse repurchases
   - [japan] Confirmed before the Bank of Japan meeting, 5-year term deposits in Osaka and Kanto are around 2% per year. Co
   - [korea] S. Korea's semiconductor boom masks consumption slump amid rate hikes, stock rout: media
-  - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Charitable Contribution
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T14:42:43+00:00",
+      "published_utc": "2026-11-27T14:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
