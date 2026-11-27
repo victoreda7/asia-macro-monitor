@@ -7,21 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T21:32:42.749837+00:00
+Última coleta: 2026-11-27T21:42:43.445087+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          950
-  🇨🇳 China          971
+  🇯🇵 Japão          952
+  🇨🇳 China          969
   🇹🇼 Taiwan         339
   🇰🇷 Coreia do Sul  740
 
 ## O que já está no feed (não repita)
 
+  - [japan] Tokyo leads world in office rent, price growth as employers vie for prime space
   - [taiwan] Semiconductor competition between Taiwan and South Korea extends to the advanced packaging field! Samsung, TSM
   - [japan] Behind the Tamahome fraudulent billing issue is a "blind spot" in insurance industry regulation, and there is 
   - [japan] 505 yen lunch box excluding tax: ``505 yen if you take it home, 550 yen if you eat it inside'' Unable to shake
   - [china] Lithium Price Outlook as Sellers Target 80,000 Yuan After Failed Recovery
   - [japan] The cost was surprisingly high... The true nature of the "ominous dissonance" between the Liberal Democratic P
+  - [japan] The consumer price index (excluding fresh food) in Tokyo's wards increased by 2.9%, expanding due to the end o
   - [taiwan] TSMC Stocks Climb 1.84% as U.S. Tariff Proposal Leaves Chips Off the List
   - [korea] SK hynix Stocks Jump 5.41% as 100 Trillion Won Payout Plan Sinks In
   - [korea] Samsung Electronics Stocks Jump 4.55% as Seoul Rallies on Stabilization Hopes
@@ -40,6 +42,7 @@ Total: 3000 manchetes
   - [korea] Micron, SK Hynix and SanDisk Stocks Rise — What's the Verdict on Demand?
   - [japan] Liberal Democratic Party Vice President Aso, Foreign Minister Motegi and others meet to pass consumption tax r
   - [china] Aluminum Corporation Of China Says Guinea Subsidiary Signs EPC Contract With China Aluminum International Engi
+  - [japan] School bullying in Japan hit record high in fiscal 2025 | NHK WORLD-JAPAN News
   - [japan] School bullying in Japan hit record high in fiscal 2025
   - [china] EU weighs tighter export controls to prevent battery waste going to China
   - [korea] Samsung revamps chip division to sharpen its AI edge
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] EU launches anti-dumping probe into China, Singapore sustainable aviation fuel imports
   - [japan] Electricity charges for December usage drop at 10 major companies due to resumption of government subsidies
   - [taiwan] Taiwan's 2026 GDP growth forecast raised to 13.28%, highest since 1978
-  - [china] CMST Development Plans To Register 4 Billion Yuan Debt Financing Instruments
-  - [korea] Why South Korea’s chip boom is now a US tariff trap as a US$350b pledge looms
-  - [china] Zhifei Biological Products Says Manufacturing Registration Application For Semaglutide Injection For Weight Ma
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T21:32:42+00:00",
+      "published_utc": "2026-11-27T21:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
