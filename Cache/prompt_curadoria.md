@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T11:42:43.745910+00:00
+Última coleta: 2026-11-27T11:52:42.528903+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          944
   🇨🇳 China          970
-  🇹🇼 Taiwan         343
-  🇰🇷 Coreia do Sul  743
+  🇹🇼 Taiwan         344
+  🇰🇷 Coreia do Sul  742
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Taiwan's 2026 GDP growth forecast raised to 13.28%, highest since 1978
   - [china] CMST Development Plans To Register 4 Billion Yuan Debt Financing Instruments
   - [korea] Why South Korea’s chip boom is now a US tariff trap as a US$350b pledge looms
   - [china] Zhifei Biological Products Says Manufacturing Registration Application For Semaglutide Injection For Weight Ma
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Tokyo to add more municipal crematoriums included in supplementary budget (TBS NEWS DIG Powered by JNN)
   - [china] Update: Chinese premier chairs State Council executive meeting
   - [taiwan] From lab to fab: Taiwan's supply chain holds key to mass-producing silicon photonics and CPO
-  - [china] China's State Council appoints, removes officials
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T11:42:43+00:00",
+      "published_utc": "2026-11-27T11:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
