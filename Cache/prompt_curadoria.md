@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T15:22:49.317116+00:00
+Última coleta: 2026-11-27T15:32:48.718240+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          943
@@ -18,6 +18,7 @@ Total: 3000 manchetes
 ## O que já está no feed (não repita)
 
   - [korea] Micron, SK Hynix and SanDisk Stocks Rise — What's the Verdict on Demand?
+  - [china] Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang
   - [japan] Liberal Democratic Party Vice President Aso, Foreign Minister Motegi and others meet to pass consumption tax r
   - [china] Aluminum Corporation Of China Says Guinea Subsidiary Signs EPC Contract With China Aluminum International Engi
   - [japan] School bullying in Japan hit record high in fiscal 2025
@@ -32,7 +33,6 @@ Total: 3000 manchetes
   - [china] NVIDIA Blackwell chips surface at China site tied to Megaspeed - Bloomberg
   - [china] EU launches anti-dumping probe into China, Singapore sustainable aviation fuel imports
   - [japan] Electricity charges for December usage drop at 10 major companies due to resumption of government subsidies
-  - [china] Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang
   - [taiwan] Taiwan's 2026 GDP growth forecast raised to 13.28%, highest since 1978
   - [china] CMST Development Plans To Register 4 Billion Yuan Debt Financing Instruments
   - [korea] Why South Korea’s chip boom is now a US tariff trap as a US$350b pledge looms
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T15:22:49+00:00",
+      "published_utc": "2026-11-27T15:32:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
