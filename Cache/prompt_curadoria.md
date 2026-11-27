@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T09:02:44.176440+00:00
+Última coleta: 2026-11-27T09:12:41.849005+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          946
-  🇨🇳 China          973
-  🇹🇼 Taiwan         338
+  🇨🇳 China          971
+  🇹🇼 Taiwan         340
   🇰🇷 Coreia do Sul  743
 
 ## O que já está no feed (não repita)
@@ -36,8 +36,10 @@ Total: 3000 manchetes
   - [japan] JGB Monthly Newsletter (November 2026)
   - [japan] Tokyo to add more municipal crematoriums included in supplementary budget (TBS NEWS DIG Powered by JNN)
   - [china] Update: Chinese premier chairs State Council executive meeting
+  - [taiwan] From lab to fab: Taiwan's supply chain holds key to mass-producing silicon photonics and CPO
   - [china] China's State Council appoints, removes officials
   - [china] New U.S. Tariffs Unlikely to Derail U.S.-China Economic Relations — Market Talk
+  - [taiwan] TSMC's A14 ready for chip design
   - [japan] School bullying in Japan hit record high in fiscal 2025
   - [korea] Huawei, Kioxia challenge Samsung, SK hynix’s HBM dominance
   - [china] China’s factory slump likely extends to November despite solid exports
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Decision to Impose Anti-Dumping Duties on Bisphenol A Originating in the Republic of Korea and the Separate Cu
   - [japan] Former Bank of Japan Governor Haruhiko Kuroda hopes for skill in central bank coordination between Japan, the 
   - [china] Asian stocks jump on U.S. futures rally, China profit beats, shrugging off tariff risks
-  - [china] 1st LD: Chinese premier chairs State Council executive meeting
-  - [china] Chinese premier chairs State Council executive meeting
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T09:02:44+00:00",
+      "published_utc": "2026-11-27T09:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
