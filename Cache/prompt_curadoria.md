@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T05:12:44.156431+00:00
+Última coleta: 2026-11-27T05:23:03.238694+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          948
-  🇨🇳 China          966
+  🇯🇵 Japão          947
+  🇨🇳 China          967
   🇹🇼 Taiwan         331
   🇰🇷 Coreia do Sul  755
 
 ## O que já está no feed (não repita)
 
+  - [china] Commentary: Brazil’s Lesson for China — GDP Isn’t Everything
   - [japan] (BOJ Review) Developments in JGB Market-Making Business by Securities Companies
   - [china] China's industrial profits surge 20.1% in October as ten-month growth accelerates to 16%
   - [china] Chinese premier chairs State Council executive meeting
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan MOF To Auction Y3.1T Of TD-Bills Dec 4
   - [korea] Samsung revamps chip division to speed next-gen development
   - [china] The central bank launched a 794 billion overnight reverse repurchase operation, with a net investment of 222.5
-  - [japan] Tokyo's 23 wards Consumer price index rose 2.9% in November The growth rate increased from the previous month 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T05:12:44+00:00",
+      "published_utc": "2026-11-27T05:23:03+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
