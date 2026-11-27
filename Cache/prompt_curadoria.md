@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T22:03:10.048940+00:00
+Última coleta: 2026-11-27T22:12:41.084389+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          952
@@ -42,6 +42,7 @@ Total: 3000 manchetes
   - [korea] Micron, SK Hynix and SanDisk Stocks Rise — What's the Verdict on Demand?
   - [japan] Liberal Democratic Party Vice President Aso, Foreign Minister Motegi and others meet to pass consumption tax r
   - [china] Aluminum Corporation Of China Says Guinea Subsidiary Signs EPC Contract With China Aluminum International Engi
+  - [japan] School bullying in Japan hit record high in fiscal 2025 | NHK WORLD-JAPAN News
   - [japan] School bullying in Japan hit record high in fiscal 2025
   - [china] EU weighs tighter export controls to prevent battery waste going to China
   - [korea] Samsung revamps chip division to sharpen its AI edge
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] EU launches anti-dumping probe into China, Singapore sustainable aviation fuel imports
   - [japan] Electricity charges for December usage drop at 10 major companies due to resumption of government subsidies
   - [taiwan] Taiwan's 2026 GDP growth forecast raised to 13.28%, highest since 1978
-  - [china] CMST Development Plans To Register 4 Billion Yuan Debt Financing Instruments
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T22:03:10+00:00",
+      "published_utc": "2026-11-27T22:12:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
