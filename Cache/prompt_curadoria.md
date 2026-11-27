@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T19:52:42.641036+00:00
+Última coleta: 2026-11-27T20:02:43.088031+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          947
-  🇨🇳 China          973
-  🇹🇼 Taiwan         338
+  🇨🇳 China          972
+  🇹🇼 Taiwan         339
   🇰🇷 Coreia do Sul  742
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC Stocks Climb 1.84% as U.S. Tariff Proposal Leaves Chips Off the List
+  - [korea] SK hynix Stocks Jump 5.41% as 100 Trillion Won Payout Plan Sinks In
   - [korea] Samsung Electronics Stocks Jump 4.55% as Seoul Rallies on Stabilization Hopes
   - [japan] NIPPON STEEL CORP. Stock 12‑Month Price Target Raised to JPY 753.33, Implies 11% Upside
   - [china] Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang
@@ -32,6 +34,7 @@ Total: 3000 manchetes
   - [korea] Micron, SK Hynix and SanDisk Stocks Rise — What's the Verdict on Demand?
   - [japan] Liberal Democratic Party Vice President Aso, Foreign Minister Motegi and others meet to pass consumption tax r
   - [china] Aluminum Corporation Of China Says Guinea Subsidiary Signs EPC Contract With China Aluminum International Engi
+  - [japan] School bullying in Japan hit record high in fiscal 2025 | NHK WORLD-JAPAN News
   - [japan] School bullying in Japan hit record high in fiscal 2025
   - [china] EU weighs tighter export controls to prevent battery waste going to China
   - [korea] Samsung revamps chip division to sharpen its AI edge
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] China State Construction Engineering Corp Secures Projects Totalling 14.6 Billion Yuan
   - [china] China's major stock indexes surge, chip shares rally
   - [china] Xiaocaiyuan International Holding Says It Resolved To Pay A Special Dividend Of RMB 0.4292 Per Share
-  - [china] China central bank cuts subscription thresholds for big-denomination deposit products from March
-  - [china] U.S. Tech Restrictions More Pressing Challenge to China Than Tariffs — Market Talk
-  - [china] DSC partners with JAPANCARS to expand China’s used car exports
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T19:52:42+00:00",
+      "published_utc": "2026-11-27T20:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
