@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T06:32:44.909817+00:00
+Última coleta: 2026-11-27T06:42:42.073857+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          946
-  🇨🇳 China          970
+  🇯🇵 Japão          947
+  🇨🇳 China          972
   🇹🇼 Taiwan         331
-  🇰🇷 Coreia do Sul  753
+  🇰🇷 Coreia do Sul  750
 
 ## O que já está no feed (não repita)
 
+  - [japan] USDJPY: Dollar Holds Above ¥159 as Tokyo Inflation Keeps BOJ Hike in Play
+  - [china] China stocks, yuan rally after Beijing vows stronger market support
+  - [china] China Industrial Profits Log Robust Growth
   - [japan] Today's Oha Biz 11/27 Bank of Japan councilor moves policy interest rate to “neutral level”
   - [korea] Sebo Manufacturing Engineering Construction Wins 72.4 Billion Won Order
   - [japan] Tokyo Core Inflation Strongest Since Mid 2025
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Short-Term JGB Yields Rise on Elevated Tokyo Inflation Data — Market Talk
   - [japan] Even if the Bank of Japan raises interest rates, the yen's depreciation hell won't end... Why isn't the yen be
   - [china] Skiing in China was once a luxury. Local manufacturers are slashing costs
-  - [korea] The government will create an investment fund specializing in aerospace worth more than 200 billion
-  - [japan] Tokyo's core CPI hits 2.9%, strengthening case for BOJ rate hike in December
-  - [japan] Risk of Yen Weakening Against Dollar Appears Limited — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T06:32:45+00:00",
+      "published_utc": "2026-11-27T06:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
