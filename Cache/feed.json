@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-27T08:33:04.241774+00:00",
- "collected_at_utc": "2026-11-27T08:33:04.241774+00:00",
+ "generated_at_utc": "2026-11-27T08:42:42.929542+00:00",
+ "collected_at_utc": "2026-11-27T08:42:42.929542+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 945,
-  "china": 974,
+  "japan": 946,
+  "china": 972,
   "taiwan": 337,
-  "korea": 744
+  "korea": 745
  },
- "elapsed_s": 42.5,
+ "elapsed_s": 29.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -73,9 +73,9 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 10,
+   "count": 164,
    "error": "",
-   "newest": "2026-11-27T08:23:57+00:00"
+   "newest": "2026-11-27T08:30:20+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T07:00:00+00:00"
+   "newest": "2026-11-27T03:20:28+00:00"
   },
   {
    "source_id": "ked_global",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T18:37:49+00:00"
+   "newest": "2026-11-25T16:42:50+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-27T17:30:05+09:00"
+   "newest": "2026-11-27T17:40:19+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-27T16:14:00+09:00"
+   "newest": "2026-11-27T17:40:19+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T03:00:00+00:00"
+   "newest": "2026-11-27T01:36:36+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-27T08:31:32+00:00"
+   "newest": "2026-11-27T08:41:28+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T03:52:17+00:00"
+   "newest": "2026-11-27T06:52:52+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T07:19:59+00:00"
+   "newest": "2026-11-27T06:20:15+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T05:21:17+00:00"
+   "newest": "2026-11-27T07:20:25+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -344,6 +344,40 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Sk Hynix Solidigm Reviewing Various Options To Expand Production Capacity, But Nothing Decided Yet On Reported Us Nand Plant Plan",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4780HN:0-sk-hynix-solidigm-reviewing-various-options-to-expand-production-capacity-but-nothing-decided-yet-on-reported-us-nand-plant-plan/",
+   "published_utc": "2026-11-27T08:40:35+00:00",
+   "title_original": "Sk Hynix Solidigm Reviewing Various Options To Expand Production Capacity, But Nothing Decided Yet On Reported Us Nand Plant Plan",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "9958ff8a1a029210"
+  },
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Tax exemption for donations of funds for home purchase to be extended and expanded LDP Executive Committee",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261127de82594",
+   "published_utc": "2026-11-27T08:40:19+00:00",
+   "title_original": "住宅購入資金贈与の非課税措置 延長・拡充へ 自民税調幹部会",
+   "region": "japan",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "357dec170fef2f29"
+  },
   {
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
@@ -1287,23 +1321,6 @@
    "live_wire": true,
    "manual": false,
    "id": "aedc969d3ca2c931"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "CNBC TV18",
-   "title_en": "China industrial profits growth rises 20%, at 5-month high",
-   "url": "https://www.tradingview.com/news/cnbctv:272392e6a094b:0/",
-   "published_utc": "2026-11-27T02:24:33+00:00",
-   "title_original": "China industrial profits growth rises 20%, at 5-month high",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "665f110edf7bb258"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -3258,8 +3275,8 @@
    "id": "33d3d6f1142e1e9d"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi will revise the tax system next year “to promote investment and lead to growth”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261126de81902",
    "published_utc": "2026-11-26T08:14:00+00:00",
@@ -3272,7 +3289,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2f3e69c4a17301be"
+   "id": "984f302a111a267b"
   },
   {
    "source_id": "gn_kr_ked",
@@ -3341,6 +3358,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b65a43eca42dac79"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "네이버페이 머니스토리",
+   "title_en": "Base interest rate increase: It has risen to 3.25%. How much will my loan interest rate rise?",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VNDM1Uk55VnE4RXZOeTFzSDZvREoyd284TEdDRFhTRDF3cVh6Y3VFWllEYUZQV3d0X0d2U1BIX1YzRTFGc05ucUNMX2xWblQ3WVE?oc=5",
+   "published_utc": "2026-11-26T08:02:13+00:00",
+   "title_original": "기준금리 인상 : 3.25%로 올랐어요, 내 대출 이자는 얼마나 오를까요",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "8b22563cd238303e"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -4765,24 +4799,6 @@
    "live_wire": false,
    "manual": false,
    "id": "88ec8481c8d1b7e1"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "뉴스1",
-   "title_en": "[Full text] Bank of Korea Monetary Policy Committee decision on monetary policy direction for November",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5tc1VXYUtxVkctZDNHWWhVeXFtWXJYVHdJNkoySXo4NmpTVDFtQy1RdFpUN2FTZFNPX1NfaVZIMmVKa1VQWE9lelFYNEU0VWJBS3JqWQ?oc=5",
-   "published_utc": "2026-11-26T01:45:06+00:00",
-   "title_original": "[전문] 한국은행 금융통화위원회 11월 통화정책방향 결정문",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d80fe72bf0cf9ec2"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -8273,8 +8289,8 @@
    "id": "30bc1e8f69757367"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Formulation of second supplementary budget plan expected to be limited to Kumamoto earthquake recovery, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261125de80904",
    "published_utc": "2026-11-24T20:38:00+00:00",
@@ -8288,7 +8304,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "91ec4ad2eb523a4f"
+   "id": "47d0ded3307f0151"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -8688,24 +8704,6 @@
    "id": "de92cd28e2ed089b"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "京报网",
-   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZLUJkbWhkcWNkWXBoOU44SzVKSzFPTjRqM0xhVV93THpBeUE3ZlFJeGZzT05oSHZlSHpaUVhxZ2JULVM5WGVEUDFyUEJNSDF4dXJuUjR0eDFaWUNCUHc?oc=5",
-   "published_utc": "2026-11-24T13:00:19+00:00",
-   "title_original": "央行将开展8000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b7a825b334904b45"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
    "title_en": "Yen Falls Amid Global AI Sector Revival",
@@ -8829,7 +8827,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "Sohu",
    "title_en": "The central bank recently announced that it will carry out 800 billion yuan of MLF operations",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRXVTbUk4bjBaWmpDeVNXdGd1U3BNSkptNktObkxGcjZmMFM0S0dHd2UxYXA5XzZYSmVrTmlOaG1nUVByVmVKcm9hRGRnQTJnR2o1MDdmbFZEc0lsYUtSdHN1V3QwYldqVzBLZHptN2M0TDF4TkhSblJpT3NXR1g1dGY0c1FuMk9z?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUnZFMkdHRG95MnJLU3JDTTBCaUIwQmpVRHZTcmZ4UFYzcXhmelNPd3MxanFDZUJDbVhGQWxmT2xWMEpxbWF3RmwxWWp0UHpsQjlhRU9pNXVISWdSX1U2RjNCMWIzM1gxZ1FFZ0swTmxYZkh4djlGSGR2YVZtN2pjdlBxZkZoTTEwRWJF?oc=5",
    "published_utc": "2026-11-24T11:57:56+00:00",
    "title_original": "央行最新宣布，将开展8000亿元MLF操作",
    "region": "china",
@@ -8841,7 +8839,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "85389ed73c9fb172"
+   "id": "ebeb58740ddd2edc"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -9316,7 +9314,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "东方财富",
    "title_en": "Central Bank: 800 billion yuan MLF operation will be carried out on November 25",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6UENvd2dBNmhaNldHeUViVmdvQVhKSXNKQWZGSjJ1SHZId0M5aVhNSGpHN0gtdjdMY0NMRGNSQ3JrTmlFMGVWV0IwQlFGYTQwN3U0ZWlIMkY5X1UwQ3hFWA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kOXpaUGV3RE8xdzRZajJseXlSTGtiQW1YckJEYzcxM2VzVEN0cUUwTWVPbUtPMFRfYW5VNlJaYTNLemV0WHhfNFM0eUV2ZGo0eUNPSXIyTHNOZTc5T1ZUSUs3WkJOdw?oc=5",
    "published_utc": "2026-11-24T09:29:29+00:00",
    "title_original": "央行：11月25日将开展8000亿元MLF操作",
    "region": "china",
@@ -9328,7 +9326,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "50a6ca31e9d4299a"
+   "id": "185164eda1a75342"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -9381,6 +9379,24 @@
    "live_wire": true,
    "manual": false,
    "id": "8361c2d8d19ff598"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "大河财立方",
+   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QZ1BGR25ub3N4YmtENzlwNWR2YzdlSDRvU3p5VzRXelhnMlhPNGtBclhaYjdMVklWWV8yYVpUcGJFUV82Q19pbGNlYWdqVE1uN0o0THJfYV9lWThHSzB4SGtSTG9PSmJvY2c?oc=5",
+   "published_utc": "2026-11-24T09:24:24+00:00",
+   "title_original": "央行将开展8000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "16c7f7c4ddc6591f"
   },
   {
    "source_id": "tradingview_live",
@@ -51862,24 +51878,6 @@
    "live_wire": false,
    "manual": false,
    "id": "080c0ba158ef8797"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "央视网",
-   "title_en": "First time in nearly 5 years! The central bank raised the foreign exchange reserve ratio by 2 percentage points to ease the pressure on RMB appreciation",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HVGIzbVdZTVFuaHJ0UlhydzNrQ1hoMXY0NjRQOHNhQU5EMUVwbG1IYXYxd0JPN2JheTM5NE9UV0otTFk4bzFoRFE2WUVEc1BUV2ZXTE9JTnZSelNHTHg1VEZ4M2xrM2ZsUm1aQVZZdWJsZERCQTEteUoxdjE?oc=5",
-   "published_utc": "2026-11-03T02:07:00+00:00",
-   "title_original": "近5年来首次！央行上调外汇存准率2个百分点，缓解人民币升值压力",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6f406fb80625b477"
   },
   {
    "source_id": "manual_ia",

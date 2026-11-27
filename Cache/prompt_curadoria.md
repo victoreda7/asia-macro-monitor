@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T08:33:04.241774+00:00
+Última coleta: 2026-11-27T08:42:42.929542+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          945
-  🇨🇳 China          974
+  🇯🇵 Japão          946
+  🇨🇳 China          972
   🇹🇼 Taiwan         337
-  🇰🇷 Coreia do Sul  744
+  🇰🇷 Coreia do Sul  745
 
 ## O que já está no feed (não repita)
 
+  - [korea] Sk Hynix Solidigm Reviewing Various Options To Expand Production Capacity, But Nothing Decided Yet On Reported
+  - [japan] Tax exemption for donations of funds for home purchase to be extended and expanded LDP Executive Committee
   - [korea] S. Korea's semiconductor boom masks consumption slump amid rate hikes, stock rout: media
   - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Charitable Contribution
   - [japan] Altria, fabricante de Marlboro, e Japan Tobacco podem ser sócias na concorrente Imperial
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korea November exports seen posting fastest growth in over 50 years on AI chip surge: Reuters poll
   - [china] Commentary: Brazil’s Lesson for China — GDP Isn’t Everything
   - [japan] (BOJ Review) Developments in JGB Market-Making Business by Securities Companies
-  - [china] China's industrial profits surge 20.1% in October as ten-month growth accelerates to 16%
-  - [china] Emdoor Says To Buy Digital Solutions Firm For 715 Mln Yuan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T08:33:04+00:00",
+      "published_utc": "2026-11-27T08:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
