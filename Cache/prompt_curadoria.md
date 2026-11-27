@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T12:52:43.258543+00:00
+Última coleta: 2026-11-27T13:02:52.596454+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          943
-  🇨🇳 China          974
+  🇨🇳 China          973
   🇹🇼 Taiwan         344
-  🇰🇷 Coreia do Sul  739
+  🇰🇷 Coreia do Sul  740
 
 ## O que já está no feed (não repita)
 
+  - [korea] Daesang Corporation Seaweed Sales Rose ~30% to KRW 200.0B
   - [korea] Micron, SK Hynix, Samsung in focus as GF cuts DRAM prices for 2027
   - [china] Nvidia Blackwell chips found at China data center linked to Alice Huang: report
   - [korea] SK hynix doubles daily buyback orders as shares slide
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Charitable Contribution
   - [japan] Altria, fabricante de Marlboro, e Japan Tobacco podem ser sócias na concorrente Imperial
   - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Transaction with Affiliate Company
-  - [taiwan] Taiwan raises 2026 GDP growth projection to 13.28% on strong AI demand
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T12:52:43+00:00",
+      "published_utc": "2026-11-27T13:02:52+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
