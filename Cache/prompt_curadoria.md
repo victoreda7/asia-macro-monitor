@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T01:42:44.957524+00:00
+Última coleta: 2026-11-27T01:52:43.020112+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          937
-  🇨🇳 China          974
+  🇯🇵 Japão          940
+  🇨🇳 China          971
   🇹🇼 Taiwan         335
   🇰🇷 Coreia do Sul  754
 
 ## O que já está no feed (não repita)
 
+  - [japan] Tokyo's core CPI hits 2.9%, strengthening case for BOJ rate hike in December
+  - [japan] Risk of Yen Weakening Against Dollar Appears Limited — Market Talk
+  - [japan] BOJ calls for safeguards against digital money, AI risks
   - [china] CHINA PBOC CONDUCTS CNY794 BLN VIA O/N REVERSE REPO FRI
   - [china] Central Bank: On November 27, it launched a 794 billion yuan overnight reverse repurchase operation
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7075 FRI VS 6.7096
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] AI Rout Makes Kioxia Japan’s Cheapest Blue Chip, Backing Bulls
   - [japan] Adjustments being made to extend the gift tax exemption for funds used to purchase a home
   - [korea] The Bank of Korea raises the base interest rate by 0.25% point to 3.25% per annum... The growth rate for this 
-  - [china] 800 billion MLF + 500 billion reverse repurchase, the central bank's "combination punch" accurately protects l
-  - [japan] <On-site Report Part 2> ``I don't want to rely on welfare anymore'' ``What can I master here?'' The true feeli
-  - [china] 800 billion MLF + 500 billion reverse repurchase central bank's "combination punch" accurately protects liquid
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T01:42:45+00:00",
+      "published_utc": "2026-11-27T01:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-27T01:42:44.957524+00:00",
- "collected_at_utc": "2026-11-27T01:42:44.957524+00:00",
+ "generated_at_utc": "2026-11-27T01:52:43.020112+00:00",
+ "collected_at_utc": "2026-11-27T01:52:43.020112+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 937,
-  "china": 974,
+  "japan": 940,
+  "china": 971,
   "taiwan": 335,
   "korea": 754
  },
- "elapsed_s": 32.1,
+ "elapsed_s": 28.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -57,7 +57,7 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 22,
+   "count": 21,
    "error": "",
    "newest": "2026-11-26T08:11:00+00:00"
   },
@@ -73,9 +73,9 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 10,
+   "count": 164,
    "error": "",
-   "newest": "2026-11-27T01:12:54+00:00"
+   "newest": "2026-11-27T01:27:52+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T18:52:25+00:00"
+   "newest": "2026-11-25T08:54:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-27T01:30:02+00:00"
+   "newest": "2026-11-27T01:49:04+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T18:37:49+00:00"
+   "newest": "2026-11-25T16:42:50+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-27T01:30:07+00:00"
+   "newest": "2026-11-27T01:44:13+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-27T01:40:19+00:00"
+   "newest": "2026-11-27T01:51:21+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T00:00:37+00:00"
+   "newest": "2026-11-27T01:30:37+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T00:01:32+00:00"
+   "newest": "2026-11-26T22:08:29+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T00:58:12+00:00"
+   "newest": "2026-11-27T01:42:38+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -344,6 +344,58 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "CNBC TV18",
+   "title_en": "Tokyo's core CPI hits 2.9%, strengthening case for BOJ rate hike in December",
+   "url": "https://www.tradingview.com/news/cnbctv:2667067c8094b:0/",
+   "published_utc": "2026-11-27T01:49:51+00:00",
+   "title_original": "Tokyo's core CPI hits 2.9%, strengthening case for BOJ rate hike in December",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "e15ffb924fde6783"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Risk of Yen Weakening Against Dollar Appears Limited — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261126004295:0-risk-of-yen-weakening-against-dollar-appears-limited-market-talk/",
+   "published_utc": "2026-11-27T01:43:00+00:00",
+   "title_original": "Risk of Yen Weakening Against Dollar Appears Limited — Market Talk",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "37bd0dd1d6032004"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "BOJ calls for safeguards against digital money, AI risks",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47800R:0-boj-calls-for-safeguards-against-digital-money-ai-risks/",
+   "published_utc": "2026-11-27T01:42:35+00:00",
+   "title_original": "BOJ calls for safeguards against digital money, AI risks",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "9dcfcedfe97e03a0"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
@@ -2087,8 +2139,8 @@
    "id": "33d3d6f1142e1e9d"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi will revise the tax system next year “to promote investment and lead to growth”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261126de81902",
    "published_utc": "2026-11-26T08:14:00+00:00",
@@ -2101,7 +2153,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2f3e69c4a17301be"
+   "id": "984f302a111a267b"
   },
   {
    "source_id": "gn_kr_ked",
@@ -3877,23 +3929,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a176c0d438a0cc02"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "US imposes new tariffs on 14 economies | NHK WORLD-JAPAN News",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JakUweU5aLW9QbUY4dkZnZllkWnpqT1dHZ2xXVVVDY1lCS0JNdDVCM2pkV1Q2LVI2a1NXRlVVZVdocEhrck93dUZLWklWYmdvU2JPYlpxX1pDMEdPSzFmb2RCSQ?oc=5",
-   "published_utc": "2026-11-26T01:02:20+00:00",
-   "title_original": "US imposes new tariffs on 14 economies | NHK WORLD-JAPAN News",
-   "region": "japan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "bc7af867f79157eb"
   },
   {
    "source_id": "boj_whatsnew",
@@ -6295,6 +6330,23 @@
    "id": "2617bf22b0c41429"
   },
   {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "US imposes new tariffs on 14 economies | NHK WORLD-JAPAN News",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JakUweU5aLW9QbUY4dkZnZllkWnpqT1dHZ2xXVVVDY1lCS0JNdDVCM2pkV1Q2LVI2a1NXRlVVZVdocEhrck93dUZLWklWYmdvU2JPYlpxX1pDMEdPSzFmb2RCSQ?oc=5",
+   "published_utc": "2026-11-25T02:03:20+00:00",
+   "title_original": "US imposes new tariffs on 14 economies | NHK WORLD-JAPAN News",
+   "region": "japan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "bc7af867f79157eb"
+  },
+  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Samsung Electronics, SK hynix plunge as Wall Street rally fades",
@@ -7067,8 +7119,8 @@
    "id": "30bc1e8f69757367"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Formulation of second supplementary budget plan expected to be limited to Kumamoto earthquake recovery, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261125de80904",
    "published_utc": "2026-11-24T20:38:00+00:00",
@@ -7082,7 +7134,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "91ec4ad2eb523a4f"
+   "id": "47d0ded3307f0151"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51834,57 +51886,6 @@
    "live_wire": true,
    "manual": false,
    "id": "dae888070352b4ef"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "PBOC: Move Is to Support Healthy, Stable Development of Capital Market",
-   "url": "https://www.tradingview.com/news/DJN_DN20261102001500_20261102001513:0-pboc-move-is-to-support-healthy-stable-development-of-capital-market/",
-   "published_utc": "2026-11-02T09:15:00+00:00",
-   "title_original": "PBOC: Move Is to Support Healthy, Stable Development of Capital Market",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "f76acc0d60107f14"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China Central Bank to Conduct Swap Facility Operations With Financial Institutions on Tuesday",
-   "url": "https://www.tradingview.com/news/DJN_DN20261102001500_20261102001500:0-china-central-bank-to-conduct-swap-facility-operations-with-financial-institutions-on-tuesday/",
-   "published_utc": "2026-11-02T09:14:00+00:00",
-   "title_original": "China Central Bank to Conduct Swap Facility Operations With Financial Institutions on Tuesday",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "710f65dc6f4c61ee"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "People's Bank of China: Swap Term Is One Year, Can Be Extended",
-   "url": "https://www.tradingview.com/news/DJN_DN20261102001500_20261102001501:0-people-s-bank-of-china-swap-term-is-one-year-can-be-extended/",
-   "published_utc": "2026-11-02T09:14:00+00:00",
-   "title_original": "People's Bank of China: Swap Term Is One Year, Can Be Extended",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "42947fe893fd4fbd"
   },
   {
    "source_id": "manual_ia",
