@@ -7,18 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T08:42:42.929542+00:00
+Última coleta: 2026-11-27T08:52:44.579032+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          946
+  🇯🇵 Japão          947
   🇨🇳 China          972
-  🇹🇼 Taiwan         337
-  🇰🇷 Coreia do Sul  745
+  🇹🇼 Taiwan         338
+  🇰🇷 Coreia do Sul  743
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Taiwan Raises 2026 Growth Forecasts as AI Exports Surge
   - [korea] Sk Hynix Solidigm Reviewing Various Options To Expand Production Capacity, But Nothing Decided Yet On Reported
   - [japan] Tax exemption for donations of funds for home purchase to be extended and expanded LDP Executive Committee
+  - [china] To protect cross-month liquidity, the central bank launched 794 billion yuan in overnight reverse repurchases
+  - [japan] Confirmed before the Bank of Japan meeting, 5-year term deposits in Osaka and Kanto are around 2% per year. Co
   - [korea] S. Korea's semiconductor boom masks consumption slump amid rate hikes, stock rout: media
   - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Charitable Contribution
   - [japan] Altria, fabricante de Marlboro, e Japan Tobacco podem ser sócias na concorrente Imperial
@@ -30,6 +33,7 @@ Total: 3000 manchetes
   - [taiwan] Taiwan Revises 3Q GDP To +14.39% On Year Vs +14.36% Estimate
   - [taiwan] Taiwan raises 2026 GDP growth projection to 13.28%
   - [japan] JGB Monthly Newsletter (November 2026)
+  - [japan] Tokyo to add more municipal crematoriums included in supplementary budget (TBS NEWS DIG Powered by JNN)
   - [china] Update: Chinese premier chairs State Council executive meeting
   - [china] China's State Council appoints, removes officials
   - [china] New U.S. Tariffs Unlikely to Derail U.S.-China Economic Relations — Market Talk
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [china] 1st LD: Chinese premier chairs State Council executive meeting
   - [china] Chinese premier chairs State Council executive meeting
   - [korea] Korea’s future fund must not come at the cost of fiscal discipline
-  - [taiwan] Taiwan machinery makers see limited impact from proposed U.S. tariffs
-  - [korea] South Korea November exports seen posting fastest growth in over 50 years on AI chip surge: Reuters poll
-  - [china] Commentary: Brazil’s Lesson for China — GDP Isn’t Everything
-  - [japan] (BOJ Review) Developments in JGB Market-Making Business by Securities Companies
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T08:42:43+00:00",
+      "published_utc": "2026-11-27T08:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
