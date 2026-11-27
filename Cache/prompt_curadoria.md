@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T14:52:43.832100+00:00
+Última coleta: 2026-11-27T15:02:53.514351+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          943
   🇨🇳 China          972
-  🇹🇼 Taiwan         344
-  🇰🇷 Coreia do Sul  741
+  🇹🇼 Taiwan         343
+  🇰🇷 Coreia do Sul  742
 
 ## O que já está no feed (não repita)
 
+  - [korea] Micron, SK Hynix and SanDisk Stocks Rise — What's the Verdict on Demand?
   - [japan] Liberal Democratic Party Vice President Aso, Foreign Minister Motegi and others meet to pass consumption tax r
   - [china] Aluminum Corporation Of China Says Guinea Subsidiary Signs EPC Contract With China Aluminum International Engi
+  - [china] EU weighs tighter export controls to prevent battery waste going to China
   - [china] China's central bank promises flexible and effective use of monetary policy tools
   - [korea] Daesang Corporation Seaweed Sales Rose ~30% to KRW 200.0B
   - [korea] Micron, SK Hynix, Samsung in focus as GF cuts DRAM prices for 2027
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Sk Hynix Solidigm Reviewing Various Options To Expand Production Capacity, But Nothing Decided Yet On Reported
   - [japan] Tax exemption for donations of funds for home purchase to be extended and expanded LDP Executive Committee
   - [china] To protect cross-month liquidity, the central bank launched 794 billion yuan in overnight reverse repurchases
-  - [japan] Confirmed before the Bank of Japan meeting, 5-year term deposits in Osaka and Kanto are around 2% per year. Co
-  - [korea] S. Korea's semiconductor boom masks consumption slump amid rate hikes, stock rout: media
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T14:52:44+00:00",
+      "published_utc": "2026-11-27T15:02:53+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
