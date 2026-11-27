@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-27T08:22:41.079794+00:00",
- "collected_at_utc": "2026-11-27T08:22:41.079794+00:00",
+ "generated_at_utc": "2026-11-27T08:33:04.241774+00:00",
+ "collected_at_utc": "2026-11-27T08:33:04.241774+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 337,
   "korea": 744
  },
- "elapsed_s": 28.3,
+ "elapsed_s": 42.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -73,9 +73,9 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 164,
+   "count": 10,
    "error": "",
-   "newest": "2026-11-27T08:09:07+00:00"
+   "newest": "2026-11-27T08:23:57+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T03:20:28+00:00"
+   "newest": "2026-11-27T07:00:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T07:42:00+00:00"
+   "newest": "2026-11-27T08:29:28+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T16:42:50+00:00"
+   "newest": "2026-11-25T18:37:49+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-27T16:53:45+09:00"
+   "newest": "2026-11-27T17:30:05+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T06:07:00+00:00"
+   "newest": "2026-11-27T06:32:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-27T08:21:14+00:00"
+   "newest": "2026-11-27T08:31:32+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -1724,6 +1724,23 @@
    "id": "e472080a1a12483d"
   },
   {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Tokyo prices rose 2.9% in November (Kyodo News)",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTWt2a29HWVNtUnZuZTRJdHl3RDlvUklPTldoTkFDYzNhM05qdWhMQjhfSWFlZFF5YkFYZ3p2amdWZHR1VVFGdjRuY3RXUTRkTTd5UV9Wcnk2bENjeWdRUkFEM3B3YVBQVTNXOFhDT3dxN3UwdkRJOTBfVmlwV29VUlFnMWFxX0pWWGZoQm1n?oc=5",
+   "published_utc": "2026-11-26T23:44:17+00:00",
+   "title_original": "11月の東京物価2.9％上昇（共同通信）",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b0aaa25ee0dc35d6"
+  },
+  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "Tokyo CPI firms in Nov, core inflation slightly misses expectations",
@@ -1808,23 +1825,6 @@
    "live_wire": false,
    "manual": false,
    "id": "176a9018c32c9172"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Tokyo prices rose 2.9% in November (Kyodo News)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PX1RUMl8yOUdkajZSb0lRdUNlODVsOW9RMnV2RWNQcUg0Q2pKeDlLVmlNSXc5ZHJ1dTRJZjZMdUNEREFaV2l3NjBaaG1nX1FCangzeWt3UkpJNWpBRlcxbHV3RHVtSkltZjh2RDlFNXBoTXR5VVhlRmF4aURMZDQ?oc=5",
-   "published_utc": "2026-11-26T23:41:35+00:00",
-   "title_original": "11月の東京物価2.9％上昇（共同通信）",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "94b23fedab2a29cf"
   },
   {
    "source_id": "tradingview_live",
@@ -3205,6 +3205,23 @@
    "id": "8281f2cee2304172"
   },
   {
+   "source_id": "gn_asia_ft",
+   "source_name": "Financial Times",
+   "title_en": "China hits back at Trump tariff threat",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOXdLemg3R0M0SkVKVUhMZHdsQmN0X2t0Tk9lYWY4RzFuYzhWUFFxVHQ0WUxkMDhnQTB4dEhoZDJvQ0gzUmhmelROQmRlS2kxdUpXTkI0TkxFM0pVMElQWlE4RmY2UE1UZjQyLUNtdmVJT3k5OE1xOXJvaURWU1hjZmN5anY?oc=5",
+   "published_utc": "2026-11-26T08:19:05+00:00",
+   "title_original": "China hits back at Trump tariff threat",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "67fe07b53b7e93ab"
+  },
+  {
    "source_id": "gn_kr_ked",
    "source_name": "KED Global",
    "title_en": "BOK keeps door open to another rate hike, lifts 2027 growth outlook to six-year high",
@@ -3241,8 +3258,8 @@
    "id": "33d3d6f1142e1e9d"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi will revise the tax system next year “to promote investment and lead to growth”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261126de81902",
    "published_utc": "2026-11-26T08:14:00+00:00",
@@ -3255,7 +3272,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "984f302a111a267b"
+   "id": "2f3e69c4a17301be"
   },
   {
    "source_id": "gn_kr_ked",
@@ -3324,23 +3341,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b65a43eca42dac79"
-  },
-  {
-   "source_id": "gn_asia_ft",
-   "source_name": "Financial Times",
-   "title_en": "China hits back at Trump tariff threat",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOXdLemg3R0M0SkVKVUhMZHdsQmN0X2t0Tk9lYWY4RzFuYzhWUFFxVHQ0WUxkMDhnQTB4dEhoZDJvQ0gzUmhmelROQmRlS2kxdUpXTkI0TkxFM0pVMElQWlE4RmY2UE1UZjQyLUNtdmVJT3k5OE1xOXJvaURWU1hjZmN5anY?oc=5",
-   "published_utc": "2026-11-26T08:02:13+00:00",
-   "title_original": "China hits back at Trump tariff threat",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "67fe07b53b7e93ab"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -8273,8 +8273,8 @@
    "id": "30bc1e8f69757367"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Formulation of second supplementary budget plan expected to be limited to Kumamoto earthquake recovery, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261125de80904",
    "published_utc": "2026-11-24T20:38:00+00:00",
@@ -8288,7 +8288,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "47d0ded3307f0151"
+   "id": "91ec4ad2eb523a4f"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -9260,6 +9260,24 @@
    "id": "7c8dca0001fef26c"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "ThePaper.cn",
+   "title_en": "Central Bank: Will launch 500 billion yuan 7-day reverse repurchase operation on November 25",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFN1U4VV9qTGIyd2FzZGhDYXZySU1pRE9ndlhvcWxTdnFGeWVuNlRiMWNKNDNkNDE0Yi0tYTRrVVNINXBBSm1lVldhcVViTDBEcWRHU2k0LXpVUEs4MmdpWA?oc=5",
+   "published_utc": "2026-11-24T09:34:34+00:00",
+   "title_original": "央行：11月25日将开展5000亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e1e76ede17ef3679"
+  },
+  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "TSMC eyes US$22.6 billion Texas campus for 2nm chips",
@@ -9298,7 +9316,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "东方财富",
    "title_en": "Central Bank: 800 billion yuan MLF operation will be carried out on November 25",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kOXpaUGV3RE8xdzRZajJseXlSTGtiQW1YckJEYzcxM2VzVEN0cUUwTWVPbUtPMFRfYW5VNlJaYTNLemV0WHhfNFM0eUV2ZGo0eUNPSXIyTHNOZTc5T1ZUSUs3WkJOdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6UENvd2dBNmhaNldHeUViVmdvQVhKSXNKQWZGSjJ1SHZId0M5aVhNSGpHN0gtdjdMY0NMRGNSQ3JrTmlFMGVWV0IwQlFGYTQwN3U0ZWlIMkY5X1UwQ3hFWA?oc=5",
    "published_utc": "2026-11-24T09:29:29+00:00",
    "title_original": "央行：11月25日将开展8000亿元MLF操作",
    "region": "china",
@@ -9310,7 +9328,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "185164eda1a75342"
+   "id": "50a6ca31e9d4299a"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -9730,24 +9748,6 @@
    "live_wire": false,
    "manual": false,
    "id": "8bf9c875b2192dbd"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "Central Bank: Will launch 500 billion yuan 7-day reverse repurchase operation on November 25",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JX3Rtb3VBZ3d4QmU0WVYzZHA0OUxXODB3dmJfYmVWZ0RhWkJDN0xQX3pqck9WdFhvX1lTMW56VHVENmZ3UjdWSFRZdWUtY1JEd1JJRFRsaTZZMnU4NnlzZjdXbnBYQQ?oc=5",
-   "published_utc": "2026-11-24T08:00:00+00:00",
-   "title_original": "央行：11月25日将开展5000亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7e0e651fb9f70ac6"
   },
   {
    "source_id": "focus_taiwan",
