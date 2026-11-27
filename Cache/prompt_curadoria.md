@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T10:32:42.532191+00:00
+Última coleta: 2026-11-27T10:42:42.531476+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          943
-  🇨🇳 China          972
+  🇯🇵 Japão          942
+  🇨🇳 China          973
   🇹🇼 Taiwan         343
   🇰🇷 Coreia do Sul  742
 
 ## O que já está no feed (não repita)
 
+  - [china] Xiaocaiyuan International Holding Says It Resolved To Pay A Special Dividend Of RMB 0.4292 Per Share
   - [china] U.S. Tech Restrictions More Pressing Challenge to China Than Tariffs — Market Talk
   - [china] DSC partners with JAPANCARS to expand China’s used car exports
   - [taiwan] AI is still in short supply. The General Accounting Office estimates that exports will hit a new high of US$1 
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China’s factory slump likely extends to November despite solid exports
   - [japan] Stock price rises due to buyback of AI/semiconductor related stocks, price rises by more than 1,200 yen
   - [china] Analysis-Trump’s new tariffs aim to prise global trade from China’s grip
-  - [taiwan] Semiconductor chips become the new oil. Global export value surpasses oil and gas for the first time | Sankei
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T10:32:42+00:00",
+      "published_utc": "2026-11-27T10:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
