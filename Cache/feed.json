@@ -1,18 +1,26 @@
 {
- "generated_at_utc": "2026-11-27T18:22:49.333525+00:00",
- "collected_at_utc": "2026-11-27T18:22:49.333525+00:00",
+ "generated_at_utc": "2026-11-27T18:32:48.512903+00:00",
+ "collected_at_utc": "2026-11-27T18:32:48.512903+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 40,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 946,
+  "japan": 947,
   "china": 972,
-  "taiwan": 339,
+  "taiwan": 338,
   "korea": 743
  },
- "elapsed_s": 31.2,
+ "elapsed_s": 33.6,
  "sources": [
+  {
+   "source_id": "gn_kr_herald",
+   "name": "Korea Herald",
+   "ok": true,
+   "count": 0,
+   "error": "falha pontual (sem resultados) — tenta de novo na próxima coleta",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -51,7 +59,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T15:16:07+00:00"
+   "newest": "2026-11-27T13:26:26+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -59,7 +67,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T13:17:00+00:00"
+   "newest": "2026-11-27T12:07:00+00:00"
   },
   {
    "source_id": "focus_taiwan",
@@ -75,7 +83,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-27T18:06:42+00:00"
+   "newest": "2026-11-27T18:24:38+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -124,14 +132,6 @@
    "count": 25,
    "error": "",
    "newest": "2026-11-27T18:45:00+09:00"
-  },
-  {
-   "source_id": "gn_kr_herald",
-   "name": "Korea Herald",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-11-27T08:27:45+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 30,
+   "count": 28,
    "error": "",
    "newest": "2026-11-27T16:54:17+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-27T18:20:34+00:00"
+   "newest": "2026-11-27T18:31:14+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -342,7 +342,9 @@
    "newest": "2026-11-26T19:00:00+00:00"
   }
  ],
- "falhas_seguidas": {},
+ "falhas_seguidas": {
+  "gn_kr_herald": 1
+ },
  "items": [
   {
    "source_id": "tradingview_live",
@@ -1984,6 +1986,23 @@
    "live_wire": false,
    "manual": false,
    "id": "05b38f3eb7120975"
+  },
+  {
+   "source_id": "gn_jp_reuters",
+   "source_name": "Reuters",
+   "title_en": "BOJ calls for safeguards against digital money, AI risks",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeUkwSF9SZW9Zb0hBVG5IekxCYWhKRTk3al8ydkszblJYQThwVVFqVjNzSlF3b1VZLU9qdmVOa1dEc19PcmtLYl9XdEgwd0p6RURKNk9ILTMxYnhTa2ExcXBlazRNMWYyUlJvN2Q0NzRpSEt0c0YyYzVxemZ4ZjY3bUV3dU1RTDRFTElUZ0VUcVpWdS15allYVmVSR0FNNG8?oc=5",
+   "published_utc": "2026-11-27T01:47:00+00:00",
+   "title_original": "BOJ calls for safeguards against digital money, AI risks",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a4f02bcb26428d2e"
   },
   {
    "source_id": "gn_kr_bok",
@@ -8022,6 +8041,24 @@
    "id": "fd8995a4d9d25359"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富网",
+   "title_en": "On November 25, the central bank launched a 617 billion yuan overnight reverse repurchase operation.",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UNFV2S2poejBRZXZPVXh4UWRJWnhNYnVWaV9kM2dMR2FBdnd4c1VQc2ROM0FoSkZySmMyWl9GR1g1VFVHV3BGVDJTY25KaXFuOEMxNDc5NWYzdU05LTliNEtUTlpOdw?oc=5",
+   "published_utc": "2026-11-25T03:02:15+00:00",
+   "title_original": "11月25日央行开展6170亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a0d6c5ed19dba328"
+  },
+  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "Banks' household mortgage lending rates up for 6th month in Oct.",
@@ -8143,24 +8180,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ba8efc830b81e1df"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "中国新闻网",
-   "title_en": "On November 25, the central bank launched a 617 billion yuan overnight reverse repurchase operation.",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJUmRNc1R4ckVOa0FTbTA1Yi1OM281c2NrUWRYNWdyY1ZnS1FiUWg5NkR6XzlfNzcweVRGcl94N3Q2VC1lRzFMYTZwQWQxQ1o1Sjg2REJ2cTdIZFZ5aGNGV2dPbF85bFE1?oc=5",
-   "published_utc": "2026-11-25T02:06:19+00:00",
-   "title_original": "11月25日央行开展6170亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "2617bf22b0c41429"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51865,23 +51884,6 @@
    "live_wire": false,
    "manual": false,
    "id": "727ee6ad97d86a09"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "TSMC's next US chip plant could land in Sherman",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeVFHYUNBWWxXbEZwQkZ5a1JlRlVPbE5lODZaUmlGQWJmMVhvTmlRNTd0bVE2Zk1DVElQOGdRQXR2LVBkZExDRGJTQjdWRVpwa2xfRi1lbEVmbjlwZjYwQmpaN01vOGl0bVFJdEJjVm54bEJxNFFQQkpFeWVDYzNWYkYxakZVR2loeDhHdDdjZUthRWJ3Vm13?oc=5",
-   "published_utc": "2026-11-03T08:00:00+00:00",
-   "title_original": "TSMC's next US chip plant could land in Sherman",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0a045a5f89346012"
   },
   {
    "source_id": "manual_ia",
