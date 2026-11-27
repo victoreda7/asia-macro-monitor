@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T14:03:02.731270+00:00
+Última coleta: 2026-11-27T14:12:42.667306+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          942
-  🇨🇳 China          974
+  🇨🇳 China          973
   🇹🇼 Taiwan         344
-  🇰🇷 Coreia do Sul  740
+  🇰🇷 Coreia do Sul  741
 
 ## O que já está no feed (não repita)
 
+  - [china] Aluminum Corporation Of China Says Guinea Subsidiary Signs EPC Contract With China Aluminum International Engi
   - [china] China's central bank promises flexible and effective use of monetary policy tools
   - [korea] Daesang Corporation Seaweed Sales Rose ~30% to KRW 200.0B
   - [korea] Micron, SK Hynix, Samsung in focus as GF cuts DRAM prices for 2027
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Confirmed before the Bank of Japan meeting, 5-year term deposits in Osaka and Kanto are around 2% per year. Co
   - [korea] S. Korea's semiconductor boom masks consumption slump amid rate hikes, stock rout: media
   - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Charitable Contribution
-  - [japan] Altria, fabricante de Marlboro, e Japan Tobacco podem ser sócias na concorrente Imperial
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T14:03:02+00:00",
+      "published_utc": "2026-11-27T14:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
