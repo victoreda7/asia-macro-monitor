@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T11:03:03.900296+00:00
+Última coleta: 2026-11-27T11:12:45.611121+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          944
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] CMST Development Plans To Register 4 Billion Yuan Debt Financing Instruments
   - [korea] Why South Korea’s chip boom is now a US tariff trap as a US$350b pledge looms
   - [china] Zhifei Biological Products Says Manufacturing Registration Application For Semaglutide Injection For Weight Ma
   - [japan] Bank of Japan official says stablecoins need reserve rules to preserve ‘singleness of money’
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Update: Chinese premier chairs State Council executive meeting
   - [taiwan] From lab to fab: Taiwan's supply chain holds key to mass-producing silicon photonics and CPO
   - [china] China's State Council appoints, removes officials
-  - [china] New U.S. Tariffs Unlikely to Derail U.S.-China Economic Relations — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T11:03:04+00:00",
+      "published_utc": "2026-11-27T11:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
