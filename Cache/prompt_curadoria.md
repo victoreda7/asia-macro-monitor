@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T19:22:43.027797+00:00
+Última coleta: 2026-11-27T19:32:42.497815+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          948
@@ -17,7 +17,9 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung Electronics Stocks Jump 4.55% as Seoul Rallies on Stabilization Hopes
   - [japan] NIPPON STEEL CORP. Stock 12‑Month Price Target Raised to JPY 753.33, Implies 11% Upside
+  - [china] Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang
   - [china] China's auto exports to rise 50% amid intensifying competition at home
   - [japan] Japan Week Ahead: October Factory Output, Retail Sales Likely to Show Solid Start to Final Quarter of 2026
   - [china] Nvidia, CoreWeave Face New U.S. Restrictions on China AI Chip Access
@@ -28,10 +30,8 @@ Total: 3000 manchetes
   - [china] German Companies in China Adapt to Persistent Price Pressure
   - [korea] SK Hynix increases buybacks following recent share skid: report
   - [korea] Micron, SK Hynix and SanDisk Stocks Rise — What's the Verdict on Demand?
-  - [china] Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang
   - [japan] Liberal Democratic Party Vice President Aso, Foreign Minister Motegi and others meet to pass consumption tax r
   - [china] Aluminum Corporation Of China Says Guinea Subsidiary Signs EPC Contract With China Aluminum International Engi
-  - [japan] School bullying in Japan hit record high in fiscal 2025
   - [china] EU weighs tighter export controls to prevent battery waste going to China
   - [korea] Samsung revamps chip division to sharpen its AI edge
   - [china] China's central bank promises flexible and effective use of monetary policy tools
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T19:22:43+00:00",
+      "published_utc": "2026-11-27T19:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
