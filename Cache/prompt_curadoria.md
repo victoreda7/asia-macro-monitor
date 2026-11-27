@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T22:22:42.079955+00:00
+Última coleta: 2026-11-27T22:32:43.369670+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          952
+  🇯🇵 Japão          953
   🇨🇳 China          969
-  🇹🇼 Taiwan         339
+  🇹🇼 Taiwan         338
   🇰🇷 Coreia do Sul  740
 
 ## O que já está no feed (não repita)
 
+  - [japan] Why did “Kappa Sushi” fall into the red?
   - [japan] Tokyo leads world in office rent, price growth as employers vie for prime space
   - [taiwan] Semiconductor competition between Taiwan and South Korea extends to the advanced packaging field! Samsung, TSM
   - [japan] Behind the Tamahome fraudulent billing issue is a "blind spot" in insurance industry regulation, and there is 
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] EU launches anti-dumping probe into China, Singapore sustainable aviation fuel imports
   - [japan] Electricity charges for December usage drop at 10 major companies due to resumption of government subsidies
   - [taiwan] Taiwan's 2026 GDP growth forecast raised to 13.28%, highest since 1978
-  - [china] CMST Development Plans To Register 4 Billion Yuan Debt Financing Instruments
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T22:22:42+00:00",
+      "published_utc": "2026-11-27T22:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
