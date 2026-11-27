@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-27T20:42:41.572353+00:00",
- "collected_at_utc": "2026-11-27T20:42:41.572353+00:00",
+ "generated_at_utc": "2026-11-27T20:52:42.910254+00:00",
+ "collected_at_utc": "2026-11-27T20:52:42.910254+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 948,
+  "japan": 949,
   "china": 973,
   "taiwan": 338,
-  "korea": 741
+  "korea": 740
  },
- "elapsed_s": 28.7,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T12:04:14+00:00"
+   "newest": "2026-11-27T19:18:51+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T07:23:26+00:00"
+   "newest": "2026-11-27T07:53:57+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -73,9 +73,9 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 10,
+   "count": 162,
    "error": "",
-   "newest": "2026-11-27T20:18:20+00:00"
+   "newest": "2026-11-27T20:36:02+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T16:42:50+00:00"
+   "newest": "2026-11-25T18:37:49+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T03:11:11+00:00"
+   "newest": "2026-11-27T03:08:33+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-28T05:19:04+09:00"
+   "newest": "2026-11-28T05:41:36+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-27T20:41:00+00:00"
+   "newest": "2026-11-27T20:45:41+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-28T05:30:00+09:00"
+   "newest": "2026-11-28T05:50:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -344,6 +344,25 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
+   "title_en": "505 yen lunch box excluding tax: ``505 yen if you take it home, 550 yen if you eat it inside'' Unable to shake the discomfort caused by the ``eat-in disparity'' widened by the Takaichi administration's consumption tax reduction | Life | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/966090?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-11-27T20:50:00+00:00",
+   "title_original": "税抜500円弁当｢持ち帰れば505円､店内で食べたら550円｣高市政権《消費税減税》が広げる\"イートイン格差\"に拭えぬ違和感 | ライフ | 東洋経済オンライン",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "fx",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "01f9b2fb959676f0"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Brave New Coin",
@@ -446,6 +465,23 @@
    "live_wire": true,
    "manual": false,
    "id": "daf484d9ff07626b"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg",
+   "title_en": "Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOajRDYnpkT2kwWEdlR2REeG93cnBZdkdsYmo3dTFmaVp3enZYN3Jid0RYVWZwNXJvcE00OG5FNjdwd0MzQXpFV1gzeUxkdnhxTVNoaGVNRmpnRllMTGY4emNtNW9VYnc4RWZVX0I2WExQNy1Ha21aV0FNWWVUb0FacnFLM01rUWRudjBCdGJpbGxCVUx3dl9KMEtZb0pyYURCTG1iWW5xUmNpaDlnc0lsMVpldmV6QQ?oc=5",
+   "published_utc": "2026-11-27T19:18:51+00:00",
+   "title_original": "Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3c63b253f796d529"
   },
   {
    "source_id": "nikkei_asia",
@@ -876,23 +912,6 @@
    "live_wire": false,
    "manual": false,
    "id": "0476a43ac12bffd4"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
-   "title_en": "Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOajRDYnpkT2kwWEdlR2REeG93cnBZdkdsYmo3dTFmaVp3enZYN3Jid0RYVWZwNXJvcE00OG5FNjdwd0MzQXpFV1gzeUxkdnhxTVNoaGVNRmpnRllMTGY4emNtNW9VYnc4RWZVX0I2WExQNy1Ha21aV0FNWWVUb0FacnFLM01rUWRudjBCdGJpbGxCVUx3dl9KMEtZb0pyYURCTG1iWW5xUmNpaDlnc0lsMVpldmV6QQ?oc=5",
-   "published_utc": "2026-11-27T11:45:46+00:00",
-   "title_original": "Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3c63b253f796d529"
   },
   {
    "source_id": "focus_taiwan",
@@ -2649,7 +2668,7 @@
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Trump calls for 200% semiconductor tariff; Taiwan says cap is 15%",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ2VkejdJTlpXZzNYeEd4SUptZHlQdkRiNWRaVThITHZHZ1RCREpDQlc5dldIVWZvS1NfeGJLd01TRXRTY2RNV0JTZERIVjZTcWM4NWF5TFVSWUdqeEZlbFlXWEl6YzhrV0cxYnRUcktrcWprZWZkbGw2R2pnX2JYLU0zbTBENE11VW5kU1VBdm56S0lVNmRub1RIQ21hVWlTejNB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb3VNQ05abXFnN3MyYVRMVTRqb2hDZlRNdDhqZDR1X2dOTTZQWDJhZXRzNmxyN1ZLQTBKQmlaR0QyejIzYkY0SUtCZmZxT3haTmZSVWxEVklpT1NzcXduUVA0ckZWeGEtOGt3WUUtNUdqQ2M3ZC1qSGk0WTRVcWxoM2UyM2dTdUlvNGJKalJVaERYc3ZnU0ZJVS1qTE41RUpYVEE?oc=5",
    "published_utc": "2026-11-26T22:41:23+00:00",
    "title_original": "Trump calls for 200% semiconductor tariff; Taiwan says cap is 15%",
    "region": "taiwan",
@@ -2661,7 +2680,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "8645cc1d3a719761"
+   "id": "77395d1dfddeb88f"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -4009,8 +4028,8 @@
    "id": "33d3d6f1142e1e9d"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi will revise the tax system next year “to promote investment and lead to growth”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261126de81902",
    "published_utc": "2026-11-26T08:14:00+00:00",
@@ -4023,7 +4042,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2f3e69c4a17301be"
+   "id": "984f302a111a267b"
   },
   {
    "source_id": "gn_kr_ked",
@@ -51863,23 +51882,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b70d7403b7be6cd5"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "The contract for rare obesity treatment, which LG Chem exported technology to U.S. bio companies, ha..",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5MTFXSldpV1czSkJKM3pRbW5hNkNKZXhJaUlLeHA3UzNidzNmYnRSV2dYQVZJcTI4dlN4LVVxdmE1Z0ZyRkFvU2dKUQ?oc=5",
-   "published_utc": "2026-11-03T08:35:34+00:00",
-   "title_original": "The contract for rare obesity treatment, which LG Chem exported technology to U.S. bio companies, ha..",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2da605894e22d2d7"
   },
   {
    "source_id": "manual_ia",

@@ -7,22 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T20:42:41.572353+00:00
+Última coleta: 2026-11-27T20:52:42.910254+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          948
+  🇯🇵 Japão          949
   🇨🇳 China          973
   🇹🇼 Taiwan         338
-  🇰🇷 Coreia do Sul  741
+  🇰🇷 Coreia do Sul  740
 
 ## O que já está no feed (não repita)
 
+  - [japan] 505 yen lunch box excluding tax: ``505 yen if you take it home, 550 yen if you eat it inside'' Unable to shake
   - [china] Lithium Price Outlook as Sellers Target 80,000 Yuan After Failed Recovery
   - [japan] The cost was surprisingly high... The true nature of the "ominous dissonance" between the Liberal Democratic P
   - [taiwan] TSMC Stocks Climb 1.84% as U.S. Tariff Proposal Leaves Chips Off the List
   - [korea] SK hynix Stocks Jump 5.41% as 100 Trillion Won Payout Plan Sinks In
   - [korea] Samsung Electronics Stocks Jump 4.55% as Seoul Rallies on Stabilization Hopes
   - [japan] NIPPON STEEL CORP. Stock 12‑Month Price Target Raised to JPY 753.33, Implies 11% Upside
+  - [china] Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang
   - [china] China's auto exports to rise 50% amid intensifying competition at home
   - [japan] Japan Week Ahead: October Factory Output, Retail Sales Likely to Show Solid Start to Final Quarter of 2026
   - [china] Nvidia, CoreWeave Face New U.S. Restrictions on China AI Chip Access
@@ -48,7 +50,6 @@ Total: 3000 manchetes
   - [china] NVIDIA Blackwell chips surface at China site tied to Megaspeed - Bloomberg
   - [china] EU launches anti-dumping probe into China, Singapore sustainable aviation fuel imports
   - [japan] Electricity charges for December usage drop at 10 major companies due to resumption of government subsidies
-  - [china] Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang
   - [taiwan] Taiwan's 2026 GDP growth forecast raised to 13.28%, highest since 1978
   - [china] CMST Development Plans To Register 4 Billion Yuan Debt Financing Instruments
   - [korea] Why South Korea’s chip boom is now a US tariff trap as a US$350b pledge looms
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan official says stablecoins need reserve rules to preserve ‘singleness of money’
   - [japan] House of Councilors consumption tax reduction bill ruling and opposition parties agree to hold question and an
   - [china] China State Construction Engineering Corp Secures Projects Totalling 14.6 Billion Yuan
-  - [china] China's major stock indexes surge, chip shares rally
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T20:42:41+00:00",
+      "published_utc": "2026-11-27T20:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
