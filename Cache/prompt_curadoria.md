@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T03:52:41.011594+00:00
+Última coleta: 2026-11-27T04:02:15.707935+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          946
-  🇨🇳 China          964
+  🇯🇵 Japão          945
+  🇨🇳 China          965
   🇹🇼 Taiwan         333
   🇰🇷 Coreia do Sul  757
 
@@ -30,6 +30,7 @@ Total: 3000 manchetes
   - [japan] Japan Inflation Likely to Accelerate on Energy, Food — Market Talk
   - [japan] Japan short-term yields gain as inflation bolsters rate-hike bets
   - [china] China industrial profits growth rises 20%, at 5-month high
+  - [china] China’s Industrial Profits Jump at Fastest Pace in Five Months
   - [japan] Bank of Japan Councilor Tamura praises Yamanashi Prefecture's economy as "rich in nature and high technology" 
   - [china] The test of corporate compliance under the technological competition between the United States and China KPMG:
   - [japan] Short-Term JGB Yields Rise on Elevated Tokyo Inflation Data — Market Talk
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Tokyo Inflation Accelerated, Keeping BOJ Rate Hike in Play
   - [japan] International Transactions in Securities (Weekly; based on reports from designated major investors)
   - [japan] Trade Statistics (First 10 Days of November 2026 [Provisional])
-  - [japan] Core inflation in Japan’s capital accelerates in November
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T03:52:41+00:00",
+      "published_utc": "2026-11-27T04:02:15+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
