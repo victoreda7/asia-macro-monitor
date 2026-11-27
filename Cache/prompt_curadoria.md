@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T17:12:51.272910+00:00
+Última coleta: 2026-11-27T17:22:41.035722+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          945
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] The Week Ahead (Nov. 30-Dec. 6): Nasdaq Extends Trading, EU Caps Chinese Hybrid Imports
   - [china] 800 billion MLF + 500 billion reverse repurchase, the central bank's "combination punch" accurately protects l
   - [korea] Midday Need to Know: Brazil stocks surge, SK Hynix boosts buybacks & more
   - [japan] Japan's data center subsidies to weigh local impact as backlash grows
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan Lifts 2027 Growth Outlook Despite Mounting AI Concern
   - [china] Guangdong Songfa Ceramics' Subsidiary To Invest About 17 Billion Yuan In Project
   - [china] 2nd LD-Writethru: China's major stock indexes surge, chip shares rally
-  - [china] UBS Cites Experts that Rising Social Security Costs Pressure Intermediaries; Shenzhen Rent Uptick Supports Hom
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T17:12:51+00:00",
+      "published_utc": "2026-11-27T17:22:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
