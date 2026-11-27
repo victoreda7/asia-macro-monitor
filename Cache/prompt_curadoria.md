@@ -7,16 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T08:02:42.905343+00:00
+Última coleta: 2026-11-27T08:13:05.859242+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          950
-  🇨🇳 China          976
-  🇹🇼 Taiwan         331
-  🇰🇷 Coreia do Sul  743
+  🇯🇵 Japão          948
+  🇨🇳 China          974
+  🇹🇼 Taiwan         336
+  🇰🇷 Coreia do Sul  742
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Taiwan 2027 Real GDP Forecast +6.51%
+  - [taiwan] Taiwan 2026 GDP Forecast +13.28%
+  - [taiwan] Taiwan Revises 3Q GDP To +2.86% On Quarter Vs +3.21% Estimate
+  - [taiwan] Taiwan Revises 3Q GDP To +14.39% On Year Vs +14.36% Estimate
+  - [taiwan] Taiwan raises 2026 GDP growth projection to 13.28%
   - [japan] JGB Monthly Newsletter (November 2026)
   - [china] Update: Chinese premier chairs State Council executive meeting
   - [china] China's State Council appoints, removes officials
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan Core Inflation Expected to Hover Near 2% in Early FY2027 — Market Talk
   - [japan] Japan Core Inflation Likely at 2.6% in November, Barclays Says — Market Talk
   - [japan] Consumer price index for Tokyo's 23 wards rose 2.9% in November, exceeding 2% for 3 consecutive months (TV Asa
-  - [japan] Result of Liquidity Enhancement Auction on November 27, 2026(For JGB Market Special Participants)
-  - [japan] Finance Minister Katayama plans to focus the supplementary budget on necessary measures
-  - [china] The central bank's reverse repurchase operation net withdrawn 45.5 billion! Dividend low-volatility ETF Huatai
-  - [korea] Korean Won Poised to Strengthen Against Dollar in 2027 — Market Talk
-  - [japan] Consumer price index for November in Tokyo's 23 wards increased by 2.9% compared to the same month last year
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T08:02:43+00:00",
+      "published_utc": "2026-11-27T08:13:06+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
