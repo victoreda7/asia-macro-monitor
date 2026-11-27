@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-27T00:02:43.051706+00:00",
- "collected_at_utc": "2026-11-27T00:02:43.051706+00:00",
+ "generated_at_utc": "2026-11-27T00:12:41.540152+00:00",
+ "collected_at_utc": "2026-11-27T00:12:41.540152+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 930,
-  "china": 973,
+  "japan": 931,
+  "china": 971,
   "taiwan": 339,
-  "korea": 758
+  "korea": 759
  },
- "elapsed_s": 29.0,
+ "elapsed_s": 28.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T22:41:23+00:00"
+   "newest": "2026-11-27T00:00:00+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-26T23:48:21+00:00"
+   "newest": "2026-11-27T00:01:22+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T18:37:49+00:00"
+   "newest": "2026-11-25T16:42:50+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-27T08:00:00+09:00"
+   "newest": "2026-11-27T09:02:54+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T18:52:41+00:00"
+   "newest": "2026-11-26T21:51:54+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T07:28:07+00:00"
+   "newest": "2026-11-26T22:08:29+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-27T08:30:00+09:00"
+   "newest": "2026-11-27T09:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T22:23:30+00:00"
+   "newest": "2026-11-26T11:34:27+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "November consumer price index for Tokyo's 23 wards increased by 2.9% compared to the same month last year",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261127de82195",
+   "published_utc": "2026-11-27T00:02:54+00:00",
+   "title_original": "東京23区の11月の消費者物価指数 前年同月比2.9%上昇",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "4966579222992174"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -395,6 +412,23 @@
    "live_wire": false,
    "manual": false,
    "id": "8cacaaa795289fbf"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Core inflation in Japan’s capital accelerates in November",
+   "url": "https://www.investing.com/news/economic-indicators/core-inflation-in-japans-capital-accelerates-in-november-5052767",
+   "published_utc": "2026-11-26T23:48:36+00:00",
+   "title_original": "Core inflation in Japan’s capital accelerates in November",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "d65cea44a6af090c"
   },
   {
    "source_id": "tradingview_live",
@@ -515,23 +549,6 @@
    "live_wire": true,
    "manual": false,
    "id": "f3c10b31f40e9df6"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Core inflation in Japan's capital accelerates in November",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4770CG:0-core-inflation-in-japan-s-capital-accelerates-in-november/",
-   "published_utc": "2026-11-26T23:38:36+00:00",
-   "title_original": "Core inflation in Japan's capital accelerates in November",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "bc9e06606647aed9"
   },
   {
    "source_id": "tradingview_live",
@@ -1774,6 +1791,23 @@
    "live_wire": false,
    "manual": false,
    "id": "674daeb34b42d3ab"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Valor Economico",
+   "title_en": "How a deal with Bain Capital made SK Hynix the main shareholder of competitor Kioxia",
+   "url": "https://www.tradingview.com/news/moodys:8c3712ae35a1e:0/",
+   "published_utc": "2026-11-26T08:17:01+00:00",
+   "title_original": "Como um acordo com a Bain Capital tornou a SK Hynix a principal acionista da concorrente Kioxia",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "3e70119005b74f52"
   },
   {
    "source_id": "gn_kr_bok",
@@ -7797,9 +7831,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "东方财富网",
+   "source_name": "东方财富",
    "title_en": "Central Bank: 800 billion yuan MLF operation will be carried out on November 25",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kOXpaUGV3RE8xdzRZajJseXlSTGtiQW1YckJEYzcxM2VzVEN0cUUwTWVPbUtPMFRfYW5VNlJaYTNLemV0WHhfNFM0eUV2ZGo0eUNPSXIyTHNOZTc5T1ZUSUs3WkJOdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6UENvd2dBNmhaNldHeUViVmdvQVhKSXNKQWZGSjJ1SHZId0M5aVhNSGpHN0gtdjdMY0NMRGNSQ3JrTmlFMGVWV0IwQlFGYTQwN3U0ZWlIMkY5X1UwQ3hFWA?oc=5",
    "published_utc": "2026-11-24T09:29:29+00:00",
    "title_original": "央行：11月25日将开展8000亿元MLF操作",
    "region": "china",
@@ -7811,7 +7845,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "185164eda1a75342"
+   "id": "50a6ca31e9d4299a"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -18281,23 +18315,6 @@
    "id": "4962f77e3067625c"
   },
   {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Samsung Electronics, SK hynix surge as Nvidia eases AI investment concerns",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ENW9CUl9hWU5UVzc2azhmSE1LN2xSV2sydUNpU29ncFREY1VJSjF3c1FZRlZVVUVFUU9oLXZRYVdlRHh1NzFYWWdXbFpMNHlhLXFLR1NQWQ?oc=5",
-   "published_utc": "2026-11-18T08:00:00+00:00",
-   "title_original": "Samsung Electronics, SK hynix surge as Nvidia eases AI investment concerns",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e4d7e7c395c72ae7"
-  },
-  {
    "source_id": "focus_taiwan",
    "source_name": "Focus Taiwan (CNA)",
    "title_en": "Lawmakers unfreeze 50 MND budget items totaling US$38.2 million",
@@ -18869,6 +18886,23 @@
    "live_wire": false,
    "manual": false,
    "id": "615121e94ee56b1b"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Samsung Electronics, SK hynix surge as Nvidia eases AI investment concerns",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ENW9CUl9hWU5UVzc2azhmSE1LN2xSV2sydUNpU29ncFREY1VJSjF3c1FZRlZVVUVFUU9oLXZRYVdlRHh1NzFYWWdXbFpMNHlhLXFLR1NQWQ?oc=5",
+   "published_utc": "2026-11-18T02:23:36+00:00",
+   "title_original": "Samsung Electronics, SK hynix surge as Nvidia eases AI investment concerns",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e4d7e7c395c72ae7"
   },
   {
    "source_id": "nhk_economy",
@@ -51849,40 +51883,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a4c52e74b00ada20"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "China’s Manufacturing Activity Returns to Contraction",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd0JpbzR2SXdMRXhKbDZqV0phZ0EwTHVKZDdUVmxlMk94S3V1bFQyczRXbXh3eUsxODF0VFEzVXBVOTVPdFpnNU1GaE5jWkNvVmNLR2R0cnhCbEo3ekd4cHBRdlUzS3lRMHhINmN1dVhwalBlb3gySmcxU3VTR3JzVHFfcDRqcmFUY3dvTGppVldZQzBTcW9xeUtkV0FoY0J4MDhSbnk2NjdvMW8?oc=5",
-   "published_utc": "2026-11-02T08:00:00+00:00",
-   "title_original": "China’s Manufacturing Activity Returns to Contraction",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2210ba606612e9a4"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "Xiaomi Diversifies Battery Supply Chain With Sunwoda Deal",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUHEzalhmODNJc19BNk85STV3aWdvZTNDcjBjTUxQUmhyOTJuR0VOaFdQajdqR1ZFbkRMallJYlRXTG1kam00OHJleUdIdDBmS0lDdWN2U3MtWDQwX0pOTVJBZ1JqcHdVcmFNMVVsSE5rV1JSTHdsTzVoSlR6NkNXdGZ4N3V3dnFQS2pmZTVuOWNnSkM4Nms5dWVqNkFrWEJIVW1DVnJ3VlZIMEE3VUtoNGh3?oc=5",
-   "published_utc": "2026-11-02T07:40:00+00:00",
-   "title_original": "Xiaomi Diversifies Battery Supply Chain With Sunwoda Deal",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2408ee3211a93681"
   },
   {
    "source_id": "manual_ia",
