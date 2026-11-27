@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T05:03:02.866672+00:00
+Última coleta: 2026-11-27T05:12:44.156431+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          948
-  🇨🇳 China          965
+  🇨🇳 China          966
   🇹🇼 Taiwan         331
-  🇰🇷 Coreia do Sul  756
+  🇰🇷 Coreia do Sul  755
 
 ## O que já está no feed (não repita)
 
@@ -21,6 +21,7 @@ Total: 3000 manchetes
   - [china] China's industrial profits surge 20.1% in October as ten-month growth accelerates to 16%
   - [china] Chinese premier chairs State Council executive meeting
   - [china] Emdoor Says To Buy Digital Solutions Firm For 715 Mln Yuan
+  - [china] Neoclouds Told To Choose: Nvidia Chips Or Chinese Customers
   - [china] Yuan eases on tariff fears despite four-year fixing high
   - [japan] Japan Core Inflation Expected to Hover Near 2% in Early FY2027 — Market Talk
   - [japan] Japan Core Inflation Likely at 2.6% in November, Barclays Says — Market Talk
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung revamps chip division to speed next-gen development
   - [china] The central bank launched a 794 billion overnight reverse repurchase operation, with a net investment of 222.5
   - [japan] Tokyo's 23 wards Consumer price index rose 2.9% in November The growth rate increased from the previous month 
-  - [japan] Central bank money an anchor of trust in diversifying monetary system, BOJ official says
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T05:03:03+00:00",
+      "published_utc": "2026-11-27T05:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
