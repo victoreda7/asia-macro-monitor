@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-27T03:22:42.878519+00:00",
- "collected_at_utc": "2026-11-27T03:22:42.878519+00:00",
+ "generated_at_utc": "2026-11-27T03:32:58.526191+00:00",
+ "collected_at_utc": "2026-11-27T03:32:58.526191+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 943,
-  "china": 966,
+  "japan": 944,
+  "china": 965,
   "taiwan": 334,
   "korea": 757
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 42.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -57,7 +57,7 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 21,
+   "count": 20,
    "error": "",
    "newest": "2026-11-26T08:11:00+00:00"
   },
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-27T03:08:19+00:00"
+   "newest": "2026-11-27T03:08:28+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -155,7 +155,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-27T10:20:00+09:00"
+   "newest": "2026-11-27T12:30:00+09:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-27T11:53:14+09:00"
+   "newest": "2026-11-27T12:31:33+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-27T03:20:00+00:00"
+   "newest": "2026-11-27T03:30:15+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T02:00:00+00:00"
+   "newest": "2026-11-27T03:20:30+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Nikkei Stock Average rises due to buybacks of AI/semiconductor related stocks",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261127de82344",
+   "published_utc": "2026-11-27T03:31:33+00:00",
+   "title_original": "日経平均株価 AI・半導体関連銘柄の買い戻しで上昇",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "24d4ea8b538f4abf"
+  },
   {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
@@ -1350,23 +1367,6 @@
    "id": "7062d34466b1f4d2"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "Sohu",
-   "title_en": "800 billion MLF + 500 billion reverse repurchase, the central bank's \"combination punch\" accurately protects liquidity",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbktTRHRkQ1BEMzRQSWhZYzdET1dwcGUxU0N0RHoxeUZXWkx3LTl6NC04ZnpwS3V0MG9zekZBNnA4SVpCNlVBZzU4T2lIX1JOWWFobHdGUlpEU1EzOVNfY2d0VUlQZlJMOE5OUkk2R3hieWduNnpoczNwbXVEb3paenlJdEFrUHkzT3Z5QQ?oc=5",
-   "published_utc": "2026-11-26T20:50:44+00:00",
-   "title_original": "8000亿MLF+5000亿逆回购 央行“组合拳”精准呵护流动性",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "4bf98c7cb9a44136"
-  },
-  {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
    "title_en": "``I don't want to rely on welfare anymore'' ``What can I master here?'' The true feelings and conflicts of people with disabilities working in the employment support business | Business | Toyo Keizai Online",
@@ -1399,6 +1399,23 @@
    "live_wire": false,
    "manual": false,
    "id": "7f69acd05d1c048e"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中国经营网",
+   "title_en": "800 billion MLF + 500 billion reverse repurchase, the central bank's \"combination punch\" accurately protects liquidity",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkaHhleXl2Z1hhYTRhaWtFN0c2MWx3TE5jZF94LUg5d1NrajMzbFF4SDl1ZHAxZ0pvU1I2N1ZsZjJBVkNsWExyaV9sSzE0X1d4RnJwMm45a19aTWx0bEgxTTZn?oc=5",
+   "published_utc": "2026-11-26T20:38:00+00:00",
+   "title_original": "8000亿MLF+5000亿逆回购 央行“组合拳”精准呵护流动性",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "50eb716f12369c05"
   },
   {
    "source_id": "nikkei_asia",
@@ -2453,8 +2470,8 @@
    "id": "33d3d6f1142e1e9d"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi will revise the tax system next year “to promote investment and lead to growth”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261126de81902",
    "published_utc": "2026-11-26T08:14:00+00:00",
@@ -2467,7 +2484,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "984f302a111a267b"
+   "id": "2f3e69c4a17301be"
   },
   {
    "source_id": "gn_kr_ked",
@@ -3997,20 +4014,21 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "KBC광주방송",
-   "title_en": "Bank of Korea raises base interest rate to 3.25%... three times in the second half of the year alone",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KZmtMV2lRNUpLVVlsUXVzRVR6RGQ0ZjJOQUFlaFpkcmRlVmlvNDF6Ylp5dzA3OEJXOS1ZUEtCbW51WUhPM1Y1VS1YS2h1ZlBNTjVWV0lqZXFzY2VZSmVxRg?oc=5",
-   "published_utc": "2026-11-26T01:45:01+00:00",
-   "title_original": "한은, 기준금리 3.25%로 인상...하반기에만 세 차례",
+   "source_name": "뉴스1",
+   "title_en": "[Full text] Bank of Korea Monetary Policy Committee decision on monetary policy direction for November",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5tc1VXYUtxVkctZDNHWWhVeXFtWXJYVHdJNkoySXo4NmpTVDFtQy1RdFpUN2FTZFNPX1NfaVZIMmVKa1VQWE9lelFYNEU0VWJBS3JqWQ?oc=5",
+   "published_utc": "2026-11-26T01:45:06+00:00",
+   "title_original": "[전문] 한국은행 금융통화위원회 11월 통화정책방향 결정문",
    "region": "korea",
    "topics": [
-    "monetary"
+    "monetary",
+    "signaling"
    ],
    "lang_original": "ko",
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "395d434c90141913"
+   "id": "d80fe72bf0cf9ec2"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -7483,8 +7501,8 @@
    "id": "30bc1e8f69757367"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Formulation of second supplementary budget plan expected to be limited to Kumamoto earthquake recovery, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261125de80904",
    "published_utc": "2026-11-24T20:38:00+00:00",
@@ -7498,7 +7516,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "47d0ded3307f0151"
+   "id": "91ec4ad2eb523a4f"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -7881,6 +7899,24 @@
    "id": "de92cd28e2ed089b"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "京报网",
+   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZLUJkbWhkcWNkWXBoOU44SzVKSzFPTjRqM0xhVV93THpBeUE3ZlFJeGZzT05oSHZlSHpaUVhxZ2JULVM5WGVEUDFyUEJNSDF4dXJuUjR0eDFaWUNCUHc?oc=5",
+   "published_utc": "2026-11-24T13:00:19+00:00",
+   "title_original": "央行将开展8000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b7a825b334904b45"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
    "title_en": "Yen Falls Amid Global AI Sector Revival",
@@ -8004,7 +8040,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "Sohu",
    "title_en": "The central bank recently announced that it will carry out 800 billion yuan of MLF operations",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUnZFMkdHRG95MnJLU3JDTTBCaUIwQmpVRHZTcmZ4UFYzcXhmelNPd3MxanFDZUJDbVhGQWxmT2xWMEpxbWF3RmwxWWp0UHpsQjlhRU9pNXVISWdSX1U2RjNCMWIzM1gxZ1FFZ0swTmxYZkh4djlGSGR2YVZtN2pjdlBxZkZoTTEwRWJF?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRXVTbUk4bjBaWmpDeVNXdGd1U3BNSkptNktObkxGcjZmMFM0S0dHd2UxYXA5XzZYSmVrTmlOaG1nUVByVmVKcm9hRGRnQTJnR2o1MDdmbFZEc0lsYUtSdHN1V3QwYldqVzBLZHptN2M0TDF4TkhSblJpT3NXR1g1dGY0c1FuMk9z?oc=5",
    "published_utc": "2026-11-24T11:57:56+00:00",
    "title_original": "央行最新宣布，将开展8000亿元MLF操作",
    "region": "china",
@@ -8016,7 +8052,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ebeb58740ddd2edc"
+   "id": "85389ed73c9fb172"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -8435,24 +8471,6 @@
    "id": "7c8dca0001fef26c"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "ThePaper.cn",
-   "title_en": "Central Bank: Will launch 500 billion yuan 7-day reverse repurchase operation on November 25",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFN1U4VV9qTGIyd2FzZGhDYXZySU1pRE9ndlhvcWxTdnFGeWVuNlRiMWNKNDNkNDE0Yi0tYTRrVVNINXBBSm1lVldhcVViTDBEcWRHU2k0LXpVUEs4MmdpWA?oc=5",
-   "published_utc": "2026-11-24T09:34:34+00:00",
-   "title_original": "央行：11月25日将开展5000亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e1e76ede17ef3679"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "TSMC eyes US$22.6 billion Texas campus for 2nm chips",
@@ -8556,24 +8574,6 @@
    "live_wire": true,
    "manual": false,
    "id": "8361c2d8d19ff598"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "大河财立方",
-   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QZ1BGR25ub3N4YmtENzlwNWR2YzdlSDRvU3p5VzRXelhnMlhPNGtBclhaYjdMVklWWV8yYVpUcGJFUV82Q19pbGNlYWdqVE1uN0o0THJfYV9lWThHSzB4SGtSTG9PSmJvY2c?oc=5",
-   "published_utc": "2026-11-24T09:24:24+00:00",
-   "title_original": "央行将开展8000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "16c7f7c4ddc6591f"
   },
   {
    "source_id": "tradingview_live",
@@ -8941,6 +8941,24 @@
    "live_wire": false,
    "manual": false,
    "id": "8bf9c875b2192dbd"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "Central Bank: Will launch 500 billion yuan 7-day reverse repurchase operation on November 25",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JX3Rtb3VBZ3d4QmU0WVYzZHA0OUxXODB3dmJfYmVWZ0RhWkJDN0xQX3pqck9WdFhvX1lTMW56VHVENmZ3UjdWSFRZdWUtY1JEd1JJRFRsaTZZMnU4NnlzZjdXbnBYQQ?oc=5",
+   "published_utc": "2026-11-24T08:00:00+00:00",
+   "title_original": "央行：11月25日将开展5000亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7e0e651fb9f70ac6"
   },
   {
    "source_id": "focus_taiwan",
@@ -51868,24 +51886,6 @@
    "live_wire": false,
    "manual": false,
    "id": "0751835d882097c2"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "Shangbao Indonesia",
-   "title_en": "China's central bank launches new overnight reverse repurchase mechanism, operating 541 billion yuan on first day",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUDNOMkNjYWgwdjRndGVDNURGSWpac2o4Z2dWM3Y2MVhRZ2d3UjlLdWVsREtlejM1UklVa250LTJ3bFFMY2NRRVRYOXVfMHBfODNRRGtyRFcyamN4OW1Gc2RNQTNOSnA4THdSaVEzOTZEUldVT1VoRjgtWEtwQlJCU19iVmhqQQ?oc=5",
-   "published_utc": "2026-11-02T12:20:00+00:00",
-   "title_original": "中国央行启动隔夜逆回购新机制 首日操作5410亿元",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "28d7f1328b58d94f"
   },
   {
    "source_id": "manual_ia",
