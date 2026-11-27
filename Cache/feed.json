@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-11-27T17:33:31.584852+00:00",
- "collected_at_utc": "2026-11-27T17:33:31.584852+00:00",
+ "generated_at_utc": "2026-11-27T17:42:43.942368+00:00",
+ "collected_at_utc": "2026-11-27T17:42:43.942368+00:00",
  "degraded": false,
- "sources_ok": 39,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,24 +11,8 @@
   "taiwan": 340,
   "korea": 743
  },
- "elapsed_s": 70.1,
+ "elapsed_s": 29.1,
  "sources": [
-  {
-   "source_id": "nhk_politics",
-   "name": "NHK 政治",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "nhk_economy",
-   "name": "NHK 経済",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -75,7 +59,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T12:07:00+00:00"
+   "newest": "2026-11-27T13:17:00+00:00"
   },
   {
    "source_id": "focus_taiwan",
@@ -89,9 +73,9 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 10,
+   "count": 163,
    "error": "",
-   "newest": "2026-11-27T17:12:19+00:00"
+   "newest": "2026-11-27T17:30:46+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -163,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T16:42:50+00:00"
+   "newest": "2026-11-25T18:37:49+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -187,7 +171,23 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T13:31:36+00:00"
+   "newest": "2026-11-26T03:18:01+00:00"
+  },
+  {
+   "source_id": "nhk_politics",
+   "name": "NHK 政治",
+   "ok": true,
+   "count": 60,
+   "error": "",
+   "newest": "2026-11-27T23:43:30+09:00"
+  },
+  {
+   "source_id": "nhk_economy",
+   "name": "NHK 経済",
+   "ok": true,
+   "count": 60,
+   "error": "",
+   "newest": "2026-11-27T22:48:35+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-27T17:32:14+00:00"
+   "newest": "2026-11-27T17:42:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T07:19:59+00:00"
+   "newest": "2026-11-27T08:13:00+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -342,10 +342,7 @@
    "newest": "2026-11-26T19:00:00+00:00"
   }
  ],
- "falhas_seguidas": {
-  "nhk_politics": 1,
-  "nhk_economy": 1
- },
+ "falhas_seguidas": {},
  "items": [
   {
    "source_id": "tradingview_live",
