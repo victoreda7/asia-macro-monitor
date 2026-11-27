@@ -7,19 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T02:42:45.585811+00:00
+Última coleta: 2026-11-27T02:52:59.090374+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          943
-  🇨🇳 China          967
-  🇹🇼 Taiwan         336
+  🇯🇵 Japão          944
+  🇨🇳 China          968
+  🇹🇼 Taiwan         334
   🇰🇷 Coreia do Sul  754
 
 ## O que já está no feed (não repita)
 
+  - [china] China warns of retaliation after Trump administration proposes new tariffs over overcapacity
+  - [japan] Tokyo Core CPI Rises to 2.9% YoY; December BoJ Rate Hike Expected
   - [japan] Japan Inflation Likely to Accelerate on Energy, Food — Market Talk
   - [japan] Japan short-term yields gain as inflation bolsters rate-hike bets
   - [china] China industrial profits growth rises 20%, at 5-month high
+  - [japan] Bank of Japan Councilor Tamura praises Yamanashi Prefecture's economy as "rich in nature and high technology" 
   - [china] The test of corporate compliance under the technological competition between the United States and China KPMG:
   - [japan] Short-Term JGB Yields Rise on Elevated Tokyo Inflation Data — Market Talk
   - [japan] Even if the Bank of Japan raises interest rates, the yen's depreciation hell won't end... Why isn't the yen be
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] BREAKING NEWS: Consumer inflation in Tokyo accelerates to 2.9% in Nov.
   - [japan] JAPAN NOV TOKYO CPI: ENERGY +9.5% Y/Y (+0.43 POINT CONTRIBUTION), VS. +2.2% (+0.09 POINT) IN OCT
   - [japan] JAPAN NOV TOKYO INFLATION RATE ACCELERATES ON HIGHER UTILITY BILLS AFTER SUMMER SUBSIDIES ENDED AND AS MIDEAST
-  - [japan] Core inflation in Tokyo hits 16-month high, bolsters case for BOJ hike
-  - [japan] JAPAN NOV TOKYO CORE-CORE CPI (EX-FRESH FOOD, ENERGY) +2.5% Y/Y (OCT +2.6%); MEDIAN FORECAST +2.8% (range: +2.
-  - [japan] JAPAN NOV TOKYO TOTAL CPI +2.8% Y/Y (OCT REVISED DOWN TO +2.7% FROM +2.8%); MEDIAN FORECAST +3.0% Y/Y (RANGE: 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T02:42:45+00:00",
+      "published_utc": "2026-11-27T02:52:59+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

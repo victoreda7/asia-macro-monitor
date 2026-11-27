@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-27T02:42:45.585811+00:00",
- "collected_at_utc": "2026-11-27T02:42:45.585811+00:00",
+ "generated_at_utc": "2026-11-27T02:52:59.090374+00:00",
+ "collected_at_utc": "2026-11-27T02:52:59.090374+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 943,
-  "china": 967,
-  "taiwan": 336,
+  "japan": 944,
+  "china": 968,
+  "taiwan": 334,
   "korea": 754
  },
- "elapsed_s": 31.3,
+ "elapsed_s": 41.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-27T02:35:54+00:00"
+   "newest": "2026-11-27T02:45:55+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T19:05:28+00:00"
+   "newest": "2026-11-27T02:38:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T16:42:50+00:00"
+   "newest": "2026-11-25T18:37:49+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-27T02:41:41+00:00"
+   "newest": "2026-11-27T02:51:25+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T21:51:54+00:00"
+   "newest": "2026-11-27T00:55:48+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T02:00:32+00:00"
+   "newest": "2026-11-27T02:15:01+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T00:01:32+00:00"
+   "newest": "2026-11-26T22:08:29+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -339,11 +339,46 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T21:43:50+00:00"
+   "newest": "2026-11-26T10:50:42+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "CNBC TV18",
+   "title_en": "China warns of retaliation after Trump administration proposes new tariffs over overcapacity",
+   "url": "https://www.tradingview.com/news/cnbctv:6a836abfd094b:0/",
+   "published_utc": "2026-11-27T02:51:25+00:00",
+   "title_original": "China warns of retaliation after Trump administration proposes new tariffs over overcapacity",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "050ff6ea193c6935"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Binance News",
+   "title_en": "Tokyo Core CPI Rises to 2.9% YoY; December BoJ Rate Hike Expected",
+   "url": "https://www.tradingview.com/news/binance_news:ec363c519094b:0-tokyo-core-cpi-rises-to-2-9-yoy-december-boj-rate-hike-expected/",
+   "published_utc": "2026-11-27T02:41:01+00:00",
+   "title_original": "Tokyo Core CPI Rises to 2.9% YoY; December BoJ Rate Hike Expected",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "194da15d68b0b5ca"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -394,6 +429,23 @@
    "live_wire": true,
    "manual": false,
    "id": "665f110edf7bb258"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan Councilor Tamura praises Yamanashi Prefecture's economy as \"rich in nature and high technology\" (Asahi Shimbun)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBObHZXM2hoMnNBbmo4Y2tOZFhMZUNjdDc2cFZ0WUxjZUdqemlQMVo2X0RsanlocW44ckpaajJwbDUzWDg3Uk9pNWliOW15eEctZGVLT3ZGT3NwU3Y3bm5pREtlRXpnZ3N2UTEtd1hMSlJVNGNiRzE5VWtidTExaTg?oc=5",
+   "published_utc": "2026-11-27T02:15:01+00:00",
+   "title_original": "日銀の田村審議委員、山梨県の経済を評価「豊かな自然と高い技術力」（朝日新聞）",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "648c8548fba49558"
   },
   {
    "source_id": "gn_tw_cna",
@@ -2315,8 +2367,8 @@
    "id": "33d3d6f1142e1e9d"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi will revise the tax system next year “to promote investment and lead to growth”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261126de81902",
    "published_utc": "2026-11-26T08:14:00+00:00",
@@ -2329,7 +2381,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2f3e69c4a17301be"
+   "id": "984f302a111a267b"
   },
   {
    "source_id": "gn_kr_ked",
@@ -7293,8 +7345,8 @@
    "id": "30bc1e8f69757367"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Formulation of second supplementary budget plan expected to be limited to Kumamoto earthquake recovery, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261125de80904",
    "published_utc": "2026-11-24T20:38:00+00:00",
@@ -7308,7 +7360,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "91ec4ad2eb523a4f"
+   "id": "47d0ded3307f0151"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51834,59 +51886,6 @@
    "live_wire": false,
    "manual": false,
    "id": "aa9f79339c8be0be"
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "A major breakthrough! Japanese media revealed that Taiwan and Japan could sign a \"comprehensive trade agreement\" by the end of the year as soon as possible | Footage of a plane crashing in Florida was revealed! All 9 people on board were killed｜2026/11/02 Central News Agency Global Evening News",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBodXB6TVA2ZE0yeTFDU2QtUnR3X1A5WGU5VGtka3ZINGtHN2lCQjcyTVo5ZUVLVFRYTTNtbXRRVVc5SGJndFMyeWRFX1EzUG9LZVIwMnE5bHdPMTQ?oc=5",
-   "published_utc": "2026-11-02T10:39:57+00:00",
-   "title_original": "重大突破！日媒曝台日最快年底簽「全面貿易協議」｜佛州飛機急墜畫面曝！機上9人全數罹難｜2026/11/02 中央社全球晚間新聞",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c90c73a3d9a7b114"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "SBI Holdings Inc - To Establish Merged Company With Capital Of 100 Million Yen Equally Split Between SBI Group And Fuji Media Group",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46J0YQ:0-sbi-holdings-inc-to-establish-merged-company-with-capital-of-100-million-yen-equally-split-between-sbi-group-and-fuji-media-group/",
-   "published_utc": "2026-11-02T10:38:56+00:00",
-   "title_original": "SBI Holdings Inc - To Establish Merged Company With Capital Of 100 Million Yen Equally Split Between SBI Group And Fuji Media Group",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "dd3e364b9c9278db"
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "The New Taiwan dollar fell by more than 2 cents during the session. The central bank and exporters joined forces to resist the selling pressure from foreign investors | Sankei",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtWmdwRnV5QklOZ2xDT2ZNU3JHVDBmTlhPd1lLZ19mcXJORXBIOVd3S0w2dFBuV0VjenlONkFmRFloZUVCb3Zqa0F0WkV0RHl0WmVVeGxCRmUzd2tSRVE?oc=5",
-   "published_utc": "2026-11-02T10:35:00+00:00",
-   "title_original": "新台幣盤中重貶逾2角央行、出口商聯手抗外資賣壓| 產經",
-   "region": "taiwan",
-   "topics": [
-    "monetary",
-    "fx",
-    "trade"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "34b21b431aa1aab8"
   },
   {
    "source_id": "manual_ia",
