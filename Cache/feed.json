@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-27T18:12:42.426206+00:00",
- "collected_at_utc": "2026-11-27T18:12:42.426206+00:00",
+ "generated_at_utc": "2026-11-27T18:22:49.333525+00:00",
+ "collected_at_utc": "2026-11-27T18:22:49.333525+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 945,
+  "japan": 946,
   "china": 972,
-  "taiwan": 340,
+  "taiwan": 339,
   "korea": 743
  },
- "elapsed_s": 28.9,
+ "elapsed_s": 31.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -59,7 +59,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T12:07:00+00:00"
+   "newest": "2026-11-27T13:17:00+00:00"
   },
   {
    "source_id": "focus_taiwan",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T17:02:32+00:00"
+   "newest": "2026-11-27T18:12:24+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T01:30:00+00:00"
+   "newest": "2026-11-27T03:08:33+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-27T18:02:47+00:00"
+   "newest": "2026-11-27T18:20:34+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T09:53:51+00:00"
+   "newest": "2026-11-27T13:49:03+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -344,6 +344,24 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Mace News",
+   "title_en": "Japan Week Ahead: October Factory Output, Retail Sales Likely to Show Solid Start to Final Quarter of 2026",
+   "url": "https://www.tradingview.com/news/macenews:311e37de9094b:0-japan-week-ahead-october-factory-output-retail-sales-likely-to-show-solid-start-to-final-quarter-of-2026/",
+   "published_utc": "2026-11-27T18:17:00+00:00",
+   "title_original": "Japan Week Ahead: October Factory Output, Retail Sales Likely to Show Solid Start to Final Quarter of 2026",
+   "region": "japan",
+   "topics": [
+    "activity",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "cfce80c723a200f3"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "GuruFocus",
@@ -1293,23 +1311,6 @@
    "live_wire": true,
    "manual": false,
    "id": "c8dc7e76df2c6f31"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Taiwan 2027 Real GDP Forecast +6.51%",
-   "url": "https://www.tradingview.com/news/DJN_DN20261127001116_20261127001121:0-taiwan-2027-real-gdp-forecast-6-51/",
-   "published_utc": "2026-11-27T08:07:00+00:00",
-   "title_original": "Taiwan 2027 Real GDP Forecast +6.51%",
-   "region": "taiwan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "756e1323c747cac0"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -3905,8 +3906,8 @@
    "id": "33d3d6f1142e1e9d"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi will revise the tax system next year “to promote investment and lead to growth”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261126de81902",
    "published_utc": "2026-11-26T08:14:00+00:00",
@@ -3919,7 +3920,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2f3e69c4a17301be"
+   "id": "984f302a111a267b"
   },
   {
    "source_id": "gn_kr_ked",
