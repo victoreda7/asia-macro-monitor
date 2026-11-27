@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T17:22:41.035722+00:00
+Última coleta: 2026-11-27T17:33:31.584852+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          945
-  🇨🇳 China          970
-  🇹🇼 Taiwan         341
-  🇰🇷 Coreia do Sul  744
+  🇨🇳 China          972
+  🇹🇼 Taiwan         340
+  🇰🇷 Coreia do Sul  743
 
 ## O que já está no feed (não repita)
 
+  - [china] Nvidia, CoreWeave Face New U.S. Restrictions on China AI Chip Access
   - [china] The Week Ahead (Nov. 30-Dec. 6): Nasdaq Extends Trading, EU Caps Chinese Hybrid Imports
   - [china] 800 billion MLF + 500 billion reverse repurchase, the central bank's "combination punch" accurately protects l
   - [korea] Midday Need to Know: Brazil stocks surge, SK Hynix boosts buybacks & more
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Kweichow Moutai To Distribute Cash Dividend Of 25.6 Yuan Per Share
   - [taiwan] Taiwan Lifts 2027 Growth Outlook Despite Mounting AI Concern
   - [china] Guangdong Songfa Ceramics' Subsidiary To Invest About 17 Billion Yuan In Project
-  - [china] 2nd LD-Writethru: China's major stock indexes surge, chip shares rally
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T17:22:41+00:00",
+      "published_utc": "2026-11-27T17:33:31+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
