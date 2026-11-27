@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T05:32:41.786164+00:00
+Última coleta: 2026-11-27T05:42:48.734627+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          944
-  🇨🇳 China          968
+  🇯🇵 Japão          943
+  🇨🇳 China          969
   🇹🇼 Taiwan         331
   🇰🇷 Coreia do Sul  757
 
@@ -54,9 +54,9 @@ Total: 3000 manchetes
   - [china] CHINA PBOC CONDUCTS CNY794 BLN VIA O/N REVERSE REPO FRI
   - [china] Central Bank: On November 27, it launched a 794 billion yuan overnight reverse repurchase operation
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7075 FRI VS 6.7096
+  - [china] On November 27, the central bank launched a 794 billion yuan overnight reverse repurchase operation.
   - [china] Yu Weining, chief statistician of the Industrial Department of the National Bureau of Statistics, interprets t
   - [china] From January to October 2026, profits of industrial enterprises above designated size nationwide increased by 
-  - [taiwan] US Section 301 tariffs spare key chip markets, but Vietnam clouds Taiwan's 2027 outlook
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T05:32:41+00:00",
+      "published_utc": "2026-11-27T05:42:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
