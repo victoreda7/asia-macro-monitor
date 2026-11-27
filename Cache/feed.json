@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-27T09:42:46.527816+00:00",
- "collected_at_utc": "2026-11-27T09:42:46.527816+00:00",
+ "generated_at_utc": "2026-11-27T09:52:43.120114+00:00",
+ "collected_at_utc": "2026-11-27T09:52:43.120114+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 944,
-  "china": 973,
+  "china": 974,
   "taiwan": 340,
-  "korea": 743
+  "korea": 742
  },
- "elapsed_s": 28.9,
+ "elapsed_s": 28.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-27T09:36:48+00:00"
+   "newest": "2026-11-27T09:41:23+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-27T09:07:25+00:00"
+   "newest": "2026-11-27T09:42:21+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T03:20:28+00:00"
+   "newest": "2026-11-27T07:00:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T08:52:00+00:00"
+   "newest": "2026-11-25T08:54:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T13:17:23+00:00"
+   "newest": "2026-11-27T07:22:29+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-27T09:32:18+00:00"
+   "newest": "2026-11-27T09:51:43+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T06:52:52+00:00"
+   "newest": "2026-11-27T03:52:17+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -344,6 +344,40 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Seeking Alpha",
+   "title_en": "DSC partners with JAPANCARS to expand China’s used car exports",
+   "url": "https://www.tradingview.com/news/seekingalpha:86448970d094b:0-dsc-partners-with-japancars-to-expand-china-s-used-car-exports/",
+   "published_utc": "2026-11-27T09:43:06+00:00",
+   "title_original": "DSC partners with JAPANCARS to expand China’s used car exports",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b6defc8718aea9a3"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Kweichow Moutai To Distribute Cash Dividend Of 25.6 Yuan Per Share",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4780OA:0-kweichow-moutai-to-distribute-cash-dividend-of-25-6-yuan-per-share/",
+   "published_utc": "2026-11-27T09:41:26+00:00",
+   "title_original": "Kweichow Moutai To Distribute Cash Dividend Of 25.6 Yuan Per Share",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "5f3d0a02d1ee353a"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -1430,23 +1464,6 @@
    "id": "1df2e7c2189eda6e"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Korean Won Poised to Strengthen Against Dollar in 2027 — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261126004413:0-korean-won-poised-to-strengthen-against-dollar-in-2027-market-talk/",
-   "published_utc": "2026-11-27T02:59:00+00:00",
-   "title_original": "Korean Won Poised to Strengthen Against Dollar in 2027 — Market Talk",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "9d7b27f1005232ef"
-  },
-  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "Consumer price index for November in Tokyo's 23 wards increased by 2.9% compared to the same month last year",
@@ -1462,23 +1479,6 @@
    "live_wire": false,
    "manual": false,
    "id": "84282a9e24f7eab2"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "CNBC TV18",
-   "title_en": "China warns of retaliation after Trump administration proposes new tariffs alleging overcapacity",
-   "url": "https://www.tradingview.com/news/cnbctv:786bf9c86094b:0/",
-   "published_utc": "2026-11-27T02:51:25+00:00",
-   "title_original": "China warns of retaliation after Trump administration proposes new tariffs alleging overcapacity",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "ef7cacaebf06efd9"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -2021,6 +2021,23 @@
    "id": "176a9018c32c9172"
   },
   {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Tokyo prices rose 2.9% in November (Kyodo News)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PX1RUMl8yOUdkajZSb0lRdUNlODVsOW9RMnV2RWNQcUg0Q2pKeDlLVmlNSXc5ZHJ1dTRJZjZMdUNEREFaV2l3NjBaaG1nX1FCangzeWt3UkpJNWpBRlcxbHV3RHVtSkltZjh2RDlFNXBoTXR5VVhlRmF4aURMZDQ?oc=5",
+   "published_utc": "2026-11-26T23:41:35+00:00",
+   "title_original": "11月の東京物価2.9％上昇（共同通信）",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "94b23fedab2a29cf"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Mace News",
    "title_en": "JAPAN NOV TOKYO INFLATION RATE ACCELERATES ON HIGHER UTILITY BILLS AFTER SUMMER SUBSIDIES ENDED AND AS MIDEAST CONFLICT KEEPS ENERGY COST HIGH",
@@ -2055,23 +2072,6 @@
    "live_wire": true,
    "manual": false,
    "id": "c031ce56a6f50db4"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Tokyo prices rose 2.9% in November (Kyodo News)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PX1RUMl8yOUdkajZSb0lRdUNlODVsOW9RMnV2RWNQcUg0Q2pKeDlLVmlNSXc5ZHJ1dTRJZjZMdUNEREFaV2l3NjBaaG1nX1FCangzeWt3UkpJNWpBRlcxbHV3RHVtSkltZjh2RDlFNXBoTXR5VVhlRmF4aURMZDQ?oc=5",
-   "published_utc": "2026-11-26T23:38:11+00:00",
-   "title_original": "11月の東京物価2.9％上昇（共同通信）",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "94b23fedab2a29cf"
   },
   {
    "source_id": "tradingview_live",
@@ -2760,6 +2760,23 @@
    "live_wire": true,
    "manual": false,
    "id": "2bb186f9a22766ef"
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "source_name": "中央社 CNA",
+   "title_en": "Export-Import Bank of China | Keyword News",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE52UzZIRnl3NDdzOWFqVXVDZlByVDNuT3ZwS09jX3U1MnlzTkRicjdkUll4eHEtazRrQ3l0Rmc1Y2djeHVxYmE2Yg?oc=5",
+   "published_utc": "2026-11-26T11:16:50+00:00",
+   "title_original": "中國進出口銀行| 關鍵字新聞",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "2dda7fa24dadfbbc"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -7518,6 +7535,24 @@
    "id": "fd8995a4d9d25359"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富网",
+   "title_en": "On November 25, the central bank launched a 617 billion yuan overnight reverse repurchase operation.",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UNFV2S2poejBRZXZPVXh4UWRJWnhNYnVWaV9kM2dMR2FBdnd4c1VQc2ROM0FoSkZySmMyWl9GR1g1VFVHV3BGVDJTY25KaXFuOEMxNDc5NWYzdU05LTliNEtUTlpOdw?oc=5",
+   "published_utc": "2026-11-25T03:02:15+00:00",
+   "title_original": "11月25日央行开展6170亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a0d6c5ed19dba328"
+  },
+  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "Banks' household mortgage lending rates up for 6th month in Oct.",
@@ -7639,24 +7674,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ba8efc830b81e1df"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "中国新闻网",
-   "title_en": "On November 25, the central bank launched a 617 billion yuan overnight reverse repurchase operation.",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJUmRNc1R4ckVOa0FTbTA1Yi1OM281c2NrUWRYNWdyY1ZnS1FiUWg5NkR6XzlfNzcweVRGcl94N3Q2VC1lRzFMYTZwQWQxQ1o1Sjg2REJ2cTdIZFZ5aGNGV2dPbF85bFE1?oc=5",
-   "published_utc": "2026-11-25T02:06:19+00:00",
-   "title_original": "11月25日央行开展6170亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "2617bf22b0c41429"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -7850,6 +7867,24 @@
    "live_wire": false,
    "manual": false,
    "id": "9e883564c5004a85"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富网",
+   "title_en": "Yangguang Financial Morning Post (November 25) | The central bank launched a 500 billion yuan 7-day reverse repurchase and an 800 billion yuan MLF operation; the Ministry of Innovation and Development of 6G launched a provincial coordinated pilot, and 8 provinces and cities were approved",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oR0VJOFNROEpZV1VtWGg4aENvZ3hnbGxuQzJEX0FMQWk5Q0JGNkZ3MDR2V2x2dFdROTZabjRrNzhNbEFXOGYzU3NsLVJBakJUZjNYZFhBaXA0eUF4YjhOS2lXbWdKZw?oc=5",
+   "published_utc": "2026-11-25T01:08:04+00:00",
+   "title_original": "央广财经早报（11月25日）|央行开展5000亿元7天期逆回购和8000亿元MLF操作；6G创新发展部省协同试点启动，8省市获批",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "615a1888bcb8aabe"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -8165,24 +8200,6 @@
    "live_wire": false,
    "manual": false,
    "id": "fa9fa8926b48d034"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富网",
-   "title_en": "Yangguang Financial Morning Post (November 25) | The central bank launched a 500 billion yuan 7-day reverse repurchase and an 800 billion yuan MLF operation; the Ministry of Innovation and Development of 6G launched a provincial coordinated pilot, and 8 provinces and cities were approved",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oR0VJOFNROEpZV1VtWGg4aENvZ3hnbGxuQzJEX0FMQWk5Q0JGNkZ3MDR2V2x2dFdROTZabjRrNzhNbEFXOGYzU3NsLVJBakJUZjNYZFhBaXA0eUF4YjhOS2lXbWdKZw?oc=5",
-   "published_utc": "2026-11-24T23:07:55+00:00",
-   "title_original": "央广财经早报（11月25日）|央行开展5000亿元7天期逆回购和8000亿元MLF操作；6G创新发展部省协同试点启动，8省市获批",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "615a1888bcb8aabe"
   },
   {
    "source_id": "tradingview_live",
@@ -9491,8 +9508,8 @@
    "source_id": "gn_cn_pboc",
    "source_name": "京报网",
    "title_en": "The central bank will launch a 500 billion yuan 7-day reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qd2ZpNVdBVnJ2TE9iUGQ2SThGc2hpTlJtRHVfWjlSN2NzdVFnZWdlcDNHeFBibXM0Ynd4Ulp2MkMwa2Z0V2FWRm9DSERzQUFPblM0ajliUFBwdGNjTXc?oc=5",
-   "published_utc": "2026-11-24T09:31:38+00:00",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT040NWxCNGFoZlpvak5WUVFYMks4S3RtMGd5MG5PSlFKVm5oQy1aZ0NrWDlTSXpFR3AzRDhjOHcwZDcxczN2cGRTUDVFRGVjOTM5ZkIwRDNaN3BOZ1NVbWhYbVJreDNYbEhsYW5QYmhPYUV5SWVvX0JNRzRhYXE2ZVZJZHROU1RITE9PSFFNODZod00?oc=5",
+   "published_utc": "2026-11-24T09:31:00+00:00",
    "title_original": "央行将开展5000亿元7天期逆回购操作",
    "region": "china",
    "topics": [
@@ -9503,7 +9520,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "0c9cbd82953e7626"
+   "id": "08054d5f4cdea296"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -10184,23 +10201,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5ae4c11d49d5acbf"
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "Export-Import Bank of China | Keyword News",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE52UzZIRnl3NDdzOWFqVXVDZlByVDNuT3ZwS09jX3U1MnlzTkRicjdkUll4eHEtazRrQ3l0Rmc1Y2djeHVxYmE2Yg?oc=5",
-   "published_utc": "2026-11-24T05:14:16+00:00",
-   "title_original": "中國進出口銀行| 關鍵字新聞",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "2dda7fa24dadfbbc"
   },
   {
    "source_id": "korea_herald_biz",

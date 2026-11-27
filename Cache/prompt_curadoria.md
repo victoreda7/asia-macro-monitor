@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T09:42:46.527816+00:00
+Última coleta: 2026-11-27T09:52:43.120114+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          944
-  🇨🇳 China          973
+  🇨🇳 China          974
   🇹🇼 Taiwan         340
-  🇰🇷 Coreia do Sul  743
+  🇰🇷 Coreia do Sul  742
 
 ## O que já está no feed (não repita)
 
+  - [china] DSC partners with JAPANCARS to expand China’s used car exports
+  - [china] Kweichow Moutai To Distribute Cash Dividend Of 25.6 Yuan Per Share
   - [china] Guangdong Songfa Ceramics' Subsidiary To Invest About 17 Billion Yuan In Project
   - [china] 2nd LD-Writethru: China's major stock indexes surge, chip shares rally
   - [china] China's major stock indexes surge, chip shares rally
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China stocks, yuan rally after Beijing vows stronger market support
   - [china] Nvidia, neoclouds in focus as chip sellers rule out Chinese renters
   - [japan] USDJPY: Dollar Holds Above ¥159 as Tokyo Inflation Keeps BOJ Hike in Play
-  - [china] China Industrial Profits Log Robust Growth
-  - [china] China to strengthen defense against imported risks in capital markets
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T09:42:46+00:00",
+      "published_utc": "2026-11-27T09:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
