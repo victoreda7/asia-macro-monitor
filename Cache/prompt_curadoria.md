@@ -7,19 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T01:32:50.407164+00:00
+Última coleta: 2026-11-27T01:42:44.957524+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          938
-  🇨🇳 China          972
+  🇯🇵 Japão          937
+  🇨🇳 China          974
   🇹🇼 Taiwan         335
-  🇰🇷 Coreia do Sul  755
+  🇰🇷 Coreia do Sul  754
 
 ## O que já está no feed (não repita)
 
+  - [china] CHINA PBOC CONDUCTS CNY794 BLN VIA O/N REVERSE REPO FRI
   - [china] Central Bank: On November 27, it launched a 794 billion yuan overnight reverse repurchase operation
+  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7075 FRI VS 6.7096
   - [china] Yu Weining, chief statistician of the Industrial Department of the National Bureau of Statistics, interprets t
+  - [china] From January to October 2026, profits of industrial enterprises above designated size nationwide increased by 
   - [japan] Japan MOF To Auction Y3.1T Of TD-Bills Dec 4
+  - [china] The central bank launched a 794 billion overnight reverse repurchase operation, with a net investment of 222.5
   - [japan] Central bank money an anchor of trust in diversifying monetary system, BOJ official says
   - [japan] Interest Rate (November 26 2026)
   - [korea] South Korea's November Exports Likely Accelerated on Brisk Chip Demand — Market Talk
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [china] 800 billion MLF + 500 billion reverse repurchase, the central bank's "combination punch" accurately protects l
   - [japan] <On-site Report Part 2> ``I don't want to rely on welfare anymore'' ``What can I master here?'' The true feeli
   - [china] 800 billion MLF + 500 billion reverse repurchase central bank's "combination punch" accurately protects liquid
-  - [china] Trump-Xi summits unlikely to solve China's rare-earth licensing maze
-  - [japan] Condominium prices continue to decline...still clear evidence that the "real estate bubble" is not over | Life
-  - [china] Monthly report on commodity housing sales price index
-  - [taiwan] Taiwan Semiconductor Stocks Slip 1.96% as Taiwan's Market Sinks 4.8% in Chip Rout
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T01:32:50+00:00",
+      "published_utc": "2026-11-27T01:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

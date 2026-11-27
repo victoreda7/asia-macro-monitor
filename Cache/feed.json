@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-27T01:32:50.407164+00:00",
- "collected_at_utc": "2026-11-27T01:32:50.407164+00:00",
+ "generated_at_utc": "2026-11-27T01:42:44.957524+00:00",
+ "collected_at_utc": "2026-11-27T01:42:44.957524+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 938,
-  "china": 972,
+  "japan": 937,
+  "china": 974,
   "taiwan": 335,
-  "korea": 755
+  "korea": 754
  },
- "elapsed_s": 29.2,
+ "elapsed_s": 32.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -65,15 +65,15 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 42,
+   "count": 43,
    "error": "",
-   "newest": "2026-11-26T21:05:24+08:00"
+   "newest": "2026-11-27T09:11:42+08:00"
   },
   {
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 164,
+   "count": 10,
    "error": "",
    "newest": "2026-11-27T01:12:54+00:00"
   },
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T19:05:28+00:00"
+   "newest": "2026-11-26T20:43:58+00:00"
   },
   {
    "source_id": "ked_global",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T16:42:50+00:00"
+   "newest": "2026-11-25T18:37:49+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-27T10:15:52+09:00"
+   "newest": "2026-11-27T10:40:49+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T01:31:51+00:00"
+   "newest": "2026-11-27T01:36:36+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T16:34:42+00:00"
+   "newest": "2026-11-26T13:57:50+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-27T01:31:19+00:00"
+   "newest": "2026-11-27T01:40:19+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T21:51:54+00:00"
+   "newest": "2026-11-26T18:52:41+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T07:18:02+00:00"
+   "newest": "2026-11-27T00:01:32+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -345,11 +345,28 @@
  "falhas_seguidas": {},
  "items": [
   {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "CHINA PBOC CONDUCTS CNY794 BLN VIA O/N REVERSE REPO FRI",
+   "url": "https://www.tradingview.com/news/dpa_afx:f468029d488c7:0-china-pboc-conducts-cny794-bln-via-o-n-reverse-repo-fri/",
+   "published_utc": "2026-11-27T01:39:53+00:00",
+   "title_original": "CHINA PBOC CONDUCTS CNY794 BLN VIA O/N REVERSE REPO FRI",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "7b1884aeb1f8b1c9"
+  },
+  {
    "source_id": "gn_cn_pboc",
    "source_name": "同花顺财经",
    "title_en": "Central Bank: On November 27, it launched a 794 billion yuan overnight reverse repurchase operation",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1RalNEWS1OOTQzdXlhR1Z4NmtabGFJSk1sVVJtSW1iT0FsWVVUM25majBrMURHemxjR0ZGZ3JJTU1IYU9PZ2tOcktKWGlGaUs1UG9NbGE0T1Z3QWtyZ3c?oc=5",
-   "published_utc": "2026-11-27T01:31:51+00:00",
+   "published_utc": "2026-11-27T01:36:36+00:00",
    "title_original": "央行：11月27日开展了7940亿元隔夜逆回购操作",
    "region": "china",
    "topics": [
@@ -361,6 +378,23 @@
    "live_wire": false,
    "manual": false,
    "id": "2a0b9a86c0135a6a"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "CHINA SETS YUAN CENTRAL PARITY AT 6.7075 FRI VS 6.7096",
+   "url": "https://www.tradingview.com/news/dpa_afx:44a7bdda163ae:0-china-sets-yuan-central-parity-at-6-7075-fri-vs-6-7096/",
+   "published_utc": "2026-11-27T01:33:12+00:00",
+   "title_original": "CHINA SETS YUAN CENTRAL PARITY AT 6.7075 FRI VS 6.7096",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "f358ad318a609260"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -380,6 +414,23 @@
    "id": "af10b8d1899bbf4d"
   },
   {
+   "source_id": "gn_cn_nbs",
+   "source_name": "国家统计局",
+   "title_en": "From January to October 2026, profits of industrial enterprises above designated size nationwide increased by 16.0%",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42dTZsSlcyNlppdk16UlR2cmxMcS1oYi12TDR2TFZyWnNqWGl6bHRHWkxnVEhYWjNBRXVJMGxsZ0Jfa0VORlJGbmRRdnprS2dCZlR0NjhCbGtXdjAxemd5YUV1amJ1ellFUm02bFlsOA?oc=5",
+   "published_utc": "2026-11-27T01:30:00+00:00",
+   "title_original": "2026年1—10月份全国规模以上工业企业利润增长16.0%",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "955ccb4dc8eb8564"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "Japan MOF To Auction Y3.1T Of TD-Bills Dec 4",
@@ -395,6 +446,24 @@
    "live_wire": true,
    "manual": false,
    "id": "26fcc83db7c069d9"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "大河财立方",
+   "title_en": "The central bank launched a 794 billion overnight reverse repurchase operation, with a net investment of 222.5 billion yuan",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56UUlZMlpleDdtS21Jb3hfNm9rb29ETy1PaXN3enA0LUt5bWs4U3FpZU41Mm84NHczR25VYUVoMUwzZ1dFRGZtdDJYazBlcmVhU1Y5enpsMjh4Z1Bpcjl4Z3owd1NIMGc1ZlE?oc=5",
+   "published_utc": "2026-11-27T01:12:14+00:00",
+   "title_original": "央行开展7940亿隔夜逆回购操作，净投放2225亿元",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "0ddc1d5075d43d66"
   },
   {
    "source_id": "tradingview_live",
@@ -2018,8 +2087,8 @@
    "id": "33d3d6f1142e1e9d"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi will revise the tax system next year “to promote investment and lead to growth”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261126de81902",
    "published_utc": "2026-11-26T08:14:00+00:00",
@@ -2032,7 +2101,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "984f302a111a267b"
+   "id": "2f3e69c4a17301be"
   },
   {
    "source_id": "gn_kr_ked",
@@ -5829,7 +5898,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "东方财富网",
+   "source_name": "东方财富",
    "title_en": "800 billion yuan MLF + 500 billion yuan reverse repurchase, the central bank’s long-term “combination punch” was launched today",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Eb3RzQUlpU3QySk1GR1o3TG1LUGJKZVNtTUdtaTFBb1R6enA4c0Uyb2pLVHBSRmswMWNRT2RRLTQ5YkdsUmJfSHpzY2J3UnpkdmlPNm4xZzMyZ01qMUUzWjI1a3ROQQ?oc=5",
    "published_utc": "2026-11-25T05:34:37+00:00",
@@ -6998,8 +7067,8 @@
    "id": "30bc1e8f69757367"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Formulation of second supplementary budget plan expected to be limited to Kumamoto earthquake recovery, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261125de80904",
    "published_utc": "2026-11-24T20:38:00+00:00",
@@ -7013,7 +7082,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "47d0ded3307f0151"
+   "id": "91ec4ad2eb523a4f"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51816,76 +51885,6 @@
    "live_wire": true,
    "manual": false,
    "id": "42947fe893fd4fbd"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "Yen Falls After Japan Katayama's Intervention Warning",
-   "url": "https://www.tradingview.com/news/dpa_afx:f543e6d346c10:0-yen-falls-after-japan-katayama-s-intervention-warning/",
-   "published_utc": "2026-11-02T09:07:02+00:00",
-   "title_original": "Yen Falls After Japan Katayama's Intervention Warning",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "8c9b6497dadd7adc"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's central bank taps liquidity tool to fund share purchases",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N3ZT0LT:0-china-s-central-bank-taps-liquidity-tool-to-fund-share-purchases/",
-   "published_utc": "2026-11-02T09:04:22+00:00",
-   "title_original": "China's central bank taps liquidity tool to fund share purchases",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c015765ad272d783"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "Jiemian.com",
-   "title_en": "Jiemian Evening News | The draft amendment to the Criminal Procedure Law is submitted for review; the central bank launches a 541 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55a2xBOEo4Y25iMXV6dEZuN095dnBkMERWcFdPTkNPR3VTMXVLLVFMb2dHck1jMC1UQkhzcW5zSWFvd1Y0US1jcTBZWnVJSjRIdEl5QnBLZFc?oc=5",
-   "published_utc": "2026-11-02T09:03:59+00:00",
-   "title_original": "界面晚报 | 刑事诉讼法修正草案提请审议；央行开展5410亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "4c97c4f08af99e4c"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "부산일보",
-   "title_en": "[Interview] Lee Jeong-heon, Bank of Korea Busan Headquarters Director, “Increasing Busan’s economic growth potential and strengthening support for small and medium-sized businesses”",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96b1lDOEgyUnRVaDRWX0ZNNDNYYnRMdkhNV1FobXBzUTk0eVYyaWRkdUFUODk5d1hhNnZJTm9XUHQ3Vk41dUowckcxbERWa0gwaFZBOVZuTEdFVHhGZlZaSTJwLTRTbUdQQVlaU3VERHpWMDZpRlo5Rw?oc=5",
-   "published_utc": "2026-11-02T08:55:16+00:00",
-   "title_original": "[인터뷰] 이정헌 한국은행 부산본부장 “부산 경제 성장잠재력 높이고 중소기업 지원 강화”",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "activity"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d0086027b9ae7584"
   },
   {
    "source_id": "manual_ia",
