@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T07:12:42.430683+00:00
+Última coleta: 2026-11-27T07:22:45.177404+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          948
-  🇨🇳 China          974
+  🇨🇳 China          975
   🇹🇼 Taiwan         331
-  🇰🇷 Coreia do Sul  747
+  🇰🇷 Coreia do Sul  746
 
 ## O que já está no feed (não repita)
 
+  - [japan] Stock price rises due to buyback of AI/semiconductor related stocks, price rises by more than 1,200 yen
   - [japan] Bank of Japan Warns Stablecoins and Tokenization Threaten Financial Stability
   - [china] China stocks, yuan rally after Beijing vows stronger market support
   - [china] Nvidia, neoclouds in focus as chip sellers rule out Chinese renters
@@ -43,7 +44,6 @@ Total: 3000 manchetes
   - [japan] Japan Core Inflation Likely at 2.6% in November, Barclays Says — Market Talk
   - [japan] Consumer price index for Tokyo's 23 wards rose 2.9% in November, exceeding 2% for 3 consecutive months (TV Asa
   - [japan] Result of Liquidity Enhancement Auction on November 27, 2026(For JGB Market Special Participants)
-  - [japan] Nikkei Stock Average rises due to buybacks of AI/semiconductor related stocks
   - [japan] Finance Minister Katayama plans to focus the supplementary budget on necessary measures
   - [china] The central bank's reverse repurchase operation net withdrawn 45.5 billion! Dividend low-volatility ETF Huatai
   - [korea] Korean Won Poised to Strengthen Against Dollar in 2027 — Market Talk
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T07:12:42+00:00",
+      "published_utc": "2026-11-27T07:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
