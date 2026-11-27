@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T09:22:43.231366+00:00
+Última coleta: 2026-11-27T09:32:59.720899+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          944
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] Guangdong Songfa Ceramics' Subsidiary To Invest About 17 Billion Yuan In Project
+  - [china] 2nd LD-Writethru: China's major stock indexes surge, chip shares rally
   - [china] UBS Cites Experts that Rising Social Security Costs Pressure Intermediaries; Shenzhen Rent Uptick Supports Hom
   - [china] Jiangsu Shemar Electric Plans To Invest Up To 510 Million Yuan In Project
   - [china] Commentary: China’s Consumption Problem Needs Cash for Households, Not Subsidies for Producers
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China Industrial Profits Log Robust Growth
   - [china] China to strengthen defense against imported risks in capital markets
   - [japan] Today's Oha Biz 11/27 Bank of Japan councilor moves policy interest rate to “neutral level”
-  - [korea] Sebo Manufacturing Engineering Construction Wins 72.4 Billion Won Order
-  - [japan] Tokyo Core Inflation Strongest Since Mid 2025
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T09:22:43+00:00",
+      "published_utc": "2026-11-27T09:32:59+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
