@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T05:42:48.734627+00:00
+Última coleta: 2026-11-27T05:52:41.579354+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          943
@@ -17,13 +17,14 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] Asian stocks jump on U.S. futures rally, China profit beats, shrugging off tariff risks
   - [china] 1st LD: Chinese premier chairs State Council executive meeting
+  - [china] Chinese premier chairs State Council executive meeting
   - [korea] Korea’s future fund must not come at the cost of fiscal discipline
   - [korea] South Korea November exports seen posting fastest growth in over 50 years on AI chip surge: Reuters poll
   - [china] Commentary: Brazil’s Lesson for China — GDP Isn’t Everything
   - [japan] (BOJ Review) Developments in JGB Market-Making Business by Securities Companies
   - [china] China's industrial profits surge 20.1% in October as ten-month growth accelerates to 16%
-  - [china] Chinese premier chairs State Council executive meeting
   - [china] Emdoor Says To Buy Digital Solutions Firm For 715 Mln Yuan
   - [china] Neoclouds Told To Choose: Nvidia Chips Or Chinese Customers
   - [china] Yuan eases on tariff fears despite four-year fixing high
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7075 FRI VS 6.7096
   - [china] On November 27, the central bank launched a 794 billion yuan overnight reverse repurchase operation.
   - [china] Yu Weining, chief statistician of the Industrial Department of the National Bureau of Statistics, interprets t
-  - [china] From January to October 2026, profits of industrial enterprises above designated size nationwide increased by 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T05:42:48+00:00",
+      "published_utc": "2026-11-27T05:52:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
