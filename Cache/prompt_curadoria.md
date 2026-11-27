@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T01:22:53.571686+00:00
+Última coleta: 2026-11-27T01:32:50.407164+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          937
-  🇨🇳 China          970
-  🇹🇼 Taiwan         336
-  🇰🇷 Coreia do Sul  757
+  🇯🇵 Japão          938
+  🇨🇳 China          972
+  🇹🇼 Taiwan         335
+  🇰🇷 Coreia do Sul  755
 
 ## O que já está no feed (não repita)
 
+  - [china] Central Bank: On November 27, it launched a 794 billion yuan overnight reverse repurchase operation
+  - [china] Yu Weining, chief statistician of the Industrial Department of the National Bureau of Statistics, interprets t
+  - [japan] Japan MOF To Auction Y3.1T Of TD-Bills Dec 4
   - [japan] Central bank money an anchor of trust in diversifying monetary system, BOJ official says
   - [japan] Interest Rate (November 26 2026)
   - [korea] South Korea's November Exports Likely Accelerated on Brisk Chip Demand — Market Talk
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Condominium prices continue to decline...still clear evidence that the "real estate bubble" is not over | Life
   - [china] Monthly report on commodity housing sales price index
   - [taiwan] Taiwan Semiconductor Stocks Slip 1.96% as Taiwan's Market Sinks 4.8% in Chip Rout
-  - [korea] White House's Coupang broadside alarms Seoul as US weighs 25% tariffs
-  - [china] Nissan poised to import cars from China to Japan for first time
-  - [china] China Rejects U.S. Proposal for Additional 20% Tariff
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T01:22:53+00:00",
+      "published_utc": "2026-11-27T01:32:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
