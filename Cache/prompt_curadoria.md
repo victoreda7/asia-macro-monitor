@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T17:03:03.969682+00:00
+Última coleta: 2026-11-27T17:12:51.272910+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          945
-  🇨🇳 China          971
+  🇨🇳 China          970
   🇹🇼 Taiwan         341
-  🇰🇷 Coreia do Sul  743
+  🇰🇷 Coreia do Sul  744
 
 ## O que já está no feed (não repita)
 
@@ -28,6 +28,7 @@ Total: 3000 manchetes
   - [china] Aluminum Corporation Of China Says Guinea Subsidiary Signs EPC Contract With China Aluminum International Engi
   - [japan] School bullying in Japan hit record high in fiscal 2025
   - [china] EU weighs tighter export controls to prevent battery waste going to China
+  - [korea] Samsung revamps chip division to sharpen its AI edge
   - [china] China's central bank promises flexible and effective use of monetary policy tools
   - [korea] Daesang Corporation Seaweed Sales Rose ~30% to KRW 200.0B
   - [korea] Micron, SK Hynix, Samsung in focus as GF cuts DRAM prices for 2027
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Guangdong Songfa Ceramics' Subsidiary To Invest About 17 Billion Yuan In Project
   - [china] 2nd LD-Writethru: China's major stock indexes surge, chip shares rally
   - [china] UBS Cites Experts that Rising Social Security Costs Pressure Intermediaries; Shenzhen Rent Uptick Supports Hom
-  - [china] Jiangsu Shemar Electric Plans To Invest Up To 510 Million Yuan In Project
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T17:03:04+00:00",
+      "published_utc": "2026-11-27T17:12:51+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
