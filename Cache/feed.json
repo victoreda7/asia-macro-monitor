@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-27T12:22:41.480653+00:00",
- "collected_at_utc": "2026-11-27T12:22:41.480653+00:00",
+ "generated_at_utc": "2026-11-27T12:32:54.782661+00:00",
+ "collected_at_utc": "2026-11-27T12:32:54.782661+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 944,
-  "china": 973,
+  "china": 974,
   "taiwan": 344,
-  "korea": 739
+  "korea": 738
  },
- "elapsed_s": 28.3,
+ "elapsed_s": 40.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T06:07:00+00:00"
+   "newest": "2026-11-27T09:22:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T07:57:31+00:00"
+   "newest": "2026-11-27T07:53:57+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -51,13 +51,13 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T05:00:04+00:00"
+   "newest": "2026-11-27T07:59:06+00:00"
   },
   {
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 22,
+   "count": 24,
    "error": "",
    "newest": "2026-11-27T12:07:00+00:00"
   },
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-27T12:17:00+00:00"
+   "newest": "2026-11-27T12:22:52+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T02:38:39+00:00"
+   "newest": "2026-11-27T07:00:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-27T21:16:00+09:00"
+   "newest": "2026-11-27T21:23:39+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 30,
+   "count": 28,
    "error": "",
    "newest": "2026-11-27T08:37:00+00:00"
   },
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-27T11:00:14+00:00"
+   "newest": "2026-11-27T12:30:05+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-27T12:20:50+00:00"
+   "newest": "2026-11-27T12:31:44+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-27T11:55:12+00:00"
+   "newest": "2026-11-27T12:24:12+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T07:19:59+00:00"
+   "newest": "2026-11-26T07:28:07+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -339,11 +339,28 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T19:00:00+00:00"
+   "newest": "2026-11-27T01:37:00+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Seeking Alpha",
+   "title_en": "Nvidia Blackwell chips found at China data center linked to Alice Huang: report",
+   "url": "https://www.tradingview.com/news/seekingalpha:b53a51d8e094b:0-nvidia-blackwell-chips-found-at-china-data-center-linked-to-alice-huang-report/",
+   "published_utc": "2026-11-27T12:23:07+00:00",
+   "title_original": "Nvidia Blackwell chips found at China data center linked to Alice Huang: report",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "8c3ca6a38aa2a486"
+  },
   {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
@@ -1430,23 +1447,6 @@
    "live_wire": false,
    "manual": false,
    "id": "318eea67a40338a5"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Sebo Manufacturing Engineering Construction Wins 72.4 Billion Won Order",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN478032:0-sebo-manufacturing-engineering-construction-wins-72-4-billion-won-order/",
-   "published_utc": "2026-11-27T06:07:17+00:00",
-   "title_original": "Sebo Manufacturing Engineering Construction Wins 72.4 Billion Won Order",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "7282c0c18efe341f"
   },
   {
    "source_id": "mof_jp",
@@ -3732,8 +3732,8 @@
    "id": "33d3d6f1142e1e9d"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi will revise the tax system next year “to promote investment and lead to growth”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261126de81902",
    "published_utc": "2026-11-26T08:14:00+00:00",
@@ -3746,7 +3746,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "984f302a111a267b"
+   "id": "2f3e69c4a17301be"
   },
   {
    "source_id": "gn_kr_ked",
