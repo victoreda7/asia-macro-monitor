@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T08:52:44.579032+00:00
+Última coleta: 2026-11-27T09:02:44.176440+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          947
-  🇨🇳 China          972
+  🇯🇵 Japão          946
+  🇨🇳 China          973
   🇹🇼 Taiwan         338
   🇰🇷 Coreia do Sul  743
 
 ## O que já está no feed (não repita)
 
+  - [china] Commentary: China’s Consumption Problem Needs Cash for Households, Not Subsidies for Producers
   - [taiwan] Taiwan Raises 2026 Growth Forecasts as AI Exports Surge
   - [korea] Sk Hynix Solidigm Reviewing Various Options To Expand Production Capacity, But Nothing Decided Yet On Reported
   - [japan] Tax exemption for donations of funds for home purchase to be extended and expanded LDP Executive Committee
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Asian stocks jump on U.S. futures rally, China profit beats, shrugging off tariff risks
   - [china] 1st LD: Chinese premier chairs State Council executive meeting
   - [china] Chinese premier chairs State Council executive meeting
-  - [korea] Korea’s future fund must not come at the cost of fiscal discipline
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T08:52:44+00:00",
+      "published_utc": "2026-11-27T09:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
