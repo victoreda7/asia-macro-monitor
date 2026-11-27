@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T02:02:41.615895+00:00
+Última coleta: 2026-11-27T02:12:42.228903+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          940
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Short-Term JGB Yields Rise on Elevated Tokyo Inflation Data — Market Talk
   - [japan] Tokyo's core CPI hits 2.9%, strengthening case for BOJ rate hike in December
   - [japan] Risk of Yen Weakening Against Dollar Appears Limited — Market Talk
   - [japan] BOJ calls for safeguards against digital money, AI risks
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Trump calls for 200% semiconductor tariff; Taiwan says cap is 15%
   - [taiwan] Hackers target Taiwan's semiconductor supply chain, fishing and food sectors
   - [japan] AI Rout Makes Kioxia Japan’s Cheapest Blue Chip, Backing Bulls
-  - [japan] Adjustments being made to extend the gift tax exemption for funds used to purchase a home
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T02:02:41+00:00",
+      "published_utc": "2026-11-27T02:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
