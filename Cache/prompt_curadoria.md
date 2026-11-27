@@ -7,20 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T12:12:45.117964+00:00
+Última coleta: 2026-11-27T12:22:41.480653+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          944
-  🇨🇳 China          972
+  🇨🇳 China          973
   🇹🇼 Taiwan         344
-  🇰🇷 Coreia do Sul  740
+  🇰🇷 Coreia do Sul  739
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK hynix doubles daily buyback orders as shares slide
   - [china] Nvidia Blackwell chips found in Shanghai data center tied to Alice Huang
   - [china] NVIDIA Blackwell chips surface at China site tied to Megaspeed - Bloomberg
   - [china] EU launches anti-dumping probe into China, Singapore sustainable aviation fuel imports
   - [japan] Electricity charges for December usage drop at 10 major companies due to resumption of government subsidies
+  - [china] Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang
   - [taiwan] Taiwan's 2026 GDP growth forecast raised to 13.28%, highest since 1978
   - [china] CMST Development Plans To Register 4 Billion Yuan Debt Financing Instruments
   - [korea] Why South Korea’s chip boom is now a US tariff trap as a US$350b pledge looms
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan 2027 Real GDP Forecast +6.51%
   - [taiwan] Taiwan 2026 GDP Forecast +13.28%
   - [taiwan] Taiwan Revises 3Q GDP To +2.86% On Quarter Vs +3.21% Estimate
-  - [taiwan] Taiwan Revises 3Q GDP To +14.39% On Year Vs +14.36% Estimate
-  - [taiwan] Taiwan raises 2026 GDP growth projection to 13.28%
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T12:12:45+00:00",
+      "published_utc": "2026-11-27T12:22:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
