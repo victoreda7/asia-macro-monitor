@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-11-27T13:02:52.596454+00:00",
- "collected_at_utc": "2026-11-27T13:02:52.596454+00:00",
+ "generated_at_utc": "2026-11-27T13:12:55.087091+00:00",
+ "collected_at_utc": "2026-11-27T13:12:55.087091+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 39,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,8 +11,24 @@
   "taiwan": 344,
   "korea": 740
  },
- "elapsed_s": 36.2,
+ "elapsed_s": 33.4,
  "sources": [
+  {
+   "source_id": "nhk_politics",
+   "name": "NHK 政治",
+   "ok": true,
+   "count": 0,
+   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
+   "newest": ""
+  },
+  {
+   "source_id": "nhk_economy",
+   "name": "NHK 経済",
+   "ok": true,
+   "count": 0,
+   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -43,7 +59,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T07:53:57+00:00"
+   "newest": "2026-11-27T07:23:26+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -73,9 +89,9 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 164,
+   "count": 163,
    "error": "",
-   "newest": "2026-11-27T12:43:45+00:00"
+   "newest": "2026-11-27T13:04:42+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +99,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-27T12:42:20+00:00"
+   "newest": "2026-11-27T13:02:40+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +107,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-27T10:34:10+00:00"
+   "newest": "2026-11-27T13:01:14+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -99,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T02:38:39+00:00"
+   "newest": "2026-11-27T07:00:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -147,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T16:42:50+00:00"
+   "newest": "2026-11-25T18:37:49+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -172,22 +188,6 @@
    "count": 30,
    "error": "",
    "newest": "2026-11-27T07:22:29+00:00"
-  },
-  {
-   "source_id": "nhk_politics",
-   "name": "NHK 政治",
-   "ok": true,
-   "count": 60,
-   "error": "",
-   "newest": "2026-11-27T21:59:54+09:00"
-  },
-  {
-   "source_id": "nhk_economy",
-   "name": "NHK 経済",
-   "ok": true,
-   "count": 60,
-   "error": "",
-   "newest": "2026-11-27T21:42:20+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-27T13:02:19+00:00"
+   "newest": "2026-11-27T13:11:27+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -283,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T10:41:15+00:00"
+   "newest": "2026-11-27T13:03:30+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T06:32:43+00:00"
+   "newest": "2026-11-27T07:19:59+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T08:40:10+00:00"
+   "newest": "2026-11-27T12:00:42+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -342,7 +342,10 @@
    "newest": "2026-11-27T01:37:00+00:00"
   }
  ],
- "falhas_seguidas": {},
+ "falhas_seguidas": {
+  "nhk_politics": 1,
+  "nhk_economy": 1
+ },
  "items": [
   {
    "source_id": "tradingview_live",
@@ -2389,7 +2392,7 @@
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Trump calls for 200% semiconductor tariff; Taiwan says cap is 15%",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb3VNQ05abXFnN3MyYVRMVTRqb2hDZlRNdDhqZDR1X2dOTTZQWDJhZXRzNmxyN1ZLQTBKQmlaR0QyejIzYkY0SUtCZmZxT3haTmZSVWxEVklpT1NzcXduUVA0ckZWeGEtOGt3WUUtNUdqQ2M3ZC1qSGk0WTRVcWxoM2UyM2dTdUlvNGJKalJVaERYc3ZnU0ZJVS1qTE41RUpYVEE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ2VkejdJTlpXZzNYeEd4SUptZHlQdkRiNWRaVThITHZHZ1RCREpDQlc5dldIVWZvS1NfeGJLd01TRXRTY2RNV0JTZERIVjZTcWM4NWF5TFVSWUdqeEZlbFlXWEl6YzhrV0cxYnRUcktrcWprZWZkbGw2R2pnX2JYLU0zbTBENE11VW5kU1VBdm56S0lVNmRub1RIQ21hVWlTejNB?oc=5",
    "published_utc": "2026-11-26T22:41:23+00:00",
    "title_original": "Trump calls for 200% semiconductor tariff; Taiwan says cap is 15%",
    "region": "taiwan",
@@ -2401,7 +2404,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "77395d1dfddeb88f"
+   "id": "8645cc1d3a719761"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -7178,6 +7181,23 @@
    "live_wire": false,
    "manual": false,
    "id": "acee6afcfb5c4e26"
+  },
+  {
+   "source_id": "gn_cn_xinhua",
+   "source_name": "Xinhua",
+   "title_en": "China's manufacturing powerhouse deepens regional integration",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBxMnJaTHlpcEZib2k1VVplb3hVQ0ZfUTR6UklWdE1tOTdjLTYwVDlZZ2hqUFJUR3ZBZDBrYnVwdUQzOWtab1ZZczJ6cEpSaFVnNHJsU1ItRHg5eVhXeVRhaVhzMTRIU242MGhBSF94SUJSUjJwcDBfNnV2RkU?oc=5",
+   "published_utc": "2026-11-25T08:27:16+00:00",
+   "title_original": "China's manufacturing powerhouse deepens regional integration",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3400e940ba879c30"
   },
   {
    "source_id": "gn_kr_ked",
@@ -51863,23 +51883,6 @@
    "live_wire": false,
    "manual": false,
    "id": "41eb450e111597ac"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The first increase in the past five years! The central bank rarely takes action, expert interpretation",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hZHdTOU82eFBjdTVidkhTYi1lREtvVTB2b0Q2SWVjTXZfNTJXVmNGcWM5S3hmcnJtbmU3OHlMbDFsM29GNWFZWjRMSERNZUxoUW8tVnM2MTh1bjBxRS01TXdRcw?oc=5",
-   "published_utc": "2026-11-03T06:27:29+00:00",
-   "title_original": "近五年首次上调！央行罕见出手 专家解读",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "846ee0bfb1232571"
   },
   {
    "source_id": "manual_ia",
