@@ -7,19 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T12:32:54.782661+00:00
+Última coleta: 2026-11-27T12:42:41.573485+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          944
+  🇯🇵 Japão          943
   🇨🇳 China          974
   🇹🇼 Taiwan         344
-  🇰🇷 Coreia do Sul  738
+  🇰🇷 Coreia do Sul  739
 
 ## O que já está no feed (não repita)
 
+  - [korea] Micron, SK Hynix, Samsung in focus as GF cuts DRAM prices for 2027
   - [china] Nvidia Blackwell chips found at China data center linked to Alice Huang: report
   - [korea] SK hynix doubles daily buyback orders as shares slide
   - [china] Nvidia Blackwell chips found in Shanghai data center tied to Alice Huang
+  - [china] China's central bank pledges flexible and effective use of monetary policy tools
   - [china] NVIDIA Blackwell chips surface at China site tied to Megaspeed - Bloomberg
   - [china] EU launches anti-dumping probe into China, Singapore sustainable aviation fuel imports
   - [japan] Electricity charges for December usage drop at 10 major companies due to resumption of government subsidies
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Altria, fabricante de Marlboro, e Japan Tobacco podem ser sócias na concorrente Imperial
   - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Transaction with Affiliate Company
   - [taiwan] Taiwan raises 2026 GDP growth projection to 13.28% on strong AI demand
-  - [taiwan] Taiwan 2027 Real GDP Forecast +6.51%
-  - [taiwan] Taiwan 2026 GDP Forecast +13.28%
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T12:32:54+00:00",
+      "published_utc": "2026-11-27T12:42:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

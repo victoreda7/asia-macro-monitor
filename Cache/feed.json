@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-27T12:32:54.782661+00:00",
- "collected_at_utc": "2026-11-27T12:32:54.782661+00:00",
+ "generated_at_utc": "2026-11-27T12:42:41.573485+00:00",
+ "collected_at_utc": "2026-11-27T12:42:41.573485+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 944,
+  "japan": 943,
   "china": 974,
   "taiwan": 344,
-  "korea": 738
+  "korea": 739
  },
- "elapsed_s": 40.7,
+ "elapsed_s": 28.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -57,7 +57,7 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 24,
+   "count": 25,
    "error": "",
    "newest": "2026-11-27T12:07:00+00:00"
   },
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-27T12:22:52+00:00"
+   "newest": "2026-11-27T12:29:16+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T07:00:00+00:00"
+   "newest": "2026-11-27T02:38:39+00:00"
   },
   {
    "source_id": "ked_global",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T12:12:23+00:00"
+   "newest": "2026-11-27T12:35:21+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-27T21:06:44+09:00"
+   "newest": "2026-11-27T21:38:12+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 28,
+   "count": 30,
    "error": "",
    "newest": "2026-11-27T08:37:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-27T12:31:44+00:00"
+   "newest": "2026-11-27T12:41:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T07:28:07+00:00"
+   "newest": "2026-11-27T07:19:59+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Seeking Alpha",
+   "title_en": "Micron, SK Hynix, Samsung in focus as GF cuts DRAM prices for 2027",
+   "url": "https://www.tradingview.com/news/seekingalpha:c69d88634094b:0-micron-sk-hynix-samsung-in-focus-as-gf-cuts-dram-prices-for-2027/",
+   "published_utc": "2026-11-27T12:37:54+00:00",
+   "title_original": "Micron, SK Hynix, Samsung in focus as GF cuts DRAM prices for 2027",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "72d59bd7d488389e"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Seeking Alpha",
@@ -394,6 +411,24 @@
    "live_wire": true,
    "manual": false,
    "id": "dd60b5393a2f4ec6"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's central bank pledges flexible and effective use of monetary policy tools",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N46F03D:0-china-s-central-bank-pledges-flexible-and-effective-use-of-monetary-policy-tools/",
+   "published_utc": "2026-11-27T12:07:49+00:00",
+   "title_original": "China's central bank pledges flexible and effective use of monetary policy tools",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "8744f4a6119dee8d"
   },
   {
    "source_id": "investing_live",
@@ -1378,41 +1413,6 @@
    "live_wire": true,
    "manual": false,
    "id": "364b1baaf3e4e444"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "TradingView",
-   "title_en": "USDJPY: Dollar Holds Above ¥159 as Tokyo Inflation Keeps BOJ Hike in Play",
-   "url": "https://www.tradingview.com/news/tradingview:9376699a7094b:0-usdjpy-dollar-holds-above-159-as-tokyo-inflation-keeps-boj-hike-in-play/",
-   "published_utc": "2026-11-27T06:40:22+00:00",
-   "title_original": "USDJPY: Dollar Holds Above ¥159 as Tokyo Inflation Keeps BOJ Hike in Play",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "55cfe610b1e56640"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "China Industrial Profits Log Robust Growth",
-   "url": "https://www.tradingview.com/news/dpa_afx:0fae92d51f72e:0-china-industrial-profits-log-robust-growth/",
-   "published_utc": "2026-11-27T06:37:58+00:00",
-   "title_original": "China Industrial Profits Log Robust Growth",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c00b0e902372ef49"
   },
   {
    "source_id": "investing_econ",
@@ -3732,8 +3732,8 @@
    "id": "33d3d6f1142e1e9d"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi will revise the tax system next year “to promote investment and lead to growth”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261126de81902",
    "published_utc": "2026-11-26T08:14:00+00:00",
@@ -3746,7 +3746,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2f3e69c4a17301be"
+   "id": "984f302a111a267b"
   },
   {
    "source_id": "gn_kr_ked",
