@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-27T01:02:42.155482+00:00",
- "collected_at_utc": "2026-11-27T01:02:42.155482+00:00",
+ "generated_at_utc": "2026-11-27T01:12:56.133478+00:00",
+ "collected_at_utc": "2026-11-27T01:12:56.133478+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 934,
-  "china": 971,
+  "japan": 937,
+  "china": 970,
   "taiwan": 336,
-  "korea": 759
+  "korea": 757
  },
- "elapsed_s": 29.1,
+ "elapsed_s": 43.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T08:03:00+00:00"
+   "newest": "2026-11-27T01:00:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -57,7 +57,7 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 23,
+   "count": 22,
    "error": "",
    "newest": "2026-11-26T08:11:00+00:00"
   },
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-27T00:42:20+00:00"
+   "newest": "2026-11-27T00:54:27+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T18:37:49+00:00"
+   "newest": "2026-11-26T23:42:29+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T07:19:00+00:00"
+   "newest": "2026-11-26T16:34:42+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-27T01:01:34+00:00"
+   "newest": "2026-11-27T01:12:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T18:52:41+00:00"
+   "newest": "2026-11-26T21:51:54+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-27T09:30:00+09:00"
+   "newest": "2026-11-27T10:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T22:23:30+00:00"
+   "newest": "2026-11-27T00:58:12+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Central bank money an anchor of trust in diversifying monetary system, BOJ official says",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N46N040:0-central-bank-money-an-anchor-of-trust-in-diversifying-monetary-system-boj-official-says/",
+   "published_utc": "2026-11-27T00:56:30+00:00",
+   "title_original": "Central bank money an anchor of trust in diversifying monetary system, BOJ official says",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "e525efc58c11f3fd"
+  },
   {
    "source_id": "mof_jp",
    "source_name": "MOF Japan",
@@ -567,6 +584,23 @@
    "live_wire": true,
    "manual": false,
    "id": "7ce73940f6a53c6e"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: Consumer inflation in Tokyo accelerates to 2.9% in Nov.",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwS3lEYkx1UjdYZTRzNVQzTjMzTThxenE4b3J1QmtrZG1feGU4UDYtUjhDWm9lQ2U3WEV4eHE1Rm1IeWpjM2pBWFFlaWJ5NFh5dk01Rkl5bDNYUQ?oc=5",
+   "published_utc": "2026-11-26T23:42:29+00:00",
+   "title_original": "BREAKING NEWS: Consumer inflation in Tokyo accelerates to 2.9% in Nov.",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f0060faa8919ee0e"
   },
   {
    "source_id": "tradingview_live",
@@ -1915,8 +1949,8 @@
    "id": "33d3d6f1142e1e9d"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi will revise the tax system next year “to promote investment and lead to growth”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261126de81902",
    "published_utc": "2026-11-26T08:14:00+00:00",
@@ -1929,7 +1963,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2f3e69c4a17301be"
+   "id": "984f302a111a267b"
   },
   {
    "source_id": "gn_kr_ked",
@@ -4440,6 +4474,23 @@
    "id": "5c0c352fe8f5751c"
   },
   {
+   "source_id": "gn_kr_reuters",
+   "source_name": "Reuters",
+   "title_en": "North Korea expels Swiss diplomat over sanctions weeks after office reopening",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNUNWNUd3TUtJYTY3OEc0TGI5U1NhNDdFREhNdzVxU3pnV2ZoaDgybzlaS0lvbVRXNWVxeG5uZFRRVEswT2s3V25GLWppMEJtLUZvSTJ3UVVVTE8tMUtGVFVSempYNmhyMmdjTXJGb0RGTFdMcVc0ZTJaUkVENC1tWk1Mbl9LYlBGZUYyRUJqejhCRXdyWGdhVVdxNnJjRTA1dlVmdUxHd0JOalNrWXBLQ2hGQktJalJjQmhqMkVBT1ZNWlFqa2xWeHFiMWdaRmZtRV9EYkNibTczZw?oc=5",
+   "published_utc": "2026-11-25T17:04:50+00:00",
+   "title_original": "North Korea expels Swiss diplomat over sanctions weeks after office reopening",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f52bdccfc9a6a8ce"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "China Wan Tong Yuan (Holdings) Says No Progress On Construction Approvals For Cemetery JV Project",
@@ -4969,23 +5020,6 @@
    "live_wire": false,
    "manual": false,
    "id": "8b577c3159eef310"
-  },
-  {
-   "source_id": "gn_kr_reuters",
-   "source_name": "Reuters",
-   "title_en": "North Korea expels Swiss diplomat over sanctions weeks after office reopening",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNUNWNUd3TUtJYTY3OEc0TGI5U1NhNDdFREhNdzVxU3pnV2ZoaDgybzlaS0lvbVRXNWVxeG5uZFRRVEswT2s3V25GLWppMEJtLUZvSTJ3UVVVTE8tMUtGVFVSempYNmhyMmdjTXJGb0RGTFdMcVc0ZTJaUkVENC1tWk1Mbl9LYlBGZUYyRUJqejhCRXdyWGdhVVdxNnJjRTA1dlVmdUxHd0JOalNrWXBLQ2hGQktJalJjQmhqMkVBT1ZNWlFqa2xWeHFiMWdaRmZtRV9EYkNibTczZw?oc=5",
-   "published_utc": "2026-11-25T12:56:35+00:00",
-   "title_original": "North Korea expels Swiss diplomat over sanctions weeks after office reopening",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f52bdccfc9a6a8ce"
   },
   {
    "source_id": "tradingview_live",
@@ -5552,6 +5586,23 @@
    "live_wire": false,
    "manual": false,
    "id": "169e6a1a859c1110"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "OPINION: Japan's economy signals exit from deflation, rates may reach 2.5%",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oUERuLUJEc29sSjFWOS0tcEZxbzJLWG9iU2x2RzYwZGVaZWprNF9BSDBkR2hNRk45a2JPV3ItRFdoeVM4WVY0YW1fQ0F6eUZzWDJaMzllU0lLdw?oc=5",
+   "published_utc": "2026-11-25T07:25:00+00:00",
+   "title_original": "OPINION: Japan's economy signals exit from deflation, rates may reach 2.5%",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ad6bb6448f9dfac8"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -6895,8 +6946,8 @@
    "id": "30bc1e8f69757367"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Formulation of second supplementary budget plan expected to be limited to Kumamoto earthquake recovery, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261125de80904",
    "published_utc": "2026-11-24T20:38:00+00:00",
@@ -6910,7 +6961,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "91ec4ad2eb523a4f"
+   "id": "47d0ded3307f0151"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -7000,7 +7051,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
+   "source_name": "Bloomberg.com",
    "title_en": "US Readies Tariff Hike on China, EU Goods as Soon as Tuesday",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb3RsSGwydkRvZkItUUlRQUxrS1RfZ3dJNV85NnJIYl9yclIxQXdxMElGNmQwVW56TENkU3duY3lnaXAyV0Q0elhEZXdVQlJsZTg0czUyM0Q3RHJUbjdyUjhBcmNyRW1La1RPVU1PemkzNFh0X1FrTC05M1RPRk1lWm9ja3ZiaUFQVUV5MmwzOHRGenNDNjdHUmtiMFlfNUZIOEM0OE05V0V4aDRKZGdZ?oc=5",
    "published_utc": "2026-11-24T16:16:51+00:00",
@@ -28093,23 +28144,6 @@
    "id": "4c2078d4781d628d"
   },
   {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "The institutions behind South Wales' semiconductor strength face a changing industrial reality",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ3JkRi1jZWI4endMU256UGpZemdnNzJjMGpMcWZzTWtTdGU5ZlN3ZjZUYl9UWFp4ZTNuSWpWelItaXpwUGwyVjFlUi1hLWI3LU9PMno3MnB0ejlHWFUzNDdJVWppNG14UnlnZ0RYUjhMZXRrZl90dHlwaXdfcHUtSzlMU3ljZ0F2Q0p2dFZXdXU3T2paV29KdzcyTHhIX3RwRC1nZXVyMWQ?oc=5",
-   "published_utc": "2026-11-13T08:00:00+00:00",
-   "title_original": "The institutions behind South Wales' semiconductor strength face a changing industrial reality",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2a2c32d08f954adf"
-  },
-  {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
    "title_en": "Japan warns arms suppliers of deep order cuts as budget squeeze hits military buildup: sources",
@@ -28125,6 +28159,23 @@
    "live_wire": false,
    "manual": false,
    "id": "2967c72e55a4eac7"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "The institutions behind South Wales' semiconductor strength face a changing industrial reality",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ3JkRi1jZWI4endMU256UGpZemdnNzJjMGpMcWZzTWtTdGU5ZlN3ZjZUYl9UWFp4ZTNuSWpWelItaXpwUGwyVjFlUi1hLWI3LU9PMno3MnB0ejlHWFUzNDdJVWppNG14UnlnZ0RYUjhMZXRrZl90dHlwaXdfcHUtSzlMU3ljZ0F2Q0p2dFZXdXU3T2paV29KdzcyTHhIX3RwRC1nZXVyMWQ?oc=5",
+   "published_utc": "2026-11-13T08:00:00+00:00",
+   "title_original": "The institutions behind South Wales' semiconductor strength face a changing industrial reality",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "2a2c32d08f954adf"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -51834,58 +51885,6 @@
    "live_wire": false,
    "manual": false,
    "id": "4b0b04a779f23149"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Samsung Electronics and SK Hynix announced a policy to return shareholders based on their all-time p..",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtV0NEVlNYb0IzMlQxRklvZ1RkZmEzRzNhd2dsNjF6VTFDM19yUGNuU0piWG1CSG1xX3NfMlFxZWtWLVNYM19NUDJDUnJhaFJwMHlfTXZn?oc=5",
-   "published_utc": "2026-11-02T08:23:16+00:00",
-   "title_original": "Samsung Electronics and SK Hynix announced a policy to return shareholders based on their all-time p..",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d67ea546ff9c7918"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "ShareCast",
-   "title_en": "China's manufacturing sector remains on front foot - RatingDog",
-   "url": "https://www.tradingview.com/news/sharecast:b06044c9a094b:0-china-s-manufacturing-sector-remains-on-front-foot-ratingdog/",
-   "published_utc": "2026-11-02T08:21:59+00:00",
-   "title_original": "China's manufacturing sector remains on front foot - RatingDog",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "b2cc2ee08a052668"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Invezz",
-   "title_en": "Kospi reverses initial decline and closes 2.24% higher with chip exports +259%",
-   "url": "https://www.tradingview.com/news/invezz:01a886f66bc81:0/",
-   "published_utc": "2026-11-02T08:08:14+00:00",
-   "title_original": "Kospi reverte queda inicial e fecha 2.24% em alta com exportações de chips +259%",
-   "region": "korea",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "256ac291ba7c9252"
   },
   {
    "source_id": "manual_ia",

@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T01:02:42.155482+00:00
+Última coleta: 2026-11-27T01:12:56.133478+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          934
-  🇨🇳 China          971
+  🇯🇵 Japão          937
+  🇨🇳 China          970
   🇹🇼 Taiwan         336
-  🇰🇷 Coreia do Sul  759
+  🇰🇷 Coreia do Sul  757
 
 ## O que já está no feed (não repita)
 
+  - [japan] Central bank money an anchor of trust in diversifying monetary system, BOJ official says
   - [japan] Interest Rate (November 26 2026)
   - [korea] South Korea's November Exports Likely Accelerated on Brisk Chip Demand — Market Talk
   - [korea] Samsung, SK Hynix adopt China’s YMTC memory technology, Nikkei reports
@@ -30,6 +31,7 @@ Total: 3000 manchetes
   - [japan] MNI JAPAN NOV TOKYO CORE CPI +2.9% Y/Y; OCT +2.6%
   - [japan] Tokyo CPI firms in Nov, core inflation slightly misses expectations
   - [japan] JAPAN NOV TOKYO CPI: PROCESSED FOOD +3.1% (+0.73 POINT) VS. +3.0% (+0.71 POINT) IN OCT
+  - [japan] BREAKING NEWS: Consumer inflation in Tokyo accelerates to 2.9% in Nov.
   - [japan] JAPAN NOV TOKYO CPI: ENERGY +9.5% Y/Y (+0.43 POINT CONTRIBUTION), VS. +2.2% (+0.09 POINT) IN OCT
   - [japan] Tokyo prices rose 2.9% in November (Kyodo News)
   - [japan] JAPAN NOV TOKYO INFLATION RATE ACCELERATES ON HIGHER UTILITY BILLS AFTER SUMMER SUBSIDIES ENDED AND AS MIDEAST
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] White House's Coupang broadside alarms Seoul as US weighs 25% tariffs
   - [china] Nissan poised to import cars from China to Japan for first time
   - [china] China Rejects U.S. Proposal for Additional 20% Tariff
-  - [korea] Nvidia, Kioxia team on AI server memory as alternative to South Korean chips
-  - [japan] Japan Data Preview: Forecasters See Stable Jobless Rate in October Report as Job Market Holds Firm
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T01:02:42+00:00",
+      "published_utc": "2026-11-27T01:12:56+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
