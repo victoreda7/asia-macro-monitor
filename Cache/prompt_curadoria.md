@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T06:22:41.377574+00:00
+Última coleta: 2026-11-27T06:32:44.909817+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          945
-  🇨🇳 China          969
+  🇯🇵 Japão          946
+  🇨🇳 China          970
   🇹🇼 Taiwan         331
-  🇰🇷 Coreia do Sul  755
+  🇰🇷 Coreia do Sul  753
 
 ## O que já está no feed (não repita)
 
@@ -21,6 +21,7 @@ Total: 3000 manchetes
   - [korea] Sebo Manufacturing Engineering Construction Wins 72.4 Billion Won Order
   - [japan] Tokyo Core Inflation Strongest Since Mid 2025
   - [korea] Decision to Impose Anti-Dumping Duties on Bisphenol A Originating in the Republic of Korea and the Separate Cu
+  - [japan] Former Bank of Japan Governor Haruhiko Kuroda hopes for skill in central bank coordination between Japan, the 
   - [china] Asian stocks jump on U.S. futures rally, China profit beats, shrugging off tariff risks
   - [china] 1st LD: Chinese premier chairs State Council executive meeting
   - [china] Chinese premier chairs State Council executive meeting
@@ -52,11 +53,10 @@ Total: 3000 manchetes
   - [china] The test of corporate compliance under the technological competition between the United States and China KPMG:
   - [japan] Short-Term JGB Yields Rise on Elevated Tokyo Inflation Data — Market Talk
   - [japan] Even if the Bank of Japan raises interest rates, the yen's depreciation hell won't end... Why isn't the yen be
+  - [china] Skiing in China was once a luxury. Local manufacturers are slashing costs
   - [korea] The government will create an investment fund specializing in aerospace worth more than 200 billion
   - [japan] Tokyo's core CPI hits 2.9%, strengthening case for BOJ rate hike in December
   - [japan] Risk of Yen Weakening Against Dollar Appears Limited — Market Talk
-  - [japan] BOJ calls for safeguards against digital money, AI risks
-  - [china] CHINA PBOC CONDUCTS CNY794 BLN VIA O/N REVERSE REPO FRI
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T06:22:41+00:00",
+      "published_utc": "2026-11-27T06:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
