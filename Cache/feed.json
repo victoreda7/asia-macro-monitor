@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-27T06:02:42.006636+00:00",
- "collected_at_utc": "2026-11-27T06:02:42.006636+00:00",
+ "generated_at_utc": "2026-11-27T06:12:42.156888+00:00",
+ "collected_at_utc": "2026-11-27T06:12:42.156888+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 943,
+  "japan": 945,
   "china": 969,
   "taiwan": 331,
-  "korea": 757
+  "korea": 755
  },
- "elapsed_s": 28.4,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T01:21:23+00:00"
+   "newest": "2026-11-27T00:00:00+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T04:34:21+00:00"
+   "newest": "2026-11-27T06:00:00+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -73,9 +73,9 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 164,
+   "count": 10,
    "error": "",
-   "newest": "2026-11-27T05:52:57+00:00"
+   "newest": "2026-11-27T06:02:11+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-27T05:42:34+00:00"
+   "newest": "2026-11-27T05:56:49+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T18:37:49+00:00"
+   "newest": "2026-11-25T16:42:50+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-27T14:21:00+09:00"
+   "newest": "2026-11-27T15:07:46+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-27T06:02:18+00:00"
+   "newest": "2026-11-27T06:11:32+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T01:00:01+00:00"
+   "newest": "2026-11-26T22:08:10+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -344,6 +344,57 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Today's Oha Biz 11/27 Bank of Japan councilor moves policy interest rate to “neutral level”",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261127de82221",
+   "published_utc": "2026-11-27T06:07:46+00:00",
+   "title_original": "きょうのおはBiz 11/27 日銀審議員 政策金利“中立的水準”へ",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "318eea67a40338a5"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Sebo Manufacturing Engineering Construction Wins 72.4 Billion Won Order",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN478032:0-sebo-manufacturing-engineering-construction-wins-72-4-billion-won-order/",
+   "published_utc": "2026-11-27T06:07:17+00:00",
+   "title_original": "Sebo Manufacturing Engineering Construction Wins 72.4 Billion Won Order",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "7282c0c18efe341f"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "Tokyo Core Inflation Strongest Since Mid 2025",
+   "url": "https://www.tradingview.com/news/dpa_afx:b056d5202911e:0-tokyo-core-inflation-strongest-since-mid-2025/",
+   "published_utc": "2026-11-27T06:05:15+00:00",
+   "title_original": "Tokyo Core Inflation Strongest Since Mid 2025",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "d22242cfb36e9264"
+  },
   {
    "source_id": "mof_jp",
    "source_name": "MOF Japan",
@@ -2832,8 +2883,8 @@
    "id": "33d3d6f1142e1e9d"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi will revise the tax system next year “to promote investment and lead to growth”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261126de81902",
    "published_utc": "2026-11-26T08:14:00+00:00",
@@ -2846,7 +2897,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "984f302a111a267b"
+   "id": "2f3e69c4a17301be"
   },
   {
    "source_id": "gn_kr_ked",
@@ -7881,8 +7932,8 @@
    "id": "30bc1e8f69757367"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Formulation of second supplementary budget plan expected to be limited to Kumamoto earthquake recovery, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261125de80904",
    "published_utc": "2026-11-24T20:38:00+00:00",
@@ -7896,7 +7947,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "47d0ded3307f0151"
+   "id": "91ec4ad2eb523a4f"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51835,57 +51886,6 @@
    "live_wire": false,
    "manual": false,
    "id": "4b10fa1b1b2b522f"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "South Korea Inflation Slows in October",
-   "url": "https://www.tradingview.com/news/te_news:597429:0-south-korea-inflation-slows-in-october/",
-   "published_utc": "2026-11-02T23:09:04+00:00",
-   "title_original": "South Korea Inflation Slows in October",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "46dd4ea630e01f1a"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "South Korea Inflation Eases to 2.8% in October, Still Above Target",
-   "url": "https://www.tradingview.com/news/DJN_DN20261102012156:0-south-korea-inflation-eases-to-2-8-in-october-still-above-target/",
-   "published_utc": "2026-11-02T23:06:00+00:00",
-   "title_original": "South Korea Inflation Eases to 2.8% in October, Still Above Target",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "3c98d695a9cde7c6"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "South Korea Oct headline inflation +2.8% y/y (Reuters poll +2.85%)",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N469003:0-south-korea-oct-headline-inflation-2-8-y-y-reuters-poll-2-85/",
-   "published_utc": "2026-11-02T23:00:09+00:00",
-   "title_original": "South Korea Oct headline inflation +2.8% y/y (Reuters poll +2.85%)",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "3d4fef9f8cd7ea5c"
   },
   {
    "source_id": "manual_ia",
