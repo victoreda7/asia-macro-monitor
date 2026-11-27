@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T10:22:41.649636+00:00
+Última coleta: 2026-11-27T10:32:42.532191+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          943
-  🇨🇳 China          974
-  🇹🇼 Taiwan         341
+  🇨🇳 China          972
+  🇹🇼 Taiwan         343
   🇰🇷 Coreia do Sul  742
 
 ## O que já está no feed (não repita)
@@ -21,6 +21,7 @@ Total: 3000 manchetes
   - [china] DSC partners with JAPANCARS to expand China’s used car exports
   - [taiwan] AI is still in short supply. The General Accounting Office estimates that exports will hit a new high of US$1 
   - [china] Kweichow Moutai To Distribute Cash Dividend Of 25.6 Yuan Per Share
+  - [taiwan] Taiwan Lifts 2027 Growth Outlook Despite Mounting AI Concern
   - [china] Guangdong Songfa Ceramics' Subsidiary To Invest About 17 Billion Yuan In Project
   - [china] 2nd LD-Writethru: China's major stock indexes surge, chip shares rally
   - [china] China's major stock indexes surge, chip shares rally
@@ -55,8 +56,7 @@ Total: 3000 manchetes
   - [china] China’s factory slump likely extends to November despite solid exports
   - [japan] Stock price rises due to buyback of AI/semiconductor related stocks, price rises by more than 1,200 yen
   - [china] Analysis-Trump’s new tariffs aim to prise global trade from China’s grip
-  - [japan] Bank of Japan Warns Stablecoins and Tokenization Threaten Financial Stability
-  - [china] China stocks, yuan rally after Beijing vows stronger market support
+  - [taiwan] Semiconductor chips become the new oil. Global export value surpasses oil and gas for the first time | Sankei
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T10:22:41+00:00",
+      "published_utc": "2026-11-27T10:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
