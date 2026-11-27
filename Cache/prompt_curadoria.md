@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T07:52:43.096530+00:00
+Última coleta: 2026-11-27T08:02:42.905343+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          949
+  🇯🇵 Japão          950
   🇨🇳 China          976
   🇹🇼 Taiwan         331
-  🇰🇷 Coreia do Sul  744
+  🇰🇷 Coreia do Sul  743
 
 ## O que já está no feed (não repita)
 
+  - [japan] JGB Monthly Newsletter (November 2026)
+  - [china] Update: Chinese premier chairs State Council executive meeting
   - [china] China's State Council appoints, removes officials
   - [china] New U.S. Tariffs Unlikely to Derail U.S.-China Economic Relations — Market Talk
   - [japan] School bullying in Japan hit record high in fiscal 2025
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] The central bank's reverse repurchase operation net withdrawn 45.5 billion! Dividend low-volatility ETF Huatai
   - [korea] Korean Won Poised to Strengthen Against Dollar in 2027 — Market Talk
   - [japan] Consumer price index for November in Tokyo's 23 wards increased by 2.9% compared to the same month last year
-  - [china] China warns of retaliation after Trump administration proposes new tariffs alleging overcapacity
-  - [china] China warns of retaliation after Trump administration proposes new tariffs over overcapacity
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T07:52:43+00:00",
+      "published_utc": "2026-11-27T08:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
