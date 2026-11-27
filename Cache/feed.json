@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-27T07:02:41.122132+00:00",
- "collected_at_utc": "2026-11-27T07:02:41.122132+00:00",
+ "generated_at_utc": "2026-11-27T07:12:42.430683+00:00",
+ "collected_at_utc": "2026-11-27T07:12:42.430683+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 331,
   "korea": 747
  },
- "elapsed_s": 28.6,
+ "elapsed_s": 28.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-27T06:36:48+00:00"
+   "newest": "2026-11-27T06:58:16+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-27T06:36:32+00:00"
+   "newest": "2026-11-27T06:58:16+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T04:49:39+00:00"
+   "newest": "2026-11-27T07:00:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T06:35:20+00:00"
+   "newest": "2026-11-25T08:54:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-27T15:43:33+09:00"
+   "newest": "2026-11-27T16:06:09+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-27T07:01:00+00:00"
+   "newest": "2026-11-27T07:10:01+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T00:55:48+00:00"
+   "newest": "2026-11-27T03:52:17+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -362,6 +362,23 @@
    "id": "ea9f6968a8e6d98a"
   },
   {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "China stocks, yuan rally after Beijing vows stronger market support",
+   "url": "https://www.investing.com/news/stock-market-news/china-stocks-yuan-rally-after-beijing-vows-stronger-market-support-5053026",
+   "published_utc": "2026-11-27T06:48:37+00:00",
+   "title_original": "China stocks, yuan rally after Beijing vows stronger market support",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "76b49a774c72cad3"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Seeking Alpha",
    "title_en": "Nvidia, neoclouds in focus as chip sellers rule out Chinese renters",
@@ -395,23 +412,6 @@
    "live_wire": true,
    "manual": false,
    "id": "55cfe610b1e56640"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China stocks, yuan rally after Beijing vows stronger market support",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N47807G:0-china-stocks-yuan-rally-after-beijing-vows-stronger-market-support/",
-   "published_utc": "2026-11-27T06:38:14+00:00",
-   "title_original": "China stocks, yuan rally after Beijing vows stronger market support",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "ddee3bfd014ecfb8"
   },
   {
    "source_id": "tradingview_live",
@@ -3020,8 +3020,8 @@
    "id": "33d3d6f1142e1e9d"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi will revise the tax system next year “to promote investment and lead to growth”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261126de81902",
    "published_utc": "2026-11-26T08:14:00+00:00",
@@ -3034,7 +3034,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2f3e69c4a17301be"
+   "id": "984f302a111a267b"
   },
   {
    "source_id": "gn_kr_ked",
@@ -8069,8 +8069,8 @@
    "id": "30bc1e8f69757367"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Formulation of second supplementary budget plan expected to be limited to Kumamoto earthquake recovery, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261125de80904",
    "published_utc": "2026-11-24T20:38:00+00:00",
@@ -8084,7 +8084,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "91ec4ad2eb523a4f"
+   "id": "47d0ded3307f0151"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -9094,7 +9094,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "东方财富",
    "title_en": "Central Bank: 800 billion yuan MLF operation will be carried out on November 25",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kOXpaUGV3RE8xdzRZajJseXlSTGtiQW1YckJEYzcxM2VzVEN0cUUwTWVPbUtPMFRfYW5VNlJaYTNLemV0WHhfNFM0eUV2ZGo0eUNPSXIyTHNOZTc5T1ZUSUs3WkJOdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6UENvd2dBNmhaNldHeUViVmdvQVhKSXNKQWZGSjJ1SHZId0M5aVhNSGpHN0gtdjdMY0NMRGNSQ3JrTmlFMGVWV0IwQlFGYTQwN3U0ZWlIMkY5X1UwQ3hFWA?oc=5",
    "published_utc": "2026-11-24T09:29:29+00:00",
    "title_original": "央行：11月25日将开展8000亿元MLF操作",
    "region": "china",
@@ -9106,7 +9106,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "185164eda1a75342"
+   "id": "50a6ca31e9d4299a"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -50445,6 +50445,24 @@
    "id": "37b63c577e3f0995"
   },
   {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "S.Korea’s used-car export boom buckles under strong won, Middle East war",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0SE9iZ2tQZC14SUNQVFk0QjFfWHB1cDJTU0hyRkprRkVLNVduRS1STFY1WmZ4eVAyT2doajh1dEw0dzY4Q2d2Q0dzSmRyZGozQlJqVjZUYWZELS1aS2N0SzBGbERIa0NSVE9lQnRSSQ?oc=5",
+   "published_utc": "2026-11-03T11:09:00+00:00",
+   "title_original": "S.Korea’s used-car export boom buckles under strong won, Middle East war",
+   "region": "korea",
+   "topics": [
+    "fx",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c82ca9d3c103c641"
+  },
+  {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
    "title_en": "China Steps in to Boost Stocks, Cool Off Yuan",
@@ -50927,24 +50945,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6b9142ae6b360635"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "S.Korea’s used-car export boom buckles under strong won, Middle East war",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0SE9iZ2tQZC14SUNQVFk0QjFfWHB1cDJTU0hyRkprRkVLNVduRS1STFY1WmZ4eVAyT2doajh1dEw0dzY4Q2d2Q0dzSmRyZGozQlJqVjZUYWZELS1aS2N0SzBGbERIa0NSVE9lQnRSSQ?oc=5",
-   "published_utc": "2026-11-03T08:00:00+00:00",
-   "title_original": "S.Korea’s used-car export boom buckles under strong won, Middle East war",
-   "region": "korea",
-   "topics": [
-    "fx",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c82ca9d3c103c641"
   },
   {
    "source_id": "gn_cn_caixin",

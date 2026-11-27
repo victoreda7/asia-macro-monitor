@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T07:02:41.122132+00:00
+Última coleta: 2026-11-27T07:12:42.430683+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          948
@@ -18,9 +18,9 @@ Total: 3000 manchetes
 ## O que já está no feed (não repita)
 
   - [japan] Bank of Japan Warns Stablecoins and Tokenization Threaten Financial Stability
+  - [china] China stocks, yuan rally after Beijing vows stronger market support
   - [china] Nvidia, neoclouds in focus as chip sellers rule out Chinese renters
   - [japan] USDJPY: Dollar Holds Above ¥159 as Tokyo Inflation Keeps BOJ Hike in Play
-  - [china] China stocks, yuan rally after Beijing vows stronger market support
   - [china] China Industrial Profits Log Robust Growth
   - [china] China to strengthen defense against imported risks in capital markets
   - [japan] Today's Oha Biz 11/27 Bank of Japan councilor moves policy interest rate to “neutral level”
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T07:02:41+00:00",
+      "published_utc": "2026-11-27T07:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
