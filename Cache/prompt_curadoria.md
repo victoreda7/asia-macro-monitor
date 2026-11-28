@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-28T12:12:49.638383+00:00
+Última coleta: 2026-11-28T12:22:44.379717+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          959
-  🇨🇳 China          967
-  🇹🇼 Taiwan         341
+  🇨🇳 China          966
+  🇹🇼 Taiwan         342
   🇰🇷 Coreia do Sul  733
 
 ## O que já está no feed (não repita)
@@ -48,6 +48,7 @@ Total: 3000 manchetes
   - [china] 800 billion MLF + 500 billion reverse repurchase, the central bank's "combination punch" accurately protects l
   - [korea] Midday Need to Know: Brazil stocks surge, SK Hynix boosts buybacks & more
   - [japan] Japan's data center subsidies to weigh local impact as backlash grows
+  - [taiwan] DGBAS raises 2026 economic growth forecast to 13.28%
   - [china] German Companies in China Adapt to Persistent Price Pressure
   - [china] EU to Probe China and Singapore Sustainable Aviation Fuel Imports
   - [korea] SK Hynix increases buybacks following recent share skid: report
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Aluminum Corporation Of China Says Guinea Subsidiary Signs EPC Contract With China Aluminum International Engi
   - [japan] School bullying in Japan hit record high in fiscal 2025
   - [china] EU weighs tighter export controls to prevent battery waste going to China
-  - [china] China's central bank promises flexible and effective use of monetary policy tools
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-28T12:12:49+00:00",
+      "published_utc": "2026-11-28T12:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
