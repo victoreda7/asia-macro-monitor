@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-28T01:12:43.686725+00:00
+Última coleta: 2026-11-28T01:22:43.539752+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          953
@@ -22,9 +22,9 @@ Total: 3000 manchetes
   - [taiwan] Semiconductor competition between Taiwan and South Korea extends to the advanced packaging field! Samsung, TSM
   - [japan] Behind the Tamahome fraudulent billing issue is a "blind spot" in insurance industry regulation, and there is 
   - [japan] 505 yen lunch box excluding tax: ``505 yen if you take it home, 550 yen if you eat it inside'' Unable to shake
-  - [japan] The consumer price index (excluding fresh food) in Tokyo's wards increased by 2.9%, expanding due to the end o
   - [china] Lithium Price Outlook as Sellers Target 80,000 Yuan After Failed Recovery
   - [japan] The cost was surprisingly high... The true nature of the "ominous dissonance" between the Liberal Democratic P
+  - [japan] The consumer price index (excluding fresh food) in Tokyo's wards increased by 2.9%, expanding due to the end o
   - [taiwan] TSMC Stocks Climb 1.84% as U.S. Tariff Proposal Leaves Chips Off the List
   - [korea] SK hynix Stocks Jump 5.41% as 100 Trillion Won Payout Plan Sinks In
   - [korea] Samsung Electronics Stocks Jump 4.55% as Seoul Rallies on Stabilization Hopes
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-28T01:12:43+00:00",
+      "published_utc": "2026-11-28T01:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
