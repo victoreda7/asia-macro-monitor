@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-28T05:03:00.438626+00:00
+Última coleta: 2026-11-28T05:12:41.479061+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          958
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] China’s import logistics demand falls 0.6% in January-October
   - [japan] Bank of Japan will postpone interest rate hike in December due to falling stock prices Focus on Governor Ueda'
   - [japan] 2026 Japanese Stock Summary and 2027 Outlook: Next steps influenced by “Bank of Japan interest rate hike” and 
   - [japan] Japan to scrutinize anime, game funding as budget requests surge
@@ -26,9 +27,9 @@ Total: 3000 manchetes
   - [taiwan] Semiconductor competition between Taiwan and South Korea extends to the advanced packaging field! Samsung, TSM
   - [japan] Behind the Tamahome fraudulent billing issue is a "blind spot" in insurance industry regulation, and there is 
   - [japan] 505 yen lunch box excluding tax: ``505 yen if you take it home, 550 yen if you eat it inside'' Unable to shake
+  - [japan] The consumer price index (excluding fresh food) in Tokyo's wards increased by 2.9%, expanding due to the end o
   - [china] Lithium Price Outlook as Sellers Target 80,000 Yuan After Failed Recovery
   - [japan] The cost was surprisingly high... The true nature of the "ominous dissonance" between the Liberal Democratic P
-  - [japan] The consumer price index (excluding fresh food) in Tokyo's wards increased by 2.9%, expanding due to the end o
   - [taiwan] TSMC Stocks Climb 1.84% as U.S. Tariff Proposal Leaves Chips Off the List
   - [korea] SK hynix Stocks Jump 5.41% as 100 Trillion Won Payout Plan Sinks In
   - [korea] Samsung Electronics Stocks Jump 4.55% as Seoul Rallies on Stabilization Hopes
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Micron, SK Hynix, Samsung in focus as GF cuts DRAM prices for 2027
   - [china] Nvidia Blackwell chips found at China data center linked to Alice Huang: report
   - [korea] SK hynix doubles daily buyback orders as shares slide
-  - [china] Nvidia Blackwell chips found in Shanghai data center tied to Alice Huang
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-28T05:03:00+00:00",
+      "published_utc": "2026-11-28T05:12:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
