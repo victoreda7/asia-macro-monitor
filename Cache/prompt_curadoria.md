@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-28T04:32:42.382041+00:00
+Última coleta: 2026-11-28T04:42:42.527767+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          957
-  🇨🇳 China          970
+  🇯🇵 Japão          958
+  🇨🇳 China          969
   🇹🇼 Taiwan         337
   🇰🇷 Coreia do Sul  736
 
@@ -19,6 +19,7 @@ Total: 3000 manchetes
 
   - [japan] Bank of Japan will postpone interest rate hike in December due to falling stock prices Focus on Governor Ueda'
   - [japan] 2026 Japanese Stock Summary and 2027 Outlook: Next steps influenced by “Bank of Japan interest rate hike” and 
+  - [japan] Japan to scrutinize anime, game funding as budget requests surge
   - [japan] What is the "unexpected asset" that a former Bank of Japan investment professional is currently paying attenti
   - [japan] Why did “Kappa Sushi” fall into the red?
   - [japan] Tokyo leads world in office rent, price growth as employers vie for prime space
@@ -32,7 +33,6 @@ Total: 3000 manchetes
   - [korea] SK hynix Stocks Jump 5.41% as 100 Trillion Won Payout Plan Sinks In
   - [korea] Samsung Electronics Stocks Jump 4.55% as Seoul Rallies on Stabilization Hopes
   - [japan] NIPPON STEEL CORP. Stock 12‑Month Price Target Raised to JPY 753.33, Implies 11% Upside
-  - [china] Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang
   - [china] China's auto exports to rise 50% amid intensifying competition at home
   - [japan] Japan Week Ahead: October Factory Output, Retail Sales Likely to Show Solid Start to Final Quarter of 2026
   - [china] Nvidia, CoreWeave Face New U.S. Restrictions on China AI Chip Access
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-28T04:32:42+00:00",
+      "published_utc": "2026-11-28T04:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
