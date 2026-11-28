@@ -1,15 +1,15 @@
 {
- "generated_at_utc": "2026-11-28T03:12:41.664276+00:00",
- "collected_at_utc": "2026-11-28T03:12:41.664276+00:00",
+ "generated_at_utc": "2026-11-28T03:22:48.355346+00:00",
+ "collected_at_utc": "2026-11-28T03:22:48.355346+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 956,
+  "japan": 957,
   "china": 970,
   "taiwan": 337,
-  "korea": 737
+  "korea": 736
  },
  "elapsed_s": 29.0,
  "sources": [
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T07:53:57+00:00"
+   "newest": "2026-11-27T07:23:26+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -59,7 +59,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-28T01:32:00+00:00"
+   "newest": "2026-11-27T13:44:00+00:00"
   },
   {
    "source_id": "focus_taiwan",
@@ -73,7 +73,7 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 162,
+   "count": 10,
    "error": "",
    "newest": "2026-11-28T02:42:20+00:00"
   },
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T03:11:11+00:00"
+   "newest": "2026-11-27T03:08:33+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-28T10:47:55+09:00"
+   "newest": "2026-11-28T10:47:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-28T03:00:47+00:00"
+   "newest": "2026-11-28T03:20:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-28T01:06:31+00:00"
+   "newest": "2026-11-27T22:04:41+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-28T02:30:17+00:00"
+   "newest": "2026-11-28T03:15:22+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan will postpone interest rate hike in December due to falling stock prices Focus on Governor Ueda's Nagoya speech (TBS CROSS DIG with Bloomberg)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2ekpPZVRYTDR3RjFqZFhraHVnUlhWMC1NUzlIUHJRMlhMUk5pWjA5aVpJbXZKaEYydllCZWpiSkdkdHhBall1RDBvZzFUNzNPSFBtSEpUNUFhOVhIMjR0Sl9DeGxpUXZvbGtfbWQ0NkNIeExRWmxDU0toejFpbFU?oc=5",
+   "published_utc": "2026-11-28T03:00:34+00:00",
+   "title_original": "株価下落で日銀は12月利上げを見送りへ 注目は植田総裁の名古屋講演（TBS CROSS DIG with Bloomberg）",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "4fa0d7f149f8b600"
+  },
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
@@ -587,6 +604,23 @@
    "live_wire": true,
    "manual": false,
    "id": "daf484d9ff07626b"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOajRDYnpkT2kwWEdlR2REeG93cnBZdkdsYmo3dTFmaVp3enZYN3Jid0RYVWZwNXJvcE00OG5FNjdwd0MzQXpFV1gzeUxkdnhxTVNoaGVNRmpnRllMTGY4emNtNW9VYnc4RWZVX0I2WExQNy1Ha21aV0FNWWVUb0FacnFLM01rUWRudjBCdGJpbGxCVUx3dl9KMEtZb0pyYURCTG1iWW5xUmNpaDlnc0lsMVpldmV6QQ?oc=5",
+   "published_utc": "2026-11-27T19:18:51+00:00",
+   "title_original": "Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3c63b253f796d529"
   },
   {
    "source_id": "nikkei_asia",
@@ -1052,23 +1086,6 @@
    "live_wire": false,
    "manual": false,
    "id": "0476a43ac12bffd4"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOajRDYnpkT2kwWEdlR2REeG93cnBZdkdsYmo3dTFmaVp3enZYN3Jid0RYVWZwNXJvcE00OG5FNjdwd0MzQXpFV1gzeUxkdnhxTVNoaGVNRmpnRllMTGY4emNtNW9VYnc4RWZVX0I2WExQNy1Ha21aV0FNWWVUb0FacnFLM01rUWRudjBCdGJpbGxCVUx3dl9KMEtZb0pyYURCTG1iWW5xUmNpaDlnc0lsMVpldmV6QQ?oc=5",
-   "published_utc": "2026-11-27T11:45:46+00:00",
-   "title_original": "Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3c63b253f796d529"
   },
   {
    "source_id": "focus_taiwan",
@@ -2859,7 +2876,7 @@
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Trump calls for 200% semiconductor tariff; Taiwan says cap is 15%",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb3VNQ05abXFnN3MyYVRMVTRqb2hDZlRNdDhqZDR1X2dOTTZQWDJhZXRzNmxyN1ZLQTBKQmlaR0QyejIzYkY0SUtCZmZxT3haTmZSVWxEVklpT1NzcXduUVA0ckZWeGEtOGt3WUUtNUdqQ2M3ZC1qSGk0WTRVcWxoM2UyM2dTdUlvNGJKalJVaERYc3ZnU0ZJVS1qTE41RUpYVEE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ2VkejdJTlpXZzNYeEd4SUptZHlQdkRiNWRaVThITHZHZ1RCREpDQlc5dldIVWZvS1NfeGJLd01TRXRTY2RNV0JTZERIVjZTcWM4NWF5TFVSWUdqeEZlbFlXWEl6YzhrV0cxYnRUcktrcWprZWZkbGw2R2pnX2JYLU0zbTBENE11VW5kU1VBdm56S0lVNmRub1RIQ21hVWlTejNB?oc=5",
    "published_utc": "2026-11-26T22:41:23+00:00",
    "title_original": "Trump calls for 200% semiconductor tariff; Taiwan says cap is 15%",
    "region": "taiwan",
@@ -2871,7 +2888,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "77395d1dfddeb88f"
+   "id": "8645cc1d3a719761"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -25788,23 +25805,6 @@
   {
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局",
-   "title_en": "Yang Caifang, senior statistician of the Urban Department of the National Bureau of Statistics, interprets the statistical data on sales price changes of commercial housing in October 2026",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LUm5SMjhucHBGb2NaS1E4c1VXd2xzQ0ZzS0dURV9iNDlsMlcxQ2FDLWpwalJwRHVPUDExX3BVY081Q1pPbE1ZR2h3SENHY2JvdzluaWdjc0Q3U3ZzcTJsdzhvOExXZTdaeVJVY09sUQ?oc=5",
-   "published_utc": "2026-11-16T08:00:00+00:00",
-   "title_original": "国家统计局城市司高级统计师杨彩芳解读2026年10月份商品住宅销售价格变动情况统计数据",
-   "region": "china",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "3543965634941837"
-  },
-  {
-   "source_id": "gn_cn_nbs",
-   "source_name": "国家统计局",
    "title_en": "Changes in Residential Property Sales Prices in 70 Major and Medium-Sized Cities in October 2026",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Rb01zQzBERW9sSDZIQW5MRlJjZXV6SktYajlXRll3MHZwM2hVMFRMdV9NM29kM1RPLXg0TEJ2TUxna1RZVmpSdzBfU3o3bnp0T0UzNmU1dE1xaVlTSkUxa2tuUWtnaG1SZm5qMFNNSGg5VWt1?oc=5",
    "published_utc": "2026-11-16T08:00:00+00:00",
@@ -27010,6 +27010,23 @@
    "id": "6926a5624bf18536"
   },
   {
+   "source_id": "gn_cn_nbs",
+   "source_name": "国家统计局",
+   "title_en": "Yang Caifang, senior statistician of the Urban Department of the National Bureau of Statistics, interprets the statistical data on sales price changes of commercial housing in October 2026",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkcEItSGdZOV94WVpWN2tkbmFsa3JQMm9mQk1CRkpDZnJheWxJZDdmOS1GcnJtdEp5bGhmTHBqNmt5N0haT1ZPX0xUX3VEV0E0dk5TSlRNYUZxeUlERWNGS281NTRhOWFVdEVDYURLMDV3bkFk?oc=5",
+   "published_utc": "2026-11-16T01:30:00+00:00",
+   "title_original": "国家统计局城市司高级统计师杨彩芳解读2026年10月份商品住宅销售价格变动情况统计数据",
+   "region": "china",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "443e45a795f32343"
+  },
+  {
    "source_id": "gn_cn_pboc",
    "source_name": "中新经纬",
    "title_en": "The central bank launches 460 billion yuan overnight reverse repurchase operation",
@@ -27472,23 +27489,6 @@
    "live_wire": true,
    "manual": false,
    "id": "fb78b8bf95785be2"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LdUg0NUNFSllyeEJVMXZvQmpXclZQSUVxclRJX0N2QmhHeEV2M3ZpeW1KTkhzTW5zOWJOUU5PbFBsVU84MXhXNnVtMHFtU2FLZkFIbWVZOXp6dERzYUo4SQ?oc=5",
-   "published_utc": "2026-11-15T23:20:51+00:00",
-   "title_original": "Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5eecd2256cf4eacd"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -30444,6 +30444,23 @@
    "live_wire": true,
    "manual": false,
    "id": "4c2078d4781d628d"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONDBQQ0NwbnRiSzhQSDZRSWZYSmtQUkxySEVRclZCS0NNNDJXSnYxeXFZeEZUVG94VzhoSUs2ZlBGTkFvc3BJUHFOTEgyNG1wVnBuWjBpNVRveklyaEFGMnlZUkNEclZOc3FSbnFSSEpQSVNjVUtnQVFxZGlwX0VTMEt5NGYwMEhjN0xrcU5YOXZ2M2pXTG1nYmpDaExEOUdIc0pRR3JR?oc=5",
+   "published_utc": "2026-11-13T08:00:00+00:00",
+   "title_original": "Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "350419b2852113c9"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -51864,23 +51881,6 @@
    "live_wire": false,
    "manual": false,
    "id": "0034910a3e6904da"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "NPS sacks real estate head, stalling $900 mn in 2026 fund commitments",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RRG54OF9GWTlwZDlwMkN2bkVKb1JSVURSTDFLZk11dDhzNS15WlFXWkUtbVhuci1qd0REc3dQRk02R0p1aGFKR0V6OVpCaUxtZ1NOSDRJb3BweE5UZmFvUS14enJVUl91WWxyVA?oc=5",
-   "published_utc": "2026-11-03T09:17:00+00:00",
-   "title_original": "NPS sacks real estate head, stalling $900 mn in 2026 fund commitments",
-   "region": "korea",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "58ed013e1a15ffdb"
   },
   {
    "source_id": "manual_ia",
