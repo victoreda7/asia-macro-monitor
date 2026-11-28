@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-28T15:03:34.952774+00:00",
- "collected_at_utc": "2026-11-28T15:03:34.952774+00:00",
+ "generated_at_utc": "2026-11-28T15:13:05.252901+00:00",
+ "collected_at_utc": "2026-11-28T15:13:05.252901+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 345,
   "korea": 733
  },
- "elapsed_s": 80.2,
+ "elapsed_s": 45.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -73,9 +73,9 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 10,
+   "count": 163,
    "error": "",
-   "newest": "2026-11-28T14:30:18+00:00"
+   "newest": "2026-11-28T15:01:02+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T03:08:33+00:00"
+   "newest": "2026-11-28T11:53:15+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-28T08:00:11+00:00"
+   "newest": "2026-11-28T12:23:39+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-28T15:01:33+00:00"
+   "newest": "2026-11-28T15:11:01+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -283,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T16:38:00+00:00"
+   "newest": "2026-11-28T02:02:16+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -4444,8 +4444,8 @@
    "id": "33d3d6f1142e1e9d"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi will revise the tax system next year “to promote investment and lead to growth”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261126de81902",
    "published_utc": "2026-11-26T08:14:00+00:00",
@@ -4458,7 +4458,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "984f302a111a267b"
+   "id": "2f3e69c4a17301be"
   },
   {
    "source_id": "gn_kr_ked",
@@ -8999,6 +8999,24 @@
    "id": "f35b3e3db4cdc367"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "Sohu",
+   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOXJFVTRxZVhfendkajJBX09CczdYRnlpbUcyLTdENUY1QXRwTnRwSUJwVjB3MEQ2eHZvdGxGNjhBS0c0R3JpajRWQ2lpTllvaFdWZWdVdVRCeXMyUm1TRUozUzdaSGtORFR5V3BKYjVYdkFLSkxsNGNiTEhhRXZUTVM1dWdud1Bs?oc=5",
+   "published_utc": "2026-11-25T00:44:51+00:00",
+   "title_original": "央行将开展8000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ed34b2b635279601"
+  },
+  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Taiwan accelerates domestic drone procurement with unlocked defense budgets",
@@ -10633,24 +10651,6 @@
    "live_wire": true,
    "manual": false,
    "id": "8361c2d8d19ff598"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "大河财立方",
-   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QZ1BGR25ub3N4YmtENzlwNWR2YzdlSDRvU3p5VzRXelhnMlhPNGtBclhaYjdMVklWWV8yYVpUcGJFUV82Q19pbGNlYWdqVE1uN0o0THJfYV9lWThHSzB4SGtSTG9PSmJvY2c?oc=5",
-   "published_utc": "2026-11-24T09:24:24+00:00",
-   "title_original": "央行将开展8000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "16c7f7c4ddc6591f"
   },
   {
    "source_id": "tradingview_live",
@@ -26083,7 +26083,7 @@
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局",
    "title_en": "Changes in Residential Property Sales Prices in 70 Major and Medium-Sized Cities in October 2026",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lN2wtUFc1M2Nwb3hjZUIzVVFvYl9LSm03dElUTUs1N1NpVU4zUzFBZXdNMnU1TTdNT042N2hucF9TeXFIU2c1ay1lcHVHNUc5MUwyaDVLM19LNU9vd2FzaVh5U2JQWjVGRnRpRU5BZw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Rb01zQzBERW9sSDZIQW5MRlJjZXV6SktYajlXRll3MHZwM2hVMFRMdV9NM29kM1RPLXg0TEJ2TUxna1RZVmpSdzBfU3o3bnp0T0UzNmU1dE1xaVlTSkUxa2tuUWtnaG1SZm5qMFNNSGg5VWt1?oc=5",
    "published_utc": "2026-11-16T08:00:00+00:00",
    "title_original": "2026年10月份70个大中城市商品住宅销售价格变动情况",
    "region": "china",
@@ -26094,7 +26094,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "096bbd69290a566a"
+   "id": "7bb7a4ae79ca9ea6"
   },
   {
    "source_id": "gn_jp_investing",
