@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-28T14:52:44.048785+00:00
+Última coleta: 2026-11-28T15:03:34.952774+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          958
-  🇨🇳 China          964
+  🇯🇵 Japão          959
+  🇨🇳 China          963
   🇹🇼 Taiwan         345
   🇰🇷 Coreia do Sul  733
 
@@ -24,6 +24,7 @@ Total: 3000 manchetes
   - [china] China’s import logistics demand falls 0.6% in January-October
   - [china] China Import Logistics Fell 0.6% in January-October, Xinhua Says
   - [japan] Bank of Japan will postpone interest rate hike in December due to falling stock prices Focus on Governor Ueda'
+  - [japan] When the Bank of Japan raises policy interest rates, loan interest rates also rise, suppressing consumption an
   - [china] DeepSeek is China’s latest developer to worry about losing control of AI
   - [japan] 2026 Japanese Stock Summary and 2027 Outlook: Next steps influenced by “Bank of Japan interest rate hike” and 
   - [japan] Japan to scrutinize anime, game funding as budget requests surge
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] SK Hynix increases buybacks following recent share skid: report
   - [korea] Micron, SK Hynix and SanDisk Stocks Rise — What's the Verdict on Demand?
   - [japan] Liberal Democratic Party Vice President Aso, Foreign Minister Motegi and others meet to pass consumption tax r
-  - [china] Aluminum Corporation Of China Says Guinea Subsidiary Signs EPC Contract With China Aluminum International Engi
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-28T14:52:44+00:00",
+      "published_utc": "2026-11-28T15:03:35+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
