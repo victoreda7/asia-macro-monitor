@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-11-28T02:42:43.123333+00:00",
- "collected_at_utc": "2026-11-28T02:42:43.123333+00:00",
+ "generated_at_utc": "2026-11-28T02:52:47.134021+00:00",
+ "collected_at_utc": "2026-11-28T02:52:47.134021+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 40,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,8 +11,16 @@
   "taiwan": 337,
   "korea": 737
  },
- "elapsed_s": 28.9,
+ "elapsed_s": 33.6,
  "sources": [
+  {
+   "source_id": "gn_asia_bloomberg",
+   "name": "Bloomberg Asia",
+   "ok": true,
+   "count": 0,
+   "error": "falha pontual (sem resultados) — tenta de novo na próxima coleta",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -20,14 +28,6 @@
    "count": 47,
    "error": "",
    "newest": "2026-11-27T14:00:00+09:00"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "name": "Bloomberg Asia",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-11-27T20:58:41+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 162,
    "error": "",
-   "newest": "2026-11-28T02:30:57+00:00"
+   "newest": "2026-11-28T02:34:55+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T03:39:44+00:00"
+   "newest": "2026-11-25T18:37:49+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T22:04:41+00:00"
+   "newest": "2026-11-28T01:06:31+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-28T02:02:15+00:00"
+   "newest": "2026-11-28T02:30:17+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T23:54:26+00:00"
+   "newest": "2026-11-28T02:12:39+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -342,7 +342,9 @@
    "newest": "2026-11-27T17:07:56+00:00"
   }
  ],
- "falhas_seguidas": {},
+ "falhas_seguidas": {
+  "gn_asia_bloomberg": 1
+ },
  "items": [
   {
    "source_id": "gn_jp_yahoo",
@@ -368,7 +370,7 @@
    "source_name": "Yahoo!ニュース",
    "title_en": "What is the \"unexpected asset\" that a former Bank of Japan investment professional is currently paying attention to? (Diamond Online)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8takFiRllBdkNSOW9VWGhheU4zNWx0ekVISG9TWXZjSGFtaC1lVkFnS3FxUFE3TGJQcXlNRjVPOThhVDA3MFBoTXBTRXBmbFJwQjNRNFpKTGpzUTlaWXprUnlvRkItM2hnTk11ZmlHRnBSQ0gtNjV6V0Mxcl83OVU?oc=5",
-   "published_utc": "2026-11-27T22:48:53+00:00",
+   "published_utc": "2026-11-27T22:42:16+00:00",
    "title_original": "元日銀の投資のプロが今、熱い視線を送る「意外な資産」とは？（ダイヤモンド・オンライン）",
    "region": "japan",
    "topics": [
@@ -3532,7 +3534,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "국제신문",
    "title_en": "Bank of Korea raises base interest rate by 0.25% to 3.25%",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYVlMS1pLYXpINHk4VGxhUGRjMG9NbWFuTXlpX0NEa3JwVm9qaDJETlp2ZUotamVpVnRndnFPSEhWRjBkNEZEeGNyOFpTYTYxQ3JhaUdDUTZnZEVUSlYyVlY3ZVBHcnVFUDBHSGtqblhSbGhWX002RE1Qby16QjVUaXJrRjg4eDZfRl9r?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNY3ZLRlBXQVZNN1RnNF9uZlFURFRjZTl5SHJrcW8tLTBpMlZBUnhkRFd1VE5Oek1pbU9pYjQ2dnpFZS1XeGVlQnNHUGFLRXBEUVFtaFQyMkc1SzVDMVNheFZCU3Q0Wnc0UU9VU19HMkk1QUF0T1ZMemhnNVZheTNxMXVFS1VZalhLZXZpRjN3?oc=5",
    "published_utc": "2026-11-26T10:34:00+00:00",
    "title_original": "한국은행, 기준금리 0.25%P 올려 3.25%",
    "region": "korea",
@@ -3543,7 +3545,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d7e2068d0b444673"
+   "id": "e9e1a100b60edcc7"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -7892,7 +7894,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "Sohu",
    "title_en": "MLF's continuous net withdrawals, what kind of signal does the 7-day reverse repo release at the end of the month?",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMUM2RGtQdEYwdlpVUzdCOUZkZHF6TDhodndBTE13S2M3YkF0Z1FJd2w5NXg5TVdfbnJFejZKX2R6NVRnZ3R4NmpXXy11am5fbmVnY0Y1YjhqVnRCd2JRY1JNd2Nmc1dYM2R4LXQ1aWtXaWQ5N18yNHh3SEZLdVI3OHU0MHEtUk10ejhV?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS1VlMDd1ZjlPU2todEdvS1lKbF9lRG9TTVVVaGFtWTRHTUFLU0ZWT2Q3TXJ5TEJaNWo5Q1BLR1JZaDU2OTdYZXphZ3Fsb01aTTdvNVRxcG11WnpvX2lTZWN6UzFZQzhJdTBJWDk3eW5WLV9WNEJLcFM3el8yd2ZERG9QVDczdHk0?oc=5",
    "published_utc": "2026-11-25T06:54:00+00:00",
    "title_original": "MLF连续净回笼，7 天逆回购月末补位释放何种信号",
    "region": "china",
@@ -7903,7 +7905,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "fd71ff1694c280ff"
+   "id": "875069ee2dd98f99"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -8335,6 +8337,24 @@
    "id": "fd8995a4d9d25359"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富网",
+   "title_en": "On November 25, the central bank launched a 617 billion yuan overnight reverse repurchase operation.",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UNFV2S2poejBRZXZPVXh4UWRJWnhNYnVWaV9kM2dMR2FBdnd4c1VQc2ROM0FoSkZySmMyWl9GR1g1VFVHV3BGVDJTY25KaXFuOEMxNDc5NWYzdU05LTliNEtUTlpOdw?oc=5",
+   "published_utc": "2026-11-25T03:02:15+00:00",
+   "title_original": "11月25日央行开展6170亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a0d6c5ed19dba328"
+  },
+  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "Banks' household mortgage lending rates up for 6th month in Oct.",
@@ -8456,24 +8476,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ba8efc830b81e1df"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "中国新闻网",
-   "title_en": "On November 25, the central bank launched a 617 billion yuan overnight reverse repurchase operation.",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJUmRNc1R4ckVOa0FTbTA1Yi1OM281c2NrUWRYNWdyY1ZnS1FiUWg5NkR6XzlfNzcweVRGcl94N3Q2VC1lRzFMYTZwQWQxQ1o1Sjg2REJ2cTdIZFZ5aGNGV2dPbF85bFE1?oc=5",
-   "published_utc": "2026-11-25T02:06:19+00:00",
-   "title_original": "11月25日央行开展6170亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "2617bf22b0c41429"
   },
   {
    "source_id": "gn_kr_mk",
@@ -25859,7 +25861,7 @@
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局",
    "title_en": "Total retail sales of consumer goods increased by 1.0% from January to October 2026",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkQXV0YUxiVHlvczU4VURSVnNWcERfdzhPUFdqT0NFdG9sRERhYjRySUJqOE9UNWFmRkZ4S0ItWnhnNmtXLVJWN0hyc2lIc0xJVWMtMEVBaU9JbEpnTmp5Zy14a0V0ZE5TaE5wSXRleElsNGkz?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE93LUd5YmFzQlNjYlJ1dUNhX0FzLVBTakZYWnh1elR0ck1lUmdlMm1oM0stOGNEajBvcEFzRWpGS3FrOVo1Z3R0bWtmWE82c1hXT1d5YjRxQ2ZVQXR4WHBBclVMM05YZTl1NkFGb3RxSQ?oc=5",
    "published_utc": "2026-11-16T08:00:00+00:00",
    "title_original": "2026年1—10月份社会消费品零售总额增长1.0%",
    "region": "china",
@@ -25870,7 +25872,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f1e42f8f1abef9e3"
+   "id": "b2fc405e546d1775"
   },
   {
    "source_id": "gn_cn_nbs",
