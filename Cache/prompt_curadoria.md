@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-28T13:02:41.979730+00:00
+Última coleta: 2026-11-28T13:12:41.220539+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          959
   🇨🇳 China          965
-  🇹🇼 Taiwan         342
-  🇰🇷 Coreia do Sul  734
+  🇹🇼 Taiwan         343
+  🇰🇷 Coreia do Sul  733
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] KMT incumbent Chang declares reelection win in Taoyuan mayoral race
   - [taiwan] Nvidia's Southeast Asia shipment freeze tests Taiwan's AI-server manufacturing hedge
   - [japan] Nissan Motor Co., Ltd. Stock 12‑Month Price Target Raised to JPY 363.21, Implies 40% Upside
   - [china] China’s import logistics demand falls 0.6% in January-October
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Liberal Democratic Party Vice President Aso, Foreign Minister Motegi and others meet to pass consumption tax r
   - [china] Aluminum Corporation Of China Says Guinea Subsidiary Signs EPC Contract With China Aluminum International Engi
   - [japan] School bullying in Japan hit record high in fiscal 2025
-  - [china] EU weighs tighter export controls to prevent battery waste going to China
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-28T13:02:42+00:00",
+      "published_utc": "2026-11-28T13:12:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
