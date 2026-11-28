@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-28T05:42:41.319635+00:00
+Última coleta: 2026-11-28T05:52:42.818421+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          958
@@ -18,6 +18,7 @@ Total: 3000 manchetes
 ## O que já está no feed (não repita)
 
   - [china] China’s import logistics demand falls 0.6% in January-October
+  - [china] China Import Logistics Fell 0.6% in January-October, Xinhua Says
   - [japan] Bank of Japan will postpone interest rate hike in December due to falling stock prices Focus on Governor Ueda'
   - [japan] 2026 Japanese Stock Summary and 2027 Outlook: Next steps influenced by “Bank of Japan interest rate hike” and 
   - [japan] Japan to scrutinize anime, game funding as budget requests surge
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Daesang Corporation Seaweed Sales Rose ~30% to KRW 200.0B
   - [korea] Micron, SK Hynix, Samsung in focus as GF cuts DRAM prices for 2027
   - [china] Nvidia Blackwell chips found at China data center linked to Alice Huang: report
-  - [korea] SK hynix doubles daily buyback orders as shares slide
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-28T05:42:41+00:00",
+      "published_utc": "2026-11-28T05:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
