@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-28T07:12:47.826929+00:00
+Última coleta: 2026-11-28T07:22:42.017427+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          958
-  🇨🇳 China          970
+  🇯🇵 Japão          959
+  🇨🇳 China          969
   🇹🇼 Taiwan         337
   🇰🇷 Coreia do Sul  735
 
 ## O que já está no feed (não repita)
 
+  - [japan] Nissan Motor Co., Ltd. Stock 12‑Month Price Target Raised to JPY 363.21, Implies 40% Upside
   - [china] China’s import logistics demand falls 0.6% in January-October
   - [china] China Import Logistics Fell 0.6% in January-October, Xinhua Says
   - [japan] Bank of Japan will postpone interest rate hike in December due to falling stock prices Focus on Governor Ueda'
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] EU weighs tighter export controls to prevent battery waste going to China
   - [china] China's central bank promises flexible and effective use of monetary policy tools
   - [korea] Daesang Corporation Seaweed Sales Rose ~30% to KRW 200.0B
-  - [korea] Micron, SK Hynix, Samsung in focus as GF cuts DRAM prices for 2027
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-28T07:12:48+00:00",
+      "published_utc": "2026-11-28T07:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

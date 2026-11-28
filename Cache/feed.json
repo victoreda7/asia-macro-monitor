@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-28T07:12:47.826929+00:00",
- "collected_at_utc": "2026-11-28T07:12:47.826929+00:00",
+ "generated_at_utc": "2026-11-28T07:22:42.017427+00:00",
+ "collected_at_utc": "2026-11-28T07:22:42.017427+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 958,
-  "china": 970,
+  "japan": 959,
+  "china": 969,
   "taiwan": 337,
   "korea": 735
  },
- "elapsed_s": 28.3,
+ "elapsed_s": 28.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T21:23:00+00:00"
+   "newest": "2026-11-23T06:07:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -73,7 +73,7 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 162,
+   "count": 10,
    "error": "",
    "newest": "2026-11-28T07:01:13+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-28T07:11:36+00:00"
+   "newest": "2026-11-28T07:20:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-28T04:08:57+00:00"
+   "newest": "2026-11-28T01:06:31+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-28T00:44:08+00:00"
+   "newest": "2026-11-27T08:13:00+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-28T04:27:20+00:00"
+   "newest": "2026-11-28T01:24:39+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "TradingView",
+   "title_en": "Nissan Motor Co., Ltd. Stock 12‑Month Price Target Raised to JPY 363.21, Implies 40% Upside",
+   "url": "https://www.tradingview.com/news/tradingview:35c7d500a5461:0-nissan-motor-co-ltd-stock-12-month-price-target-raised-to-jpy-363-21-implies-40-upside/",
+   "published_utc": "2026-11-28T07:20:00+00:00",
+   "title_original": "Nissan Motor Co., Ltd. Stock 12‑Month Price Target Raised to JPY 363.21, Implies 40% Upside",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "41f129c75d383df5"
+  },
   {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
@@ -8808,24 +8825,6 @@
    "id": "f35b3e3db4cdc367"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "Sohu",
-   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVlMxWjV0blVDRzdsSjFMVVREU1F3SnVSN29ETEZpU3ZzWWVMV1E4cU1SV0w3eHNJMmhTTUx0N2hMUjh4V3N3NzBvXy1wbmIwdnFXZGt6U2RHNlFOcmw5MklfV25lOURocUpjb21qaUhDTEtWbG81Z0lMS21nYVN2ajlud1g3VU8xdW1J?oc=5",
-   "published_utc": "2026-11-25T00:44:51+00:00",
-   "title_original": "央行将开展8000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "102ec5a376cb7634"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Taiwan accelerates domestic drone procurement with unlocked defense budgets",
@@ -10460,6 +10459,24 @@
    "live_wire": true,
    "manual": false,
    "id": "8361c2d8d19ff598"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "大河财立方",
+   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QZ1BGR25ub3N4YmtENzlwNWR2YzdlSDRvU3p5VzRXelhnMlhPNGtBclhaYjdMVklWWV8yYVpUcGJFUV82Q19pbGNlYWdqVE1uN0o0THJfYV9lWThHSzB4SGtSTG9PSmJvY2c?oc=5",
+   "published_utc": "2026-11-24T09:24:24+00:00",
+   "title_original": "央行将开展8000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "16c7f7c4ddc6591f"
   },
   {
    "source_id": "tradingview_live",
@@ -51862,23 +51879,6 @@
    "live_wire": true,
    "manual": false,
    "id": "e951776ff2e03730"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Zhejiang Construction Investment Group Says Unit's Consortium Wins 1.5 Billion Yuan Bid",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46K0QF:0-zhejiang-construction-investment-group-says-unit-s-consortium-wins-1-5-billion-yuan-bid/",
-   "published_utc": "2026-11-03T10:11:58+00:00",
-   "title_original": "Zhejiang Construction Investment Group Says Unit's Consortium Wins 1.5 Billion Yuan Bid",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "9a472a676bbd5a7c"
   },
   {
    "source_id": "manual_ia",
