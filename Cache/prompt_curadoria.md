@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-28T05:22:42.505342+00:00
+Última coleta: 2026-11-28T05:32:44.969837+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          958
@@ -23,6 +23,7 @@ Total: 3000 manchetes
   - [japan] Japan to scrutinize anime, game funding as budget requests surge
   - [japan] What is the "unexpected asset" that a former Bank of Japan investment professional is currently paying attenti
   - [japan] Why did “Kappa Sushi” fall into the red?
+  - [korea] Samsung revamps chip division to sharpen its AI edge
   - [japan] Tokyo leads world in office rent, price growth as employers vie for prime space
   - [taiwan] Semiconductor competition between Taiwan and South Korea extends to the advanced packaging field! Samsung, TSM
   - [japan] Behind the Tamahome fraudulent billing issue is a "blind spot" in insurance industry regulation, and there is 
@@ -51,7 +52,6 @@ Total: 3000 manchetes
   - [china] Aluminum Corporation Of China Says Guinea Subsidiary Signs EPC Contract With China Aluminum International Engi
   - [japan] School bullying in Japan hit record high in fiscal 2025
   - [china] EU weighs tighter export controls to prevent battery waste going to China
-  - [korea] Samsung revamps chip division to sharpen its AI edge
   - [china] China's central bank promises flexible and effective use of monetary policy tools
   - [korea] Daesang Corporation Seaweed Sales Rose ~30% to KRW 200.0B
   - [korea] Micron, SK Hynix, Samsung in focus as GF cuts DRAM prices for 2027
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-28T05:22:42+00:00",
+      "published_utc": "2026-11-28T05:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

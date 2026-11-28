@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-28T05:22:42.505342+00:00",
- "collected_at_utc": "2026-11-28T05:22:42.505342+00:00",
+ "generated_at_utc": "2026-11-28T05:32:44.969837+00:00",
+ "collected_at_utc": "2026-11-28T05:32:44.969837+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 337,
   "korea": 736
  },
- "elapsed_s": 28.7,
+ "elapsed_s": 32.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-28T03:42:10+00:00"
+   "newest": "2026-11-28T05:02:55+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T08:54:00+00:00"
+   "newest": "2026-11-27T23:33:45+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T03:08:33+00:00"
+   "newest": "2026-11-27T03:11:11+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-28T03:15:22+00:00"
+   "newest": "2026-11-28T05:00:00+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -345,8 +345,8 @@
  "falhas_seguidas": {},
  "items": [
   {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
    "title_en": "China’s import logistics demand falls 0.6% in January-October",
    "url": "https://www.investing.com/news/economy-news/chinas-import-logistics-demand-falls-06-in-januaryoctober-5054171",
    "published_utc": "2026-11-28T05:02:55+00:00",
@@ -357,9 +357,9 @@
    ],
    "lang_original": "en",
    "translated": false,
-   "live_wire": true,
+   "live_wire": false,
    "manual": false,
-   "id": "5440b4b21dbbd52c"
+   "id": "bef3e20e2e242aef"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -447,6 +447,23 @@
    "live_wire": false,
    "manual": false,
    "id": "fda0d957d7e53067"
+  },
+  {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "Samsung revamps chip division to sharpen its AI edge",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kc2lURUpNNFVPbHlBOXFleG1iRkxlZTRxbDUxc2tsOW9WSndST2NYQ0l3VVNNOHJMZDJhSXVHYjUtekRwdzdUa0hRV242S0ZqXzhhM0hYUUc4R3Iwaml1OVFWY2RsUkY0eXJOSVRFa1J1M1Vya3NlRg?oc=5",
+   "published_utc": "2026-11-27T22:08:07+00:00",
+   "title_original": "Samsung revamps chip division to sharpen its AI edge",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "06994ea2a4600403"
   },
   {
    "source_id": "nikkei_asia",
@@ -930,23 +947,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a156026cc33d457c"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "Samsung revamps chip division to sharpen its AI edge",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kc2lURUpNNFVPbHlBOXFleG1iRkxlZTRxbDUxc2tsOW9WSndST2NYQ0l3VVNNOHJMZDJhSXVHYjUtekRwdzdUa0hRV242S0ZqXzhhM0hYUUc4R3Iwaml1OVFWY2RsUkY0eXJOSVRFa1J1M1Vya3NlRg?oc=5",
-   "published_utc": "2026-11-27T13:19:37+00:00",
-   "title_original": "Samsung revamps chip division to sharpen its AI edge",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "06994ea2a4600403"
   },
   {
    "source_id": "tradingview_live",
@@ -5511,6 +5511,24 @@
    "id": "d5acf86df457943f"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "Sohu",
+   "title_en": "The central bank launched a 571.5 billion yuan overnight reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcHBxTk1SZ092b0pGMV9QRjB3bXY3MTJoNjFSUGhqTmhrNVVucWNneUptNU9MN2x6Q1h0aU9vYS1LUk1tcFJSd2VSWTQyUllzNVFfX1A4Y2J4V0x2VVJYczBjMXo1aWt0ekdYVU5NcEN3RGVPY0ZGMVBTM2xqODcyTHRUWGlBcDA4QnV2Vg?oc=5",
+   "published_utc": "2026-11-26T02:23:50+00:00",
+   "title_original": "央行今日开展5715亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "fe9520fd6d5bb3de"
+  },
+  {
    "source_id": "gn_kr_bok",
    "source_name": "톱데일리",
    "title_en": "The Bank of Korea raises the base interest rate by 3.25% per year... Next year’s growth rate increased significantly by 4.1%",
@@ -5845,24 +5863,6 @@
    "live_wire": false,
    "manual": false,
    "id": "2364739c6fc11d6b"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "证券之星",
-   "title_en": "The central bank launched a 571.5 billion yuan overnight reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84STU1ek1iV0Y3SF9Rb0J5YkwtamZMTndsNDhNSG9GZXNld3VOM09mODFuS1lIblRwdnppNDZvN1BNdmEzVURsZ1pyQkpZUl9RNzhRemRUUkNfdE1FeEsyMkF3?oc=5",
-   "published_utc": "2026-11-26T01:26:27+00:00",
-   "title_original": "央行今日开展5715亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "717acaf5c31ed336"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -25840,6 +25840,23 @@
   {
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局",
+   "title_en": "Yang Caifang, senior statistician of the Urban Department of the National Bureau of Statistics, interprets the statistical data on sales price changes of commercial housing in October 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LUm5SMjhucHBGb2NaS1E4c1VXd2xzQ0ZzS0dURV9iNDlsMlcxQ2FDLWpwalJwRHVPUDExX3BVY081Q1pPbE1ZR2h3SENHY2JvdzluaWdjc0Q3U3ZzcTJsdzhvOExXZTdaeVJVY09sUQ?oc=5",
+   "published_utc": "2026-11-16T08:00:00+00:00",
+   "title_original": "国家统计局城市司高级统计师杨彩芳解读2026年10月份商品住宅销售价格变动情况统计数据",
+   "region": "china",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "3543965634941837"
+  },
+  {
+   "source_id": "gn_cn_nbs",
+   "source_name": "国家统计局",
    "title_en": "Changes in Residential Property Sales Prices in 70 Major and Medium-Sized Cities in October 2026",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Rb01zQzBERW9sSDZIQW5MRlJjZXV6SktYajlXRll3MHZwM2hVMFRMdV9NM29kM1RPLXg0TEJ2TUxna1RZVmpSdzBfU3o3bnp0T0UzNmU1dE1xaVlTSkUxa2tuUWtnaG1SZm5qMFNNSGg5VWt1?oc=5",
    "published_utc": "2026-11-16T08:00:00+00:00",
@@ -27043,23 +27060,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6926a5624bf18536"
-  },
-  {
-   "source_id": "gn_cn_nbs",
-   "source_name": "国家统计局",
-   "title_en": "Yang Caifang, senior statistician of the Urban Department of the National Bureau of Statistics, interprets the statistical data on sales price changes of commercial housing in October 2026",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkcEItSGdZOV94WVpWN2tkbmFsa3JQMm9mQk1CRkpDZnJheWxJZDdmOS1GcnJtdEp5bGhmTHBqNmt5N0haT1ZPX0xUX3VEV0E0dk5TSlRNYUZxeUlERWNGS281NTRhOWFVdEVDYURLMDV3bkFk?oc=5",
-   "published_utc": "2026-11-16T01:30:00+00:00",
-   "title_original": "国家统计局城市司高级统计师杨彩芳解读2026年10月份商品住宅销售价格变动情况统计数据",
-   "region": "china",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "443e45a795f32343"
   },
   {
    "source_id": "gn_cn_pboc",
