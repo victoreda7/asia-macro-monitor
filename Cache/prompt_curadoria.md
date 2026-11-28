@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-28T01:36:41.590484+00:00
+Última coleta: 2026-11-28T01:42:43.367651+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          953
-  🇨🇳 China          969
+  🇯🇵 Japão          954
+  🇨🇳 China          970
   🇹🇼 Taiwan         338
-  🇰🇷 Coreia do Sul  740
+  🇰🇷 Coreia do Sul  738
 
 ## O que já está no feed (não repita)
 
+  - [japan] What is the "unexpected asset" that a former Bank of Japan investment professional is currently paying attenti
   - [japan] Why did “Kappa Sushi” fall into the red?
   - [japan] Tokyo leads world in office rent, price growth as employers vie for prime space
   - [taiwan] Semiconductor competition between Taiwan and South Korea extends to the advanced packaging field! Samsung, TSM
@@ -39,6 +40,7 @@ Total: 3000 manchetes
   - [korea] Midday Need to Know: Brazil stocks surge, SK Hynix boosts buybacks & more
   - [japan] Japan's data center subsidies to weigh local impact as backlash grows
   - [china] German Companies in China Adapt to Persistent Price Pressure
+  - [china] EU to Probe China and Singapore Sustainable Aviation Fuel Imports
   - [korea] SK Hynix increases buybacks following recent share skid: report
   - [korea] Micron, SK Hynix and SanDisk Stocks Rise — What's the Verdict on Demand?
   - [japan] Liberal Democratic Party Vice President Aso, Foreign Minister Motegi and others meet to pass consumption tax r
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China's central bank pledges flexible and effective use of monetary policy tools
   - [china] NVIDIA Blackwell chips surface at China site tied to Megaspeed - Bloomberg
   - [china] EU launches anti-dumping probe into China, Singapore sustainable aviation fuel imports
-  - [japan] Electricity charges for December usage drop at 10 major companies due to resumption of government subsidies
-  - [taiwan] Taiwan's 2026 GDP growth forecast raised to 13.28%, highest since 1978
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-28T01:36:41+00:00",
+      "published_utc": "2026-11-28T01:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
